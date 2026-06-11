@@ -1,0 +1,2007 @@
+event_id,shipment_id,employee_id,event_type,location,notes,occurred_at
+1,1,21,created,Kyzylorda,,2023-09-25 11:01:00
+2,1,5,picked_up,Taraz,,2023-09-26 10:01:00
+3,1,20,arrived_warehouse,Taraz,,2023-09-27 11:01:00
+4,1,3,departed_warehouse,Almaty,,2023-09-27 18:01:00
+5,1,8,out_for_delivery,Astana,,2023-09-28 12:01:00
+6,2,14,created,Atyrau,,2023-11-04 07:04:00
+7,2,15,picked_up,Pavlodar,,2023-11-05 13:04:00
+8,2,39,arrived_warehouse,Almaty,,2023-11-06 17:04:00
+9,2,9,departed_warehouse,Aktau,,2023-11-07 00:04:00
+10,2,8,out_for_delivery,Taraz,,2023-11-07 08:04:00
+11,2,1,delivered,Pavlodar,,2023-11-07 15:04:00
+12,3,41,created,Atyrau,,2023-05-02 08:04:00
+13,3,25,picked_up,Atyrau,,2023-05-02 21:04:00
+14,3,33,arrived_warehouse,Atyrau,,2023-05-03 14:04:00
+15,3,45,departed_warehouse,Astana,,2023-05-04 18:04:00
+16,3,50,out_for_delivery,Aktau,,2023-05-05 17:04:00
+17,3,28,delivered,Semey,,2023-05-06 02:04:00
+18,4,15,created,Uralsk,,2024-05-29 10:07:00
+19,4,50,picked_up,Petropavl,,2024-05-30 06:07:00
+20,4,42,arrived_warehouse,Aktau,Me industry class current painting their.,2024-05-31 06:07:00
+21,4,45,departed_warehouse,Karaganda,Political them never.,2024-06-01 06:07:00
+22,4,45,out_for_delivery,Uralsk,,2024-06-01 17:07:00
+23,4,23,delivered,Almaty,,2024-06-02 06:07:00
+24,5,50,created,Shymkent,,2025-05-08 17:13:00
+25,5,21,picked_up,Astana,Represent middle by base.,2025-05-09 05:13:00
+26,5,28,arrived_warehouse,Shymkent,,2025-05-10 07:13:00
+27,5,46,departed_warehouse,Aktobe,,2025-05-11 03:13:00
+28,5,43,out_for_delivery,Uralsk,,2025-05-12 08:13:00
+29,6,10,created,Aktobe,,2026-03-20 12:46:00
+30,6,13,cancelled,Shymkent,,2026-03-20 23:46:00
+31,7,24,created,Pavlodar,,2025-06-30 23:33:00
+32,7,27,picked_up,Uralsk,,2025-07-01 14:33:00
+33,7,4,arrived_warehouse,Uralsk,,2025-07-02 12:33:00
+34,7,5,departed_warehouse,Pavlodar,Evening town challenge join.,2025-07-03 01:33:00
+35,7,25,out_for_delivery,Karaganda,,2025-07-04 01:33:00
+36,7,43,delivered,Kyzylorda,,2025-07-05 07:33:00
+37,8,24,created,Almaty,,2025-03-05 04:41:00
+38,8,14,picked_up,Pavlodar,,2025-03-05 12:41:00
+39,8,13,arrived_warehouse,Aktobe,,2025-03-06 06:41:00
+40,8,5,departed_warehouse,Karaganda,,2025-03-06 13:41:00
+41,8,33,out_for_delivery,Uralsk,,2025-03-06 19:41:00
+42,8,34,delivered,Almaty,,2025-03-07 21:41:00
+43,9,34,created,Petropavl,,2023-11-29 14:35:00
+44,9,49,picked_up,Shymkent,,2023-11-29 19:35:00
+45,9,10,arrived_warehouse,Petropavl,,2023-11-30 14:35:00
+46,9,29,departed_warehouse,Kyzylorda,,2023-12-01 00:35:00
+47,9,27,out_for_delivery,Almaty,,2023-12-01 03:35:00
+48,9,16,delivered,Oskemen,,2023-12-01 17:35:00
+49,10,25,created,Pavlodar,,2025-08-25 13:55:00
+50,11,21,created,Kyzylorda,,2026-04-01 15:02:00
+51,11,35,picked_up,Semey,,2026-04-02 06:02:00
+52,11,42,arrived_warehouse,Aktobe,,2026-04-03 09:02:00
+53,11,50,departed_warehouse,Almaty,,2026-04-04 15:02:00
+54,11,18,out_for_delivery,Astana,,2026-04-05 04:02:00
+55,11,26,delivered,Kostanay,,2026-04-05 20:02:00
+56,12,5,created,Taraz,,2025-05-12 16:40:00
+57,12,33,picked_up,Uralsk,,2025-05-13 06:40:00
+58,12,2,arrived_warehouse,Shymkent,,2025-05-13 14:40:00
+59,12,29,departed_warehouse,Almaty,,2025-05-14 14:40:00
+60,12,50,out_for_delivery,Taraz,,2025-05-15 00:40:00
+61,12,37,delivered,Almaty,,2025-05-15 15:40:00
+62,13,46,created,Semey,,2025-03-24 18:54:00
+63,13,44,picked_up,Petropavl,,2025-03-25 22:54:00
+64,13,23,arrived_warehouse,Kostanay,Dog yes heart agreement us stuff.,2025-03-26 22:54:00
+65,13,19,departed_warehouse,Kyzylorda,,2025-03-27 18:54:00
+66,13,46,out_for_delivery,Kostanay,,2025-03-28 02:54:00
+67,13,12,delivered,Uralsk,,2025-03-29 01:54:00
+68,14,9,created,Taraz,,2026-03-13 22:40:00
+69,14,6,picked_up,Aktau,,2026-03-14 18:40:00
+70,14,38,arrived_warehouse,Shymkent,,2026-03-15 15:40:00
+71,14,47,departed_warehouse,Kyzylorda,,2026-03-16 13:40:00
+72,14,37,out_for_delivery,Almaty,,2026-03-17 18:40:00
+73,14,6,delivered,Almaty,,2026-03-17 21:40:00
+74,15,13,created,Uralsk,,2026-07-06 02:59:00
+75,16,24,created,Uralsk,,2025-10-23 00:08:00
+76,16,24,picked_up,Uralsk,,2025-10-23 20:08:00
+77,16,33,out_for_delivery,Oskemen,,2025-10-24 18:08:00
+78,16,3,failed_attempt,Shymkent,,2025-10-24 22:08:00
+79,16,31,returned,Aktau,,2025-10-26 02:08:00
+80,17,41,created,Kostanay,,2026-06-13 03:37:00
+81,17,25,picked_up,Shymkent,,2026-06-14 08:37:00
+82,17,3,arrived_warehouse,Atyrau,,2026-06-14 18:37:00
+83,17,13,departed_warehouse,Almaty,,2026-06-15 00:37:00
+84,17,10,out_for_delivery,Oskemen,,2026-06-15 16:37:00
+85,17,33,delivered,Uralsk,,2026-06-16 08:37:00
+86,18,25,created,Kyzylorda,,2026-09-14 08:07:00
+87,18,23,picked_up,Uralsk,,2026-09-15 13:07:00
+88,18,3,arrived_warehouse,Karaganda,,2026-09-16 01:07:00
+89,18,23,departed_warehouse,Kyzylorda,,2026-09-16 06:07:00
+90,18,48,out_for_delivery,Semey,,2026-09-16 17:07:00
+91,18,35,delivered,Karaganda,,2026-09-17 22:07:00
+92,19,31,created,Taraz,,2025-12-21 08:41:00
+93,19,21,picked_up,Karaganda,,2025-12-21 20:41:00
+94,19,6,arrived_warehouse,Taraz,,2025-12-22 23:41:00
+95,19,48,departed_warehouse,Kostanay,,2025-12-23 19:41:00
+96,19,12,out_for_delivery,Oskemen,,2025-12-23 23:41:00
+97,19,3,delivered,Petropavl,,2025-12-24 07:41:00
+98,20,33,created,Kyzylorda,,2023-08-07 15:19:00
+99,20,50,picked_up,Karaganda,,2023-08-08 16:19:00
+100,20,19,arrived_warehouse,Pavlodar,,2023-08-09 15:19:00
+101,20,9,departed_warehouse,Semey,,2023-08-10 01:19:00
+102,20,39,out_for_delivery,Pavlodar,,2023-08-11 03:19:00
+103,20,31,delivered,Uralsk,,2023-08-11 23:19:00
+104,21,9,created,Uralsk,,2026-12-05 11:18:00
+105,21,42,picked_up,Oskemen,,2026-12-06 13:18:00
+106,21,29,arrived_warehouse,Petropavl,,2026-12-07 04:18:00
+107,21,25,departed_warehouse,Astana,,2026-12-07 19:18:00
+108,21,35,out_for_delivery,Shymkent,,2026-12-08 19:18:00
+109,21,8,delivered,Shymkent,,2026-12-09 09:18:00
+110,22,46,created,Petropavl,Social case expert stop receive catch.,2026-01-19 17:02:00
+111,22,3,picked_up,Oskemen,,2026-01-20 19:02:00
+112,22,14,arrived_warehouse,Uralsk,,2026-01-21 15:02:00
+113,22,9,departed_warehouse,Aktau,,2026-01-21 19:02:00
+114,22,47,out_for_delivery,Atyrau,,2026-01-22 05:02:00
+115,22,50,delivered,Taraz,,2026-01-23 03:02:00
+116,23,46,created,Shymkent,,2026-02-07 17:54:00
+117,23,36,picked_up,Oskemen,,2026-02-07 21:54:00
+118,23,34,arrived_warehouse,Shymkent,,2026-02-08 17:54:00
+119,23,14,departed_warehouse,Pavlodar,,2026-02-09 04:54:00
+120,23,24,out_for_delivery,Astana,,2026-02-09 21:54:00
+121,23,13,delivered,Almaty,,2026-02-11 02:54:00
+122,24,21,created,Uralsk,,2025-08-30 07:25:00
+123,24,35,picked_up,Taraz,,2025-08-31 00:25:00
+124,24,24,arrived_warehouse,Aktau,,2025-08-31 11:25:00
+125,24,7,departed_warehouse,Uralsk,,2025-09-01 04:25:00
+126,24,49,out_for_delivery,Petropavl,,2025-09-01 22:25:00
+127,24,24,delivered,Pavlodar,,2025-09-02 07:25:00
+128,25,43,created,Almaty,,2025-05-04 21:02:00
+129,25,9,picked_up,Petropavl,,2025-05-05 13:02:00
+130,25,46,arrived_warehouse,Shymkent,Large accept bad eight strong nature road.,2025-05-05 18:02:00
+131,25,30,departed_warehouse,Pavlodar,Institution simply down business draw police performance.,2025-05-06 13:02:00
+132,25,43,out_for_delivery,Kyzylorda,,2025-05-07 12:02:00
+133,25,43,delivered,Semey,Book toward others administration.,2025-05-08 06:02:00
+134,26,44,created,Kyzylorda,,2026-11-20 20:17:00
+135,27,6,created,Aktau,,2026-12-24 12:50:00
+136,27,4,picked_up,Astana,,2026-12-25 02:50:00
+137,27,5,arrived_warehouse,Pavlodar,,2026-12-26 07:50:00
+138,27,39,departed_warehouse,Oskemen,,2026-12-27 05:50:00
+139,27,2,out_for_delivery,Taraz,,2026-12-27 18:50:00
+140,27,32,delivered,Aktobe,,2026-12-28 11:50:00
+141,28,27,created,Oskemen,,2024-05-10 01:55:00
+142,28,36,picked_up,Kyzylorda,,2024-05-11 03:55:00
+143,28,37,arrived_warehouse,Aktau,,2024-05-11 13:55:00
+144,28,11,departed_warehouse,Shymkent,,2024-05-12 04:55:00
+145,28,32,out_for_delivery,Shymkent,Model guess well name.,2024-05-12 15:55:00
+146,28,18,delivered,Oskemen,,2024-05-13 07:55:00
+147,29,21,created,Karaganda,,2023-08-05 06:20:00
+148,29,32,picked_up,Atyrau,,2023-08-06 05:20:00
+149,29,25,arrived_warehouse,Karaganda,,2023-08-06 18:20:00
+150,29,24,departed_warehouse,Astana,,2023-08-07 09:20:00
+151,29,38,out_for_delivery,Aktau,,2023-08-07 18:20:00
+152,30,42,created,Oskemen,,2023-05-13 08:36:00
+153,30,28,picked_up,Astana,Never hospital like player wonder effect administration.,2023-05-13 21:36:00
+154,30,15,arrived_warehouse,Aktau,,2023-05-14 08:36:00
+155,30,38,departed_warehouse,Kostanay,,2023-05-15 04:36:00
+156,30,24,out_for_delivery,Oskemen,,2023-05-15 21:36:00
+157,30,38,delivered,Kostanay,,2023-05-16 21:36:00
+158,31,12,created,Pavlodar,,2024-12-02 13:06:00
+159,31,8,picked_up,Karaganda,,2024-12-03 06:06:00
+160,31,34,arrived_warehouse,Taraz,,2024-12-04 00:06:00
+161,31,40,departed_warehouse,Oskemen,,2024-12-04 15:06:00
+162,31,23,out_for_delivery,Petropavl,,2024-12-05 05:06:00
+163,31,44,delivered,Kostanay,,2024-12-05 13:06:00
+164,32,18,created,Uralsk,,2025-01-26 22:32:00
+165,32,35,picked_up,Petropavl,,2025-01-27 12:32:00
+166,32,47,arrived_warehouse,Semey,,2025-01-28 15:32:00
+167,32,7,departed_warehouse,Kostanay,,2025-01-29 07:32:00
+168,32,16,out_for_delivery,Karaganda,,2025-01-30 10:32:00
+169,33,24,created,Semey,,2026-04-18 15:32:00
+170,33,38,picked_up,Almaty,,2026-04-19 04:32:00
+171,33,47,arrived_warehouse,Astana,,2026-04-20 10:32:00
+172,33,41,departed_warehouse,Taraz,,2026-04-21 03:32:00
+173,33,5,out_for_delivery,Uralsk,,2026-04-22 09:32:00
+174,34,38,created,Aktobe,,2024-11-20 15:13:00
+175,34,1,picked_up,Almaty,,2024-11-21 08:13:00
+176,34,8,arrived_warehouse,Petropavl,,2024-11-22 13:13:00
+177,34,31,departed_warehouse,Astana,,2024-11-22 20:13:00
+178,34,47,out_for_delivery,Uralsk,,2024-11-23 01:13:00
+179,34,24,delivered,Kyzylorda,,2024-11-23 14:13:00
+180,35,43,created,Kyzylorda,,2026-05-24 15:49:00
+181,35,39,picked_up,Aktau,,2026-05-25 10:49:00
+182,35,19,arrived_warehouse,Taraz,Card good full poor store range.,2026-05-26 01:49:00
+183,35,16,departed_warehouse,Semey,,2026-05-27 05:49:00
+184,35,32,out_for_delivery,Taraz,,2026-05-27 15:49:00
+185,35,1,delivered,Pavlodar,,2026-05-28 10:49:00
+186,36,27,created,Oskemen,,2025-08-14 15:40:00
+187,36,41,picked_up,Aktau,,2025-08-14 20:40:00
+188,36,18,arrived_warehouse,Astana,,2025-08-15 03:40:00
+189,36,14,departed_warehouse,Uralsk,,2025-08-15 22:40:00
+190,36,26,out_for_delivery,Atyrau,,2025-08-16 11:40:00
+191,37,4,created,Semey,,2023-06-16 23:31:00
+192,38,42,created,Oskemen,,2025-11-08 18:51:00
+193,38,27,picked_up,Kyzylorda,,2025-11-09 04:51:00
+194,38,5,arrived_warehouse,Atyrau,,2025-11-09 15:51:00
+195,38,44,departed_warehouse,Kyzylorda,Place specific as simply leader fall analysis.,2025-11-10 10:51:00
+196,38,34,out_for_delivery,Almaty,,2025-11-10 20:51:00
+197,39,30,created,Kostanay,Though firm financial huge spring.,2023-01-14 06:26:00
+198,39,33,picked_up,Shymkent,,2023-01-14 12:26:00
+199,39,5,arrived_warehouse,Atyrau,,2023-01-15 03:26:00
+200,39,43,departed_warehouse,Shymkent,,2023-01-15 19:26:00
+201,39,21,out_for_delivery,Kyzylorda,,2023-01-16 06:26:00
+202,39,48,delivered,Pavlodar,,2023-01-17 07:26:00
+203,40,9,created,Astana,Son join hundred keep.,2025-06-30 22:15:00
+204,40,50,picked_up,Aktobe,,2025-07-02 03:15:00
+205,40,26,arrived_warehouse,Pavlodar,,2025-07-03 08:15:00
+206,40,6,departed_warehouse,Atyrau,,2025-07-04 07:15:00
+207,40,5,out_for_delivery,Almaty,,2025-07-05 12:15:00
+208,41,18,created,Semey,,2025-07-31 00:13:00
+209,42,31,created,Aktau,,2025-08-30 22:24:00
+210,42,37,cancelled,Aktau,,2025-08-31 12:24:00
+211,43,39,created,Aktobe,Risk bad own state.,2025-08-22 01:02:00
+212,44,3,created,Shymkent,,2024-10-15 11:54:00
+213,44,40,picked_up,Aktobe,,2024-10-16 15:54:00
+214,44,32,arrived_warehouse,Shymkent,,2024-10-16 21:54:00
+215,44,16,departed_warehouse,Pavlodar,,2024-10-17 02:54:00
+216,44,41,out_for_delivery,Kyzylorda,,2024-10-17 10:54:00
+217,44,46,delivered,Taraz,,2024-10-18 15:54:00
+218,45,7,created,Almaty,,2022-12-25 22:42:00
+219,45,32,picked_up,Shymkent,Family bill foreign fast knowledge response coach.,2022-12-26 18:42:00
+220,45,28,arrived_warehouse,Astana,,2022-12-26 21:42:00
+221,45,41,departed_warehouse,Atyrau,,2022-12-27 21:42:00
+222,45,2,out_for_delivery,Aktobe,,2022-12-28 03:42:00
+223,45,6,delivered,Semey,,2022-12-28 15:42:00
+224,46,34,created,Oskemen,,2024-01-05 02:35:00
+225,46,31,picked_up,Atyrau,,2024-01-06 02:35:00
+226,46,20,arrived_warehouse,Astana,,2024-01-06 20:35:00
+227,46,46,departed_warehouse,Almaty,,2024-01-08 02:35:00
+228,46,37,out_for_delivery,Taraz,,2024-01-08 21:35:00
+229,46,8,delivered,Uralsk,,2024-01-09 04:35:00
+230,47,35,created,Kyzylorda,,2026-07-07 05:49:00
+231,47,17,picked_up,Oskemen,,2026-07-07 21:49:00
+232,47,39,arrived_warehouse,Semey,Well central parent sit.,2026-07-08 18:49:00
+233,47,26,departed_warehouse,Shymkent,,2026-07-09 05:49:00
+234,47,45,out_for_delivery,Oskemen,Call door population.,2026-07-10 05:49:00
+235,47,45,delivered,Aktobe,Him note painting quickly we head.,2026-07-10 18:49:00
+236,48,12,created,Petropavl,,2026-11-26 04:23:00
+237,48,23,cancelled,Pavlodar,,2026-11-27 00:23:00
+238,49,46,created,Kostanay,,2026-03-16 23:16:00
+239,50,13,created,Pavlodar,,2026-10-12 05:37:00
+240,50,44,picked_up,Aktau,,2026-10-12 15:37:00
+241,50,43,arrived_warehouse,Pavlodar,,2026-10-13 09:37:00
+242,50,11,departed_warehouse,Petropavl,,2026-10-14 15:37:00
+243,50,12,out_for_delivery,Karaganda,Off morning huge power.,2026-10-15 11:37:00
+244,50,48,delivered,Karaganda,,2026-10-15 18:37:00
+245,51,21,created,Taraz,Whether ago control military trial.,2024-09-17 17:31:00
+246,51,18,picked_up,Aktobe,,2024-09-18 10:31:00
+247,51,37,arrived_warehouse,Uralsk,,2024-09-18 18:31:00
+248,51,49,departed_warehouse,Uralsk,Energy employee land you.,2024-09-19 22:31:00
+249,51,28,out_for_delivery,Taraz,,2024-09-20 20:31:00
+250,52,3,created,Oskemen,,2023-01-27 13:23:00
+251,52,50,picked_up,Aktau,,2023-01-28 00:23:00
+252,52,4,arrived_warehouse,Taraz,,2023-01-28 22:23:00
+253,52,2,departed_warehouse,Almaty,,2023-01-30 03:23:00
+254,52,29,out_for_delivery,Oskemen,,2023-01-30 19:23:00
+255,52,31,delivered,Kostanay,,2023-01-31 06:23:00
+256,53,19,created,Shymkent,Really your customer career available.,2026-05-21 08:12:00
+257,53,14,picked_up,Kostanay,,2026-05-22 02:12:00
+258,53,16,arrived_warehouse,Almaty,Together knowledge because radio.,2026-05-22 15:12:00
+259,53,8,departed_warehouse,Petropavl,,2026-05-22 20:12:00
+260,53,10,out_for_delivery,Astana,,2026-05-23 14:12:00
+261,53,47,delivered,Kostanay,,2026-05-23 19:12:00
+262,54,29,created,Almaty,Property remember nearly face feel church.,2023-03-20 07:58:00
+263,54,21,picked_up,Almaty,,2023-03-21 06:58:00
+264,54,34,arrived_warehouse,Uralsk,,2023-03-22 06:58:00
+265,54,37,departed_warehouse,Aktobe,,2023-03-23 08:58:00
+266,54,22,out_for_delivery,Aktau,,2023-03-24 08:58:00
+267,54,40,delivered,Astana,,2023-03-25 09:58:00
+268,55,4,created,Aktau,,2026-06-02 00:15:00
+269,55,25,cancelled,Oskemen,,2026-06-02 23:15:00
+270,56,42,created,Taraz,,2023-08-22 21:56:00
+271,56,24,picked_up,Petropavl,Soldier meeting building cut.,2023-08-23 10:56:00
+272,56,30,arrived_warehouse,Pavlodar,,2023-08-23 20:56:00
+273,56,39,departed_warehouse,Semey,,2023-08-24 18:56:00
+274,56,46,out_for_delivery,Semey,,2023-08-25 08:56:00
+275,56,43,delivered,Aktobe,Door management guess occur.,2023-08-26 11:56:00
+276,57,18,created,Oskemen,,2023-03-29 03:58:00
+277,57,29,picked_up,Uralsk,,2023-03-29 15:58:00
+278,57,39,arrived_warehouse,Kostanay,,2023-03-30 07:58:00
+279,57,20,departed_warehouse,Petropavl,,2023-03-31 02:58:00
+280,57,21,out_for_delivery,Kostanay,,2023-04-01 08:58:00
+281,57,41,delivered,Aktobe,,2023-04-02 04:58:00
+282,58,16,created,Aktau,,2023-12-23 02:47:00
+283,58,45,picked_up,Karaganda,,2023-12-24 06:47:00
+284,58,25,out_for_delivery,Oskemen,,2023-12-24 10:47:00
+285,58,44,failed_attempt,Pavlodar,,2023-12-25 14:47:00
+286,58,1,returned,Kostanay,,2023-12-25 18:47:00
+287,59,3,created,Shymkent,,2026-04-15 15:21:00
+288,59,4,picked_up,Uralsk,,2026-04-16 13:21:00
+289,59,43,arrived_warehouse,Karaganda,,2026-04-17 11:21:00
+290,59,36,departed_warehouse,Pavlodar,Sound necessary partner beat finally yourself rest.,2026-04-18 08:21:00
+291,59,21,out_for_delivery,Aktau,,2026-04-19 09:21:00
+292,59,34,delivered,Astana,,2026-04-19 17:21:00
+293,60,43,created,Taraz,,2024-11-01 01:00:00
+294,60,44,picked_up,Oskemen,,2024-11-02 07:00:00
+295,60,35,arrived_warehouse,Petropavl,,2024-11-02 16:00:00
+296,60,50,departed_warehouse,Oskemen,,2024-11-03 18:00:00
+297,60,48,out_for_delivery,Taraz,,2024-11-03 23:00:00
+298,60,46,delivered,Pavlodar,Improve important offer by first avoid letter.,2024-11-04 16:00:00
+299,61,47,created,Taraz,,2025-04-06 12:40:00
+300,61,36,cancelled,Petropavl,,2025-04-06 15:40:00
+301,62,19,created,Taraz,Story million fight class.,2024-09-15 21:29:00
+302,62,13,picked_up,Kostanay,,2024-09-16 03:29:00
+303,62,23,out_for_delivery,Shymkent,,2024-09-16 16:29:00
+304,62,7,failed_attempt,Karaganda,,2024-09-17 02:29:00
+305,62,21,returned,Semey,,2024-09-17 11:29:00
+306,63,33,created,Taraz,Ever person pass behavior political option oil.,2024-10-04 12:46:00
+307,63,38,picked_up,Oskemen,,2024-10-05 09:46:00
+308,63,3,arrived_warehouse,Aktau,,2024-10-05 18:46:00
+309,63,31,departed_warehouse,Taraz,,2024-10-06 14:46:00
+310,63,26,out_for_delivery,Aktobe,,2024-10-07 04:46:00
+311,63,47,delivered,Petropavl,,2024-10-08 01:46:00
+312,64,23,created,Semey,,2026-06-08 22:25:00
+313,64,1,picked_up,Aktau,,2026-06-09 20:25:00
+314,64,11,arrived_warehouse,Aktobe,Probably result painting successful.,2026-06-10 13:25:00
+315,64,18,departed_warehouse,Aktobe,,2026-06-11 12:25:00
+316,64,24,out_for_delivery,Atyrau,,2026-06-11 20:25:00
+317,65,11,created,Kostanay,,2024-02-26 21:39:00
+318,65,39,picked_up,Atyrau,American tell ball we side enough decision.,2024-02-27 14:39:00
+319,65,25,arrived_warehouse,Shymkent,,2024-02-28 05:39:00
+320,65,34,departed_warehouse,Petropavl,,2024-02-28 14:39:00
+321,65,27,out_for_delivery,Petropavl,,2024-02-29 14:39:00
+322,65,12,delivered,Semey,,2024-02-29 20:39:00
+323,66,49,created,Aktobe,,2026-05-15 08:17:00
+324,66,36,picked_up,Semey,,2026-05-16 12:17:00
+325,66,36,arrived_warehouse,Semey,,2026-05-17 08:17:00
+326,66,37,departed_warehouse,Pavlodar,,2026-05-17 20:17:00
+327,66,48,out_for_delivery,Shymkent,,2026-05-18 11:17:00
+328,66,8,delivered,Kostanay,,2026-05-19 11:17:00
+329,67,5,created,Kyzylorda,Father authority art keep machine daughter.,2026-12-09 12:33:00
+330,67,47,picked_up,Petropavl,,2026-12-10 00:33:00
+331,67,23,arrived_warehouse,Pavlodar,,2026-12-10 21:33:00
+332,67,15,departed_warehouse,Atyrau,,2026-12-11 08:33:00
+333,67,26,out_for_delivery,Atyrau,Century technology floor write generation human set middle.,2026-12-12 01:33:00
+334,67,27,delivered,Aktau,,2026-12-12 09:33:00
+335,68,18,created,Shymkent,,2025-06-23 12:20:00
+336,68,13,picked_up,Semey,,2025-06-24 12:20:00
+337,68,48,arrived_warehouse,Aktobe,,2025-06-24 22:20:00
+338,68,15,departed_warehouse,Aktobe,,2025-06-25 07:20:00
+339,68,40,out_for_delivery,Pavlodar,,2025-06-26 12:20:00
+340,69,32,created,Oskemen,,2026-01-08 23:39:00
+341,69,49,picked_up,Pavlodar,,2026-01-10 00:39:00
+342,69,18,arrived_warehouse,Semey,,2026-01-10 15:39:00
+343,69,37,departed_warehouse,Taraz,,2026-01-10 22:39:00
+344,69,47,out_for_delivery,Karaganda,,2026-01-11 04:39:00
+345,69,28,delivered,Petropavl,,2026-01-12 00:39:00
+346,70,35,created,Shymkent,,2026-07-06 10:36:00
+347,70,23,picked_up,Pavlodar,,2026-07-06 22:36:00
+348,70,50,arrived_warehouse,Kostanay,,2026-07-07 16:36:00
+349,70,25,departed_warehouse,Atyrau,,2026-07-07 21:36:00
+350,70,10,out_for_delivery,Petropavl,,2026-07-08 20:36:00
+351,70,22,delivered,Oskemen,,2026-07-10 00:36:00
+352,71,2,created,Almaty,,2026-08-22 18:08:00
+353,71,21,picked_up,Petropavl,,2026-08-24 00:08:00
+354,71,35,arrived_warehouse,Kyzylorda,,2026-08-25 06:08:00
+355,71,9,departed_warehouse,Kostanay,,2026-08-25 23:08:00
+356,71,39,out_for_delivery,Semey,,2026-08-26 20:08:00
+357,71,37,delivered,Oskemen,,2026-08-27 19:08:00
+358,72,25,created,Aktobe,,2025-01-16 01:45:00
+359,72,41,picked_up,Aktobe,,2025-01-16 17:45:00
+360,72,40,arrived_warehouse,Uralsk,,2025-01-17 21:45:00
+361,72,19,departed_warehouse,Taraz,,2025-01-18 08:45:00
+362,72,18,out_for_delivery,Oskemen,,2025-01-19 12:45:00
+363,72,12,delivered,Shymkent,,2025-01-19 17:45:00
+364,73,7,created,Aktau,,2023-04-09 11:12:00
+365,74,35,created,Uralsk,,2026-01-30 09:22:00
+366,74,15,picked_up,Pavlodar,,2026-01-31 03:22:00
+367,74,42,arrived_warehouse,Uralsk,,2026-02-01 07:22:00
+368,74,47,departed_warehouse,Aktobe,Five letter environment easy.,2026-02-02 00:22:00
+369,74,23,out_for_delivery,Kostanay,,2026-02-02 15:22:00
+370,74,32,delivered,Kostanay,,2026-02-02 19:22:00
+371,75,42,created,Petropavl,,2025-08-16 12:12:00
+372,75,34,picked_up,Atyrau,,2025-08-17 06:12:00
+373,75,4,arrived_warehouse,Pavlodar,,2025-08-17 17:12:00
+374,75,5,departed_warehouse,Almaty,,2025-08-18 18:12:00
+375,75,42,out_for_delivery,Semey,,2025-08-19 03:12:00
+376,75,6,delivered,Semey,,2025-08-20 08:12:00
+377,76,37,created,Taraz,,2024-06-21 21:12:00
+378,76,48,picked_up,Aktau,,2024-06-22 17:12:00
+379,76,50,arrived_warehouse,Taraz,,2024-06-22 23:12:00
+380,76,30,departed_warehouse,Kostanay,,2024-06-23 23:12:00
+381,76,11,out_for_delivery,Uralsk,,2024-06-24 05:12:00
+382,76,33,delivered,Pavlodar,,2024-06-24 20:12:00
+383,77,47,created,Astana,,2026-07-15 18:36:00
+384,77,31,picked_up,Shymkent,,2026-07-16 22:36:00
+385,77,45,arrived_warehouse,Atyrau,,2026-07-17 23:36:00
+386,77,39,departed_warehouse,Taraz,,2026-07-18 05:36:00
+387,77,37,out_for_delivery,Oskemen,Spend value return couple.,2026-07-19 07:36:00
+388,77,50,delivered,Pavlodar,,2026-07-19 11:36:00
+389,78,6,created,Aktobe,,2025-02-16 10:48:00
+390,78,26,picked_up,Shymkent,,2025-02-17 14:48:00
+391,78,31,arrived_warehouse,Atyrau,,2025-02-17 19:48:00
+392,78,26,departed_warehouse,Karaganda,Marriage method material final.,2025-02-18 15:48:00
+393,78,28,out_for_delivery,Uralsk,,2025-02-19 10:48:00
+394,78,9,delivered,Semey,,2025-02-20 13:48:00
+395,79,6,created,Astana,,2023-05-24 19:09:00
+396,79,40,picked_up,Kyzylorda,,2023-05-25 05:09:00
+397,79,19,arrived_warehouse,Almaty,,2023-05-26 10:09:00
+398,79,8,departed_warehouse,Karaganda,,2023-05-27 14:09:00
+399,79,22,out_for_delivery,Aktobe,,2023-05-27 17:09:00
+400,80,5,created,Oskemen,,2023-10-07 15:03:00
+401,80,43,picked_up,Pavlodar,,2023-10-08 15:03:00
+402,80,19,arrived_warehouse,Petropavl,,2023-10-08 18:03:00
+403,80,15,departed_warehouse,Oskemen,,2023-10-09 09:03:00
+404,80,7,out_for_delivery,Kyzylorda,,2023-10-10 10:03:00
+405,80,39,delivered,Aktau,Bed hotel lead.,2023-10-11 16:03:00
+406,81,36,created,Karaganda,,2025-09-25 17:56:00
+407,81,26,picked_up,Taraz,,2025-09-26 06:56:00
+408,81,25,arrived_warehouse,Aktau,,2025-09-27 08:56:00
+409,81,41,departed_warehouse,Taraz,,2025-09-28 06:56:00
+410,81,37,out_for_delivery,Shymkent,,2025-09-28 16:56:00
+411,81,39,delivered,Pavlodar,,2025-09-29 04:56:00
+412,82,41,created,Kyzylorda,,2025-12-02 17:28:00
+413,82,50,picked_up,Aktobe,,2025-12-03 00:28:00
+414,82,2,arrived_warehouse,Uralsk,,2025-12-03 08:28:00
+415,82,18,departed_warehouse,Atyrau,,2025-12-04 06:28:00
+416,82,39,out_for_delivery,Aktobe,,2025-12-04 16:28:00
+417,82,23,delivered,Astana,,2025-12-04 19:28:00
+418,83,40,created,Semey,,2023-10-06 04:04:00
+419,83,30,picked_up,Kyzylorda,,2023-10-07 10:04:00
+420,83,50,arrived_warehouse,Almaty,,2023-10-08 01:04:00
+421,83,25,departed_warehouse,Kostanay,,2023-10-09 06:04:00
+422,83,48,out_for_delivery,Atyrau,,2023-10-10 04:04:00
+423,83,42,delivered,Kyzylorda,,2023-10-10 23:04:00
+424,84,36,created,Oskemen,Democrat good anything manager think.,2023-03-16 07:39:00
+425,84,22,picked_up,Atyrau,,2023-03-16 15:39:00
+426,84,10,arrived_warehouse,Shymkent,,2023-03-17 21:39:00
+427,84,50,departed_warehouse,Kostanay,Experience account blue care enough hand idea.,2023-03-18 05:39:00
+428,84,20,out_for_delivery,Kostanay,,2023-03-18 17:39:00
+429,84,19,delivered,Taraz,,2023-03-19 10:39:00
+430,85,18,created,Atyrau,,2026-01-09 13:00:00
+431,85,14,cancelled,Almaty,,2026-01-10 18:00:00
+432,86,3,created,Astana,,2024-08-26 00:29:00
+433,86,24,picked_up,Kyzylorda,,2024-08-26 13:29:00
+434,86,49,arrived_warehouse,Oskemen,,2024-08-26 18:29:00
+435,86,19,departed_warehouse,Semey,,2024-08-26 23:29:00
+436,86,18,out_for_delivery,Pavlodar,,2024-08-28 00:29:00
+437,86,14,delivered,Kostanay,,2024-08-28 19:29:00
+438,87,23,created,Aktau,,2026-12-15 06:26:00
+439,87,1,picked_up,Taraz,,2026-12-15 15:26:00
+440,87,17,out_for_delivery,Uralsk,Hundred now crime.,2026-12-16 03:26:00
+441,87,33,failed_attempt,Aktau,,2026-12-16 15:26:00
+442,87,8,returned,Taraz,,2026-12-16 18:26:00
+443,88,47,created,Taraz,,2026-10-03 05:53:00
+444,88,2,picked_up,Aktobe,,2026-10-04 01:53:00
+445,88,23,arrived_warehouse,Astana,,2026-10-04 14:53:00
+446,88,2,departed_warehouse,Pavlodar,,2026-10-05 01:53:00
+447,88,35,out_for_delivery,Petropavl,,2026-10-06 00:53:00
+448,88,25,delivered,Shymkent,,2026-10-06 22:53:00
+449,89,25,created,Kostanay,,2024-04-23 03:13:00
+450,89,1,picked_up,Karaganda,,2024-04-23 09:13:00
+451,89,39,arrived_warehouse,Petropavl,Eye hit late near stay perhaps particularly.,2024-04-24 09:13:00
+452,89,3,departed_warehouse,Astana,,2024-04-25 02:13:00
+453,89,48,out_for_delivery,Karaganda,Window hour some fund.,2024-04-26 02:13:00
+454,89,20,delivered,Taraz,,2024-04-27 05:13:00
+455,90,2,created,Semey,,2023-10-23 20:34:00
+456,90,7,picked_up,Oskemen,Sense current meeting matter and case.,2023-10-24 00:34:00
+457,90,26,arrived_warehouse,Shymkent,,2023-10-24 16:34:00
+458,90,41,departed_warehouse,Petropavl,,2023-10-25 13:34:00
+459,90,40,out_for_delivery,Pavlodar,,2023-10-26 06:34:00
+460,91,20,created,Aktau,,2026-11-24 14:20:00
+461,91,27,picked_up,Aktobe,,2026-11-25 11:20:00
+462,91,11,arrived_warehouse,Semey,,2026-11-26 07:20:00
+463,91,14,departed_warehouse,Petropavl,,2026-11-26 20:20:00
+464,91,28,out_for_delivery,Atyrau,,2026-11-27 12:20:00
+465,92,37,created,Semey,,2023-08-21 13:34:00
+466,92,21,picked_up,Karaganda,,2023-08-22 13:34:00
+467,92,20,arrived_warehouse,Kyzylorda,,2023-08-23 13:34:00
+468,92,46,departed_warehouse,Kyzylorda,,2023-08-24 05:34:00
+469,92,38,out_for_delivery,Almaty,,2023-08-24 10:34:00
+470,92,26,delivered,Petropavl,,2023-08-25 05:34:00
+471,93,13,created,Aktau,,2024-12-27 18:42:00
+472,93,27,picked_up,Shymkent,,2024-12-28 08:42:00
+473,93,43,arrived_warehouse,Shymkent,,2024-12-29 14:42:00
+474,93,42,departed_warehouse,Almaty,,2024-12-29 19:42:00
+475,93,43,out_for_delivery,Oskemen,,2024-12-30 13:42:00
+476,93,6,delivered,Shymkent,,2024-12-30 20:42:00
+477,94,6,created,Aktobe,,2025-05-14 13:33:00
+478,94,43,picked_up,Taraz,Class wrong school federal from stock.,2025-05-15 15:33:00
+479,94,35,arrived_warehouse,Uralsk,,2025-05-16 14:33:00
+480,94,4,departed_warehouse,Kyzylorda,,2025-05-17 12:33:00
+481,94,1,out_for_delivery,Semey,,2025-05-18 15:33:00
+482,94,37,delivered,Kostanay,,2025-05-19 09:33:00
+483,95,39,created,Kyzylorda,,2026-02-19 15:21:00
+484,95,32,picked_up,Uralsk,,2026-02-20 20:21:00
+485,95,25,arrived_warehouse,Aktobe,,2026-02-21 23:21:00
+486,95,41,departed_warehouse,Shymkent,,2026-02-23 01:21:00
+487,95,23,out_for_delivery,Almaty,,2026-02-24 03:21:00
+488,95,8,delivered,Almaty,,2026-02-25 06:21:00
+489,96,5,created,Almaty,,2025-08-26 16:35:00
+490,96,7,picked_up,Taraz,,2025-08-27 11:35:00
+491,96,47,arrived_warehouse,Karaganda,,2025-08-27 21:35:00
+492,96,2,departed_warehouse,Atyrau,Someone rise read ago listen.,2025-08-28 01:35:00
+493,96,43,out_for_delivery,Kyzylorda,,2025-08-28 23:35:00
+494,96,41,delivered,Astana,,2025-08-29 21:35:00
+495,97,50,created,Almaty,,2024-05-27 23:10:00
+496,97,4,picked_up,Karaganda,,2024-05-28 12:10:00
+497,97,12,arrived_warehouse,Semey,Officer return on color pick people subject challenge.,2024-05-28 23:10:00
+498,97,40,departed_warehouse,Oskemen,,2024-05-29 08:10:00
+499,97,7,out_for_delivery,Shymkent,,2024-05-30 02:10:00
+500,97,14,delivered,Atyrau,,2024-05-30 18:10:00
+501,98,6,created,Kyzylorda,,2023-02-02 03:40:00
+502,98,13,picked_up,Shymkent,All way body affect finish.,2023-02-03 05:40:00
+503,98,47,arrived_warehouse,Atyrau,,2023-02-03 08:40:00
+504,98,5,departed_warehouse,Uralsk,,2023-02-03 23:40:00
+505,98,32,out_for_delivery,Aktau,,2023-02-04 11:40:00
+506,98,29,delivered,Almaty,Include data maybe particularly.,2023-02-05 15:40:00
+507,99,45,created,Pavlodar,,2025-07-25 20:09:00
+508,99,16,picked_up,Kyzylorda,,2025-07-26 13:09:00
+509,99,7,arrived_warehouse,Uralsk,,2025-07-26 20:09:00
+510,99,25,departed_warehouse,Uralsk,,2025-07-27 18:09:00
+511,99,6,out_for_delivery,Almaty,Their save artist catch debate foot production.,2025-07-28 12:09:00
+512,99,46,delivered,Taraz,,2025-07-28 17:09:00
+513,100,33,created,Aktobe,,2025-12-06 13:23:00
+514,100,43,picked_up,Aktobe,,2025-12-07 12:23:00
+515,100,8,arrived_warehouse,Uralsk,,2025-12-07 21:23:00
+516,100,31,departed_warehouse,Semey,,2025-12-09 03:23:00
+517,100,3,out_for_delivery,Almaty,,2025-12-10 03:23:00
+518,100,14,delivered,Oskemen,,2025-12-10 15:23:00
+519,101,25,created,Kyzylorda,,2023-12-25 20:47:00
+520,101,38,cancelled,Semey,Heavy what least mouth national put test.,2023-12-26 14:47:00
+521,102,31,created,Petropavl,,2025-07-18 12:55:00
+522,102,47,picked_up,Oskemen,,2025-07-18 15:55:00
+523,102,16,arrived_warehouse,Pavlodar,,2025-07-19 01:55:00
+524,102,38,departed_warehouse,Shymkent,,2025-07-19 11:55:00
+525,102,27,out_for_delivery,Almaty,Particular court east newspaper different.,2025-07-19 14:55:00
+526,102,47,delivered,Uralsk,,2025-07-20 08:55:00
+527,103,40,created,Almaty,,2023-01-21 01:07:00
+528,103,42,picked_up,Aktau,,2023-01-21 09:07:00
+529,103,46,arrived_warehouse,Uralsk,,2023-01-22 05:07:00
+530,103,16,departed_warehouse,Aktau,,2023-01-22 18:07:00
+531,103,48,out_for_delivery,Uralsk,,2023-01-23 12:07:00
+532,104,10,created,Semey,,2025-05-15 10:10:00
+533,104,34,picked_up,Taraz,Side relate real major look.,2025-05-15 19:10:00
+534,104,44,arrived_warehouse,Aktau,,2025-05-16 11:10:00
+535,104,23,departed_warehouse,Oskemen,,2025-05-17 05:10:00
+536,104,2,out_for_delivery,Karaganda,,2025-05-18 04:10:00
+537,104,15,delivered,Petropavl,,2025-05-18 07:10:00
+538,105,43,created,Pavlodar,,2025-12-15 14:13:00
+539,105,24,picked_up,Semey,,2025-12-15 21:13:00
+540,105,35,arrived_warehouse,Karaganda,,2025-12-16 05:13:00
+541,105,26,departed_warehouse,Kyzylorda,,2025-12-16 08:13:00
+542,105,30,out_for_delivery,Kyzylorda,,2025-12-16 15:13:00
+543,105,48,delivered,Aktau,,2025-12-16 18:13:00
+544,106,47,created,Kyzylorda,,2025-06-16 22:51:00
+545,106,9,picked_up,Petropavl,,2025-06-17 14:51:00
+546,106,10,arrived_warehouse,Aktobe,,2025-06-17 19:51:00
+547,106,34,departed_warehouse,Pavlodar,Value somebody event business quality here woman.,2025-06-19 01:51:00
+548,106,49,out_for_delivery,Oskemen,West source fact explain research get.,2025-06-19 22:51:00
+549,106,41,delivered,Kyzylorda,,2025-06-20 14:51:00
+550,107,9,created,Pavlodar,,2025-10-01 11:20:00
+551,107,24,picked_up,Oskemen,,2025-10-01 22:20:00
+552,107,4,arrived_warehouse,Karaganda,,2025-10-02 12:20:00
+553,107,5,departed_warehouse,Aktau,,2025-10-03 11:20:00
+554,107,12,out_for_delivery,Uralsk,Pretty section degree still even no.,2025-10-04 10:20:00
+555,107,11,delivered,Aktau,,2025-10-05 13:20:00
+556,108,9,created,Kyzylorda,Case past only drug prove.,2026-03-31 20:29:00
+557,108,20,picked_up,Kostanay,,2026-04-01 10:29:00
+558,108,29,arrived_warehouse,Kyzylorda,,2026-04-02 15:29:00
+559,108,49,departed_warehouse,Pavlodar,,2026-04-03 10:29:00
+560,108,2,out_for_delivery,Kostanay,,2026-04-03 22:29:00
+561,109,50,created,Kostanay,,2023-06-01 08:22:00
+562,109,37,picked_up,Astana,Difficult do beyond form line race case.,2023-06-02 03:22:00
+563,109,49,arrived_warehouse,Almaty,,2023-06-03 00:22:00
+564,109,13,departed_warehouse,Karaganda,,2023-06-04 01:22:00
+565,109,35,out_for_delivery,Almaty,,2023-06-05 04:22:00
+566,110,32,created,Uralsk,,2026-10-05 16:29:00
+567,110,36,picked_up,Kostanay,Fly position traditional become off.,2026-10-06 04:29:00
+568,110,32,arrived_warehouse,Astana,,2026-10-06 17:29:00
+569,110,39,departed_warehouse,Kostanay,,2026-10-07 10:29:00
+570,110,29,out_for_delivery,Aktobe,,2026-10-08 15:29:00
+571,111,22,created,Aktobe,,2023-01-25 19:04:00
+572,111,8,picked_up,Aktobe,,2023-01-26 10:04:00
+573,111,32,arrived_warehouse,Karaganda,,2023-01-27 12:04:00
+574,111,38,departed_warehouse,Atyrau,,2023-01-28 15:04:00
+575,111,42,out_for_delivery,Oskemen,,2023-01-29 19:04:00
+576,111,39,delivered,Oskemen,,2023-01-30 19:04:00
+577,112,44,created,Aktau,,2026-07-09 13:43:00
+578,112,36,picked_up,Petropavl,,2026-07-10 07:43:00
+579,112,26,arrived_warehouse,Karaganda,,2026-07-10 11:43:00
+580,112,40,departed_warehouse,Taraz,,2026-07-11 02:43:00
+581,112,21,out_for_delivery,Almaty,School sure also TV individual study value.,2026-07-11 14:43:00
+582,112,9,delivered,Petropavl,,2026-07-11 18:43:00
+583,113,15,created,Atyrau,,2024-12-27 23:19:00
+584,113,46,picked_up,Petropavl,,2024-12-28 04:19:00
+585,113,22,arrived_warehouse,Karaganda,Young however many.,2024-12-29 01:19:00
+586,113,34,departed_warehouse,Semey,,2024-12-30 05:19:00
+587,113,5,out_for_delivery,Taraz,,2024-12-30 19:19:00
+588,113,20,delivered,Oskemen,,2024-12-31 14:19:00
+589,114,20,created,Semey,,2024-01-04 14:12:00
+590,114,28,picked_up,Taraz,,2024-01-05 06:12:00
+591,114,11,arrived_warehouse,Karaganda,,2024-01-05 15:12:00
+592,114,18,departed_warehouse,Taraz,,2024-01-06 02:12:00
+593,114,3,out_for_delivery,Kostanay,,2024-01-07 01:12:00
+594,114,4,delivered,Petropavl,,2024-01-07 04:12:00
+595,115,3,created,Petropavl,,2025-03-19 06:41:00
+596,115,4,cancelled,Kostanay,,2025-03-20 10:41:00
+597,116,16,created,Karaganda,,2026-10-31 15:05:00
+598,116,29,cancelled,Taraz,,2026-10-31 23:05:00
+599,117,42,created,Taraz,,2024-11-06 19:44:00
+600,117,42,picked_up,Shymkent,Life cover both class learn either control.,2024-11-07 12:44:00
+601,117,41,arrived_warehouse,Karaganda,,2024-11-07 21:44:00
+602,117,8,departed_warehouse,Shymkent,,2024-11-08 02:44:00
+603,117,50,out_for_delivery,Petropavl,,2024-11-09 03:44:00
+604,117,39,delivered,Taraz,,2024-11-09 10:44:00
+605,118,6,created,Semey,,2024-11-01 02:41:00
+606,118,11,picked_up,Almaty,,2024-11-02 03:41:00
+607,118,39,arrived_warehouse,Karaganda,,2024-11-02 19:41:00
+608,118,11,departed_warehouse,Atyrau,,2024-11-03 09:41:00
+609,118,34,out_for_delivery,Oskemen,,2024-11-04 10:41:00
+610,118,44,delivered,Semey,,2024-11-05 03:41:00
+611,119,26,created,Taraz,,2025-06-02 16:08:00
+612,119,46,picked_up,Oskemen,,2025-06-03 07:08:00
+613,119,5,arrived_warehouse,Astana,,2025-06-03 18:08:00
+614,119,22,departed_warehouse,Kyzylorda,,2025-06-03 22:08:00
+615,119,39,out_for_delivery,Taraz,,2025-06-04 12:08:00
+616,119,46,delivered,Kostanay,,2025-06-05 10:08:00
+617,120,21,created,Almaty,,2026-02-13 22:27:00
+618,120,18,picked_up,Kostanay,,2026-02-14 16:27:00
+619,120,19,arrived_warehouse,Kyzylorda,,2026-02-15 08:27:00
+620,120,49,departed_warehouse,Kyzylorda,,2026-02-16 06:27:00
+621,120,28,out_for_delivery,Kyzylorda,,2026-02-16 19:27:00
+622,121,19,created,Shymkent,,2023-04-17 15:22:00
+623,121,33,picked_up,Petropavl,,2023-04-18 17:22:00
+624,121,38,arrived_warehouse,Aktobe,,2023-04-19 17:22:00
+625,121,34,departed_warehouse,Uralsk,,2023-04-19 20:22:00
+626,121,5,out_for_delivery,Aktobe,,2023-04-20 12:22:00
+627,121,7,delivered,Kyzylorda,,2023-04-21 12:22:00
+628,122,24,created,Aktau,,2023-11-02 15:22:00
+629,122,25,picked_up,Semey,,2023-11-03 08:22:00
+630,122,28,arrived_warehouse,Astana,,2023-11-04 06:22:00
+631,122,24,departed_warehouse,Atyrau,,2023-11-05 10:22:00
+632,122,28,out_for_delivery,Astana,According himself land environment form.,2023-11-06 09:22:00
+633,122,30,delivered,Taraz,,2023-11-06 22:22:00
+634,123,50,created,Aktau,Reveal activity president realize artist brother fill if.,2023-06-02 17:22:00
+635,123,43,picked_up,Semey,,2023-06-03 19:22:00
+636,123,26,arrived_warehouse,Almaty,Type thousand show real police wait happen.,2023-06-04 03:22:00
+637,123,20,departed_warehouse,Pavlodar,,2023-06-05 04:22:00
+638,123,49,out_for_delivery,Taraz,,2023-06-05 21:22:00
+639,123,17,delivered,Pavlodar,,2023-06-07 01:22:00
+640,124,24,created,Kostanay,,2023-01-30 10:39:00
+641,124,44,picked_up,Oskemen,,2023-01-31 11:39:00
+642,124,9,arrived_warehouse,Shymkent,Despite card check security paper.,2023-01-31 16:39:00
+643,124,2,departed_warehouse,Kostanay,,2023-01-31 22:39:00
+644,124,2,out_for_delivery,Aktobe,,2023-02-02 04:39:00
+645,124,42,delivered,Aktobe,,2023-02-02 11:39:00
+646,125,39,created,Kostanay,,2023-02-08 11:54:00
+647,125,3,picked_up,Semey,,2023-02-08 23:54:00
+648,125,38,arrived_warehouse,Kostanay,,2023-02-09 18:54:00
+649,125,32,departed_warehouse,Aktobe,,2023-02-10 18:54:00
+650,125,2,out_for_delivery,Oskemen,,2023-02-11 13:54:00
+651,125,5,delivered,Karaganda,,2023-02-12 09:54:00
+652,126,8,created,Atyrau,,2024-08-04 00:51:00
+653,127,19,created,Aktau,,2023-11-06 00:53:00
+654,127,24,picked_up,Kostanay,,2023-11-06 11:53:00
+655,127,41,arrived_warehouse,Taraz,,2023-11-07 01:53:00
+656,127,49,departed_warehouse,Aktau,,2023-11-08 04:53:00
+657,127,9,out_for_delivery,Uralsk,,2023-11-08 14:53:00
+658,127,30,delivered,Petropavl,,2023-11-09 06:53:00
+659,128,40,created,Kyzylorda,,2023-06-18 03:52:00
+660,128,29,picked_up,Taraz,,2023-06-18 18:52:00
+661,128,40,out_for_delivery,Uralsk,,2023-06-19 14:52:00
+662,128,45,failed_attempt,Pavlodar,,2023-06-20 07:52:00
+663,128,42,returned,Oskemen,,2023-06-21 11:52:00
+664,129,37,created,Taraz,,2026-01-08 13:42:00
+665,129,34,picked_up,Kostanay,,2026-01-09 04:42:00
+666,129,34,arrived_warehouse,Atyrau,,2026-01-09 17:42:00
+667,129,24,departed_warehouse,Semey,Their bank land region back nor article natural.,2026-01-10 20:42:00
+668,129,28,out_for_delivery,Petropavl,,2026-01-11 21:42:00
+669,129,4,delivered,Oskemen,,2026-01-12 02:42:00
+670,130,20,created,Karaganda,,2025-03-11 00:07:00
+671,130,10,picked_up,Shymkent,,2025-03-12 04:07:00
+672,130,4,arrived_warehouse,Kyzylorda,,2025-03-12 20:07:00
+673,130,14,departed_warehouse,Shymkent,,2025-03-13 08:07:00
+674,130,1,out_for_delivery,Astana,,2025-03-14 02:07:00
+675,130,3,delivered,Oskemen,,2025-03-14 07:07:00
+676,131,2,created,Karaganda,,2023-10-10 17:42:00
+677,131,46,picked_up,Petropavl,,2023-10-11 03:42:00
+678,131,6,arrived_warehouse,Uralsk,,2023-10-11 20:42:00
+679,131,26,departed_warehouse,Atyrau,Dark Mr clearly take kind quite response.,2023-10-12 09:42:00
+680,131,2,out_for_delivery,Pavlodar,,2023-10-13 15:42:00
+681,132,7,created,Aktobe,,2023-07-23 12:35:00
+682,132,9,picked_up,Karaganda,,2023-07-24 11:35:00
+683,132,6,arrived_warehouse,Petropavl,,2023-07-25 04:35:00
+684,132,10,departed_warehouse,Pavlodar,,2023-07-25 13:35:00
+685,132,16,out_for_delivery,Aktau,,2023-07-25 21:35:00
+686,133,11,created,Kostanay,,2022-12-29 21:53:00
+687,133,20,picked_up,Astana,,2022-12-30 02:53:00
+688,133,9,out_for_delivery,Kostanay,,2022-12-30 08:53:00
+689,133,28,failed_attempt,Aktobe,,2022-12-30 19:53:00
+690,133,21,returned,Kyzylorda,,2022-12-31 23:53:00
+691,134,42,created,Astana,,2024-11-24 15:05:00
+692,134,43,picked_up,Semey,,2024-11-25 20:05:00
+693,134,25,out_for_delivery,Petropavl,,2024-11-26 10:05:00
+694,134,12,failed_attempt,Petropavl,,2024-11-27 01:05:00
+695,134,1,returned,Astana,,2024-11-28 02:05:00
+696,135,18,created,Astana,,2026-06-10 05:27:00
+697,135,32,picked_up,Pavlodar,,2026-06-10 22:27:00
+698,135,47,arrived_warehouse,Aktobe,Before member speak law message lead around.,2026-06-11 02:27:00
+699,135,35,departed_warehouse,Semey,,2026-06-11 18:27:00
+700,135,13,out_for_delivery,Pavlodar,Pull final against effort able design authority.,2026-06-12 09:27:00
+701,136,3,created,Oskemen,,2024-11-03 19:37:00
+702,136,45,picked_up,Astana,,2024-11-05 01:37:00
+703,136,29,arrived_warehouse,Almaty,,2024-11-05 05:37:00
+704,136,28,departed_warehouse,Astana,,2024-11-06 04:37:00
+705,136,36,out_for_delivery,Almaty,,2024-11-06 08:37:00
+706,137,10,created,Shymkent,,2025-07-12 15:37:00
+707,137,22,picked_up,Karaganda,,2025-07-13 13:37:00
+708,137,34,arrived_warehouse,Atyrau,,2025-07-13 16:37:00
+709,137,4,departed_warehouse,Aktobe,,2025-07-13 23:37:00
+710,137,36,out_for_delivery,Petropavl,Expert conference career.,2025-07-15 04:37:00
+711,137,13,delivered,Aktobe,,2025-07-15 18:37:00
+712,138,36,created,Astana,,2024-11-08 16:00:00
+713,138,13,picked_up,Taraz,,2024-11-09 09:00:00
+714,138,24,arrived_warehouse,Almaty,,2024-11-10 12:00:00
+715,138,13,departed_warehouse,Karaganda,,2024-11-10 21:00:00
+716,138,47,out_for_delivery,Shymkent,,2024-11-11 08:00:00
+717,138,16,delivered,Shymkent,,2024-11-12 04:00:00
+718,139,38,created,Kyzylorda,,2023-08-16 07:55:00
+719,139,6,picked_up,Uralsk,,2023-08-17 09:55:00
+720,139,40,arrived_warehouse,Astana,,2023-08-18 09:55:00
+721,139,49,departed_warehouse,Kyzylorda,,2023-08-19 00:55:00
+722,139,24,out_for_delivery,Semey,,2023-08-19 19:55:00
+723,139,21,delivered,Kostanay,,2023-08-20 03:55:00
+724,140,33,created,Atyrau,,2026-04-02 06:14:00
+725,140,30,picked_up,Oskemen,,2026-04-02 23:14:00
+726,140,32,arrived_warehouse,Pavlodar,,2026-04-04 03:14:00
+727,140,12,departed_warehouse,Semey,,2026-04-04 06:14:00
+728,140,5,out_for_delivery,Pavlodar,,2026-04-05 05:14:00
+729,140,33,delivered,Aktau,,2026-04-05 17:14:00
+730,141,10,created,Petropavl,,2024-02-15 18:41:00
+731,142,9,created,Karaganda,,2025-08-09 14:23:00
+732,142,32,picked_up,Uralsk,,2025-08-09 17:23:00
+733,142,22,arrived_warehouse,Aktobe,,2025-08-10 07:23:00
+734,142,49,departed_warehouse,Oskemen,,2025-08-11 07:23:00
+735,142,35,out_for_delivery,Karaganda,,2025-08-12 08:23:00
+736,142,37,delivered,Uralsk,Interest here discover leave choice country themselves.,2025-08-12 11:23:00
+737,143,19,created,Aktobe,,2025-02-11 23:11:00
+738,143,34,cancelled,Astana,,2025-02-12 23:11:00
+739,144,12,created,Oskemen,,2023-09-18 20:39:00
+740,144,47,picked_up,Oskemen,,2023-09-19 18:39:00
+741,144,12,out_for_delivery,Kostanay,,2023-09-20 18:39:00
+742,144,45,failed_attempt,Almaty,,2023-09-21 09:39:00
+743,144,11,returned,Karaganda,,2023-09-22 15:39:00
+744,145,41,created,Kostanay,,2026-02-02 21:02:00
+745,145,25,picked_up,Pavlodar,,2026-02-03 14:02:00
+746,145,13,out_for_delivery,Oskemen,Allow produce past view.,2026-02-04 20:02:00
+747,145,8,failed_attempt,Kostanay,,2026-02-05 07:02:00
+748,145,43,returned,Kostanay,,2026-02-05 20:02:00
+749,146,41,created,Uralsk,,2024-07-24 20:13:00
+750,146,46,picked_up,Taraz,,2024-07-25 20:13:00
+751,146,45,arrived_warehouse,Karaganda,,2024-07-26 11:13:00
+752,146,1,departed_warehouse,Almaty,,2024-07-27 09:13:00
+753,146,13,out_for_delivery,Kyzylorda,,2024-07-28 12:13:00
+754,147,14,created,Kyzylorda,,2026-10-19 11:35:00
+755,147,8,picked_up,Aktobe,,2026-10-20 03:35:00
+756,147,21,arrived_warehouse,Shymkent,Drive attack order.,2026-10-20 17:35:00
+757,147,21,departed_warehouse,Almaty,,2026-10-21 16:35:00
+758,147,15,out_for_delivery,Astana,,2026-10-22 09:35:00
+759,147,42,delivered,Atyrau,,2026-10-22 20:35:00
+760,148,48,created,Kyzylorda,,2026-03-11 04:59:00
+761,148,21,picked_up,Taraz,,2026-03-11 15:59:00
+762,148,34,arrived_warehouse,Uralsk,,2026-03-11 19:59:00
+763,148,19,departed_warehouse,Uralsk,Our reflect any scientist I doctor describe.,2026-03-12 18:59:00
+764,148,47,out_for_delivery,Pavlodar,,2026-03-14 00:59:00
+765,148,35,delivered,Almaty,,2026-03-14 09:59:00
+766,149,49,created,Shymkent,,2025-06-17 06:32:00
+767,149,31,picked_up,Almaty,,2025-06-18 10:32:00
+768,149,6,arrived_warehouse,Uralsk,,2025-06-19 02:32:00
+769,149,39,departed_warehouse,Aktau,,2025-06-19 14:32:00
+770,149,12,out_for_delivery,Karaganda,,2025-06-20 16:32:00
+771,149,30,delivered,Karaganda,,2025-06-21 04:32:00
+772,150,11,created,Almaty,,2025-10-19 22:37:00
+773,151,12,created,Aktau,,2023-06-09 04:45:00
+774,151,37,picked_up,Petropavl,,2023-06-09 21:45:00
+775,151,4,out_for_delivery,Kostanay,,2023-06-10 06:45:00
+776,151,13,failed_attempt,Karaganda,,2023-06-11 09:45:00
+777,151,27,returned,Semey,,2023-06-12 15:45:00
+778,152,34,created,Karaganda,,2024-07-14 16:01:00
+779,152,16,picked_up,Pavlodar,,2024-07-15 19:01:00
+780,152,43,arrived_warehouse,Petropavl,,2024-07-16 19:01:00
+781,152,43,departed_warehouse,Aktobe,Five our pull fly few century produce.,2024-07-17 11:01:00
+782,152,21,out_for_delivery,Almaty,,2024-07-18 10:01:00
+783,152,3,delivered,Uralsk,,2024-07-19 16:01:00
+784,153,20,created,Petropavl,,2025-08-24 13:08:00
+785,153,30,picked_up,Shymkent,,2025-08-25 09:08:00
+786,153,31,arrived_warehouse,Taraz,,2025-08-25 15:08:00
+787,153,14,departed_warehouse,Shymkent,,2025-08-26 01:08:00
+788,153,45,out_for_delivery,Astana,,2025-08-27 01:08:00
+789,153,2,delivered,Shymkent,,2025-08-28 02:08:00
+790,154,47,created,Oskemen,,2025-12-25 16:58:00
+791,154,36,picked_up,Petropavl,,2025-12-26 20:58:00
+792,154,15,arrived_warehouse,Karaganda,,2025-12-27 06:58:00
+793,154,8,departed_warehouse,Astana,,2025-12-27 11:58:00
+794,154,13,out_for_delivery,Kostanay,,2025-12-28 08:58:00
+795,154,24,delivered,Shymkent,,2025-12-29 05:58:00
+796,155,8,created,Karaganda,,2025-05-17 18:20:00
+797,155,37,cancelled,Semey,,2025-05-18 19:20:00
+798,156,34,created,Kostanay,,2024-02-28 18:48:00
+799,156,13,picked_up,Kostanay,,2024-02-29 19:48:00
+800,156,7,arrived_warehouse,Shymkent,,2024-03-01 10:48:00
+801,156,38,departed_warehouse,Petropavl,,2024-03-02 14:48:00
+802,156,46,out_for_delivery,Karaganda,,2024-03-03 20:48:00
+803,156,37,delivered,Shymkent,,2024-03-04 04:48:00
+804,157,4,created,Astana,,2026-03-23 17:22:00
+805,158,45,created,Oskemen,,2025-03-14 09:24:00
+806,158,7,picked_up,Pavlodar,Including every news option same.,2025-03-14 16:24:00
+807,158,35,arrived_warehouse,Shymkent,,2025-03-15 22:24:00
+808,158,2,departed_warehouse,Oskemen,,2025-03-16 23:24:00
+809,158,34,out_for_delivery,Semey,Personal interview many win.,2025-03-17 19:24:00
+810,159,14,created,Shymkent,,2024-01-05 23:02:00
+811,159,38,cancelled,Pavlodar,,2024-01-06 08:02:00
+812,160,44,created,Aktau,,2023-11-27 15:17:00
+813,160,41,picked_up,Astana,,2023-11-28 04:17:00
+814,160,50,arrived_warehouse,Karaganda,,2023-11-28 17:17:00
+815,160,15,departed_warehouse,Karaganda,Drive different tax certain leg arm include.,2023-11-29 21:17:00
+816,160,15,out_for_delivery,Oskemen,,2023-11-30 12:17:00
+817,160,8,delivered,Shymkent,,2023-12-01 16:17:00
+818,161,46,created,Uralsk,,2026-01-29 22:58:00
+819,161,27,cancelled,Kostanay,,2026-01-30 20:58:00
+820,162,44,created,Kyzylorda,,2025-11-24 01:02:00
+821,162,15,picked_up,Shymkent,Newspaper care drug data position two.,2025-11-24 20:02:00
+822,162,9,out_for_delivery,Aktau,,2025-11-26 01:02:00
+823,162,28,failed_attempt,Semey,,2025-11-26 05:02:00
+824,162,8,returned,Pavlodar,,2025-11-26 19:02:00
+825,163,43,created,Petropavl,,2024-03-10 09:51:00
+826,163,23,picked_up,Kostanay,,2024-03-10 16:51:00
+827,163,46,arrived_warehouse,Aktobe,,2024-03-11 06:51:00
+828,163,3,departed_warehouse,Shymkent,,2024-03-11 18:51:00
+829,163,22,out_for_delivery,Kyzylorda,Begin right couple environmental purpose owner.,2024-03-12 20:51:00
+830,163,13,delivered,Semey,,2024-03-13 20:51:00
+831,164,19,created,Karaganda,,2025-03-01 11:47:00
+832,164,28,picked_up,Aktobe,,2025-03-02 14:47:00
+833,164,33,arrived_warehouse,Shymkent,,2025-03-03 16:47:00
+834,164,8,departed_warehouse,Petropavl,,2025-03-04 19:47:00
+835,164,16,out_for_delivery,Taraz,,2025-03-05 20:47:00
+836,164,31,delivered,Kostanay,,2025-03-06 05:47:00
+837,165,15,created,Aktobe,,2024-04-08 13:33:00
+838,165,4,picked_up,Aktau,,2024-04-09 07:33:00
+839,165,20,arrived_warehouse,Astana,,2024-04-09 11:33:00
+840,165,23,departed_warehouse,Kostanay,,2024-04-09 22:33:00
+841,165,4,out_for_delivery,Shymkent,Decade trade field training deep couple scientist.,2024-04-10 11:33:00
+842,165,43,delivered,Kostanay,,2024-04-10 15:33:00
+843,166,5,created,Aktau,,2025-01-04 17:12:00
+844,166,47,picked_up,Semey,,2025-01-05 05:12:00
+845,166,35,out_for_delivery,Kostanay,,2025-01-05 14:12:00
+846,166,13,failed_attempt,Oskemen,,2025-01-05 21:12:00
+847,166,49,returned,Petropavl,,2025-01-06 08:12:00
+848,167,30,created,Aktau,,2023-05-10 03:56:00
+849,167,17,cancelled,Karaganda,,2023-05-10 22:56:00
+850,168,12,created,Karaganda,,2024-08-20 00:14:00
+851,168,43,picked_up,Petropavl,,2024-08-20 20:14:00
+852,168,38,arrived_warehouse,Astana,,2024-08-21 23:14:00
+853,168,25,departed_warehouse,Taraz,,2024-08-23 00:14:00
+854,168,41,out_for_delivery,Atyrau,,2024-08-23 23:14:00
+855,168,29,delivered,Aktobe,,2024-08-25 04:14:00
+856,169,42,created,Kyzylorda,Move grow end mention market better wonder.,2025-06-07 14:52:00
+857,169,50,picked_up,Astana,,2025-06-08 00:52:00
+858,169,39,arrived_warehouse,Almaty,,2025-06-08 23:52:00
+859,169,7,departed_warehouse,Aktau,,2025-06-09 02:52:00
+860,169,46,out_for_delivery,Astana,,2025-06-09 15:52:00
+861,169,49,delivered,Atyrau,,2025-06-10 09:52:00
+862,170,18,created,Kyzylorda,,2023-09-05 23:52:00
+863,170,17,picked_up,Uralsk,,2023-09-06 13:52:00
+864,170,5,arrived_warehouse,Uralsk,Seven floor data fine animal ten scientist.,2023-09-07 17:52:00
+865,170,50,departed_warehouse,Taraz,,2023-09-08 00:52:00
+866,170,25,out_for_delivery,Semey,,2023-09-08 07:52:00
+867,170,31,delivered,Petropavl,End various often.,2023-09-09 11:52:00
+868,171,2,created,Pavlodar,,2025-02-23 18:15:00
+869,171,8,picked_up,Almaty,,2025-02-24 01:15:00
+870,171,50,arrived_warehouse,Petropavl,,2025-02-24 15:15:00
+871,171,10,departed_warehouse,Petropavl,,2025-02-25 08:15:00
+872,171,16,out_for_delivery,Aktobe,,2025-02-26 00:15:00
+873,172,27,created,Shymkent,,2025-05-18 16:04:00
+874,172,48,picked_up,Shymkent,,2025-05-19 10:04:00
+875,172,20,arrived_warehouse,Semey,,2025-05-20 11:04:00
+876,172,29,departed_warehouse,Uralsk,,2025-05-21 00:04:00
+877,172,19,out_for_delivery,Astana,,2025-05-21 03:04:00
+878,172,3,delivered,Atyrau,,2025-05-22 02:04:00
+879,173,28,created,Aktobe,,2025-10-18 09:03:00
+880,173,5,cancelled,Pavlodar,,2025-10-18 15:03:00
+881,174,33,created,Astana,,2023-01-21 11:21:00
+882,174,10,picked_up,Almaty,,2023-01-22 14:21:00
+883,174,31,arrived_warehouse,Atyrau,,2023-01-23 05:21:00
+884,174,19,departed_warehouse,Shymkent,,2023-01-23 09:21:00
+885,174,6,out_for_delivery,Kyzylorda,,2023-01-24 02:21:00
+886,175,50,created,Semey,,2025-10-19 14:05:00
+887,175,17,picked_up,Uralsk,,2025-10-20 08:05:00
+888,175,9,out_for_delivery,Astana,,2025-10-21 07:05:00
+889,175,3,failed_attempt,Pavlodar,,2025-10-22 01:05:00
+890,175,27,returned,Petropavl,,2025-10-22 16:05:00
+891,176,18,created,Semey,College result major true my politics.,2025-04-18 17:44:00
+892,176,31,picked_up,Shymkent,,2025-04-19 00:44:00
+893,176,37,arrived_warehouse,Almaty,,2025-04-19 13:44:00
+894,176,25,departed_warehouse,Almaty,,2025-04-20 16:44:00
+895,176,28,out_for_delivery,Semey,,2025-04-21 06:44:00
+896,177,10,created,Pavlodar,,2023-06-18 07:46:00
+897,177,47,picked_up,Kostanay,,2023-06-19 12:46:00
+898,177,21,arrived_warehouse,Almaty,,2023-06-20 14:46:00
+899,177,10,departed_warehouse,Semey,,2023-06-21 07:46:00
+900,177,44,out_for_delivery,Oskemen,,2023-06-21 13:46:00
+901,177,1,delivered,Semey,,2023-06-22 15:46:00
+902,178,28,created,Taraz,,2026-01-17 12:54:00
+903,178,7,picked_up,Astana,,2026-01-18 10:54:00
+904,178,6,arrived_warehouse,Taraz,Model stuff avoid stand.,2026-01-18 16:54:00
+905,178,7,departed_warehouse,Semey,,2026-01-19 08:54:00
+906,178,35,out_for_delivery,Astana,,2026-01-20 06:54:00
+907,178,38,delivered,Uralsk,Share include successful.,2026-01-21 01:54:00
+908,179,19,created,Karaganda,,2025-08-13 03:23:00
+909,179,20,picked_up,Petropavl,,2025-08-13 14:23:00
+910,179,44,arrived_warehouse,Aktobe,Attack character despite lay art.,2025-08-14 06:23:00
+911,179,3,departed_warehouse,Almaty,Tree process administration mother in admit reveal movie.,2025-08-14 22:23:00
+912,179,24,out_for_delivery,Petropavl,,2025-08-16 02:23:00
+913,180,37,created,Oskemen,Admit spend purpose south travel.,2025-03-09 13:39:00
+914,180,9,picked_up,Semey,,2025-03-10 15:39:00
+915,180,23,arrived_warehouse,Shymkent,,2025-03-11 18:39:00
+916,180,20,departed_warehouse,Aktobe,,2025-03-12 04:39:00
+917,180,47,out_for_delivery,Uralsk,,2025-03-12 14:39:00
+918,180,50,delivered,Karaganda,,2025-03-13 05:39:00
+919,181,8,created,Pavlodar,,2026-05-02 21:40:00
+920,181,40,picked_up,Atyrau,,2026-05-03 15:40:00
+921,181,34,arrived_warehouse,Kostanay,,2026-05-03 23:40:00
+922,181,13,departed_warehouse,Atyrau,Truth modern drive people.,2026-05-04 05:40:00
+923,181,34,out_for_delivery,Aktau,,2026-05-04 08:40:00
+924,181,24,delivered,Astana,,2026-05-04 17:40:00
+925,182,21,created,Atyrau,,2023-07-02 02:27:00
+926,182,28,picked_up,Aktobe,,2023-07-02 17:27:00
+927,182,41,arrived_warehouse,Petropavl,Spring environment however health image.,2023-07-03 07:27:00
+928,182,3,departed_warehouse,Aktau,,2023-07-03 15:27:00
+929,182,19,out_for_delivery,Atyrau,,2023-07-04 07:27:00
+930,183,13,created,Almaty,,2024-10-15 23:20:00
+931,183,3,picked_up,Karaganda,,2024-10-16 17:20:00
+932,183,29,arrived_warehouse,Shymkent,,2024-10-16 23:20:00
+933,183,25,departed_warehouse,Aktobe,,2024-10-17 20:20:00
+934,183,2,out_for_delivery,Taraz,,2024-10-18 08:20:00
+935,184,4,created,Karaganda,,2025-12-23 22:00:00
+936,185,15,created,Astana,,2025-02-09 06:20:00
+937,185,46,picked_up,Astana,,2025-02-09 18:20:00
+938,185,16,arrived_warehouse,Taraz,,2025-02-10 23:20:00
+939,185,14,departed_warehouse,Kostanay,During recently feel stock ball yard practice.,2025-02-12 05:20:00
+940,185,4,out_for_delivery,Aktobe,Behavior here need.,2025-02-12 23:20:00
+941,185,30,delivered,Petropavl,,2025-02-13 08:20:00
+942,186,48,created,Astana,,2024-09-20 15:09:00
+943,186,12,picked_up,Karaganda,Pm reflect bar suddenly.,2024-09-21 08:09:00
+944,186,34,arrived_warehouse,Semey,,2024-09-22 08:09:00
+945,186,36,departed_warehouse,Astana,,2024-09-22 14:09:00
+946,186,10,out_for_delivery,Oskemen,,2024-09-22 23:09:00
+947,186,22,delivered,Almaty,,2024-09-23 18:09:00
+948,187,31,created,Kostanay,,2026-04-30 08:32:00
+949,187,16,picked_up,Shymkent,,2026-05-01 09:32:00
+950,187,11,arrived_warehouse,Shymkent,,2026-05-01 14:32:00
+951,187,10,departed_warehouse,Almaty,,2026-05-02 07:32:00
+952,187,22,out_for_delivery,Almaty,,2026-05-02 23:32:00
+953,187,5,delivered,Shymkent,,2026-05-03 10:32:00
+954,188,35,created,Kyzylorda,,2023-03-28 09:17:00
+955,188,12,picked_up,Karaganda,,2023-03-29 04:17:00
+956,188,22,arrived_warehouse,Oskemen,,2023-03-29 18:17:00
+957,188,20,departed_warehouse,Aktobe,Not teach believe month amount deep.,2023-03-30 05:17:00
+958,188,45,out_for_delivery,Pavlodar,,2023-03-31 00:17:00
+959,188,28,delivered,Uralsk,,2023-03-31 06:17:00
+960,189,17,created,Kyzylorda,,2024-08-09 20:25:00
+961,189,12,picked_up,Atyrau,,2024-08-10 08:25:00
+962,189,38,arrived_warehouse,Shymkent,,2024-08-10 21:25:00
+963,189,17,departed_warehouse,Shymkent,,2024-08-11 06:25:00
+964,189,20,out_for_delivery,Karaganda,Little another avoid understand tonight nor allow.,2024-08-11 15:25:00
+965,190,18,created,Petropavl,,2025-12-05 19:53:00
+966,190,22,picked_up,Atyrau,Class drive strong home to.,2025-12-06 01:53:00
+967,190,37,arrived_warehouse,Semey,,2025-12-06 13:53:00
+968,190,4,departed_warehouse,Astana,,2025-12-07 19:53:00
+969,190,33,out_for_delivery,Kostanay,,2025-12-08 19:53:00
+970,191,4,created,Kyzylorda,,2026-07-26 23:53:00
+971,191,31,cancelled,Shymkent,,2026-07-27 14:53:00
+972,192,10,created,Pavlodar,,2023-10-19 13:32:00
+973,192,22,picked_up,Semey,,2023-10-20 10:32:00
+974,192,9,arrived_warehouse,Karaganda,,2023-10-21 14:32:00
+975,192,20,departed_warehouse,Kyzylorda,,2023-10-22 14:32:00
+976,192,42,out_for_delivery,Semey,,2023-10-23 19:32:00
+977,193,17,created,Astana,Why for plant situation late direction.,2026-11-24 12:59:00
+978,193,5,picked_up,Semey,,2026-11-25 14:59:00
+979,193,41,arrived_warehouse,Petropavl,Wait it quickly produce beat peace something.,2026-11-26 12:59:00
+980,193,21,departed_warehouse,Astana,,2026-11-26 20:59:00
+981,193,9,out_for_delivery,Taraz,,2026-11-27 11:59:00
+982,194,31,created,Aktau,,2025-05-30 12:12:00
+983,194,36,picked_up,Petropavl,,2025-05-31 10:12:00
+984,194,29,arrived_warehouse,Oskemen,,2025-05-31 15:12:00
+985,194,5,departed_warehouse,Atyrau,Bank child Republican plant.,2025-06-01 21:12:00
+986,194,34,out_for_delivery,Karaganda,,2025-06-03 01:12:00
+987,194,15,delivered,Almaty,,2025-06-03 19:12:00
+988,195,16,created,Semey,First blood accept final growth especially.,2023-11-11 17:59:00
+989,196,44,created,Kostanay,Beautiful issue news mention.,2026-06-05 16:38:00
+990,196,4,picked_up,Oskemen,,2026-06-06 10:38:00
+991,196,9,arrived_warehouse,Oskemen,,2026-06-07 11:38:00
+992,196,9,departed_warehouse,Astana,,2026-06-08 07:38:00
+993,196,24,out_for_delivery,Pavlodar,,2026-06-09 05:38:00
+994,196,4,delivered,Aktobe,,2026-06-09 21:38:00
+995,197,43,created,Astana,,2024-05-23 06:08:00
+996,197,17,cancelled,Aktau,,2024-05-23 11:08:00
+997,198,49,created,Semey,,2026-02-01 07:15:00
+998,198,32,picked_up,Petropavl,Ago government behavior our.,2026-02-01 10:15:00
+999,198,38,out_for_delivery,Oskemen,,2026-02-01 21:15:00
+1000,198,4,failed_attempt,Karaganda,,2026-02-02 02:15:00
+1001,198,32,returned,Almaty,,2026-02-02 17:15:00
+1002,199,6,created,Aktobe,,2023-04-15 19:17:00
+1003,199,22,picked_up,Atyrau,,2023-04-16 07:17:00
+1004,199,18,arrived_warehouse,Pavlodar,,2023-04-17 05:17:00
+1005,199,42,departed_warehouse,Uralsk,,2023-04-17 16:17:00
+1006,199,8,out_for_delivery,Karaganda,,2023-04-17 19:17:00
+1007,199,17,delivered,Petropavl,,2023-04-18 08:17:00
+1008,200,23,created,Aktau,,2024-03-18 18:01:00
+1009,200,16,cancelled,Pavlodar,,2024-03-19 16:01:00
+1010,201,5,created,Kyzylorda,,2026-10-23 19:48:00
+1011,201,33,picked_up,Atyrau,,2026-10-24 16:48:00
+1012,201,27,arrived_warehouse,Aktau,,2026-10-25 18:48:00
+1013,201,34,departed_warehouse,Uralsk,Tell activity including single right nice.,2026-10-27 00:48:00
+1014,201,43,out_for_delivery,Aktau,,2026-10-27 18:48:00
+1015,201,18,delivered,Aktobe,,2026-10-28 07:48:00
+1016,202,9,created,Aktau,,2023-08-18 13:44:00
+1017,202,28,picked_up,Pavlodar,,2023-08-19 04:44:00
+1018,202,36,arrived_warehouse,Aktobe,,2023-08-20 05:44:00
+1019,202,22,departed_warehouse,Kyzylorda,,2023-08-20 11:44:00
+1020,202,38,out_for_delivery,Atyrau,,2023-08-21 00:44:00
+1021,202,3,delivered,Astana,,2023-08-22 02:44:00
+1022,203,15,created,Kyzylorda,,2024-01-09 02:18:00
+1023,203,39,picked_up,Uralsk,,2024-01-09 13:18:00
+1024,203,43,arrived_warehouse,Karaganda,,2024-01-09 23:18:00
+1025,203,36,departed_warehouse,Petropavl,,2024-01-10 08:18:00
+1026,203,2,out_for_delivery,Atyrau,,2024-01-10 16:18:00
+1027,203,35,delivered,Uralsk,,2024-01-11 12:18:00
+1028,204,6,created,Kostanay,,2025-11-30 02:46:00
+1029,204,5,picked_up,Pavlodar,,2025-12-01 04:46:00
+1030,204,18,arrived_warehouse,Semey,,2025-12-01 17:46:00
+1031,204,44,departed_warehouse,Uralsk,Occur college herself catch feeling.,2025-12-02 12:46:00
+1032,204,21,out_for_delivery,Kyzylorda,,2025-12-03 13:46:00
+1033,204,7,delivered,Kyzylorda,,2025-12-04 05:46:00
+1034,205,7,created,Aktobe,,2023-10-02 05:22:00
+1035,206,18,created,Semey,,2025-08-01 18:25:00
+1036,206,41,picked_up,Petropavl,Certainly cold every feel site guess want.,2025-08-02 07:25:00
+1037,206,27,arrived_warehouse,Aktobe,,2025-08-03 00:25:00
+1038,206,35,departed_warehouse,Aktobe,,2025-08-03 08:25:00
+1039,206,40,out_for_delivery,Atyrau,,2025-08-03 14:25:00
+1040,207,22,created,Oskemen,,2026-02-03 02:51:00
+1041,207,16,cancelled,Almaty,Many pattern leader career according how success here.,2026-02-04 04:51:00
+1042,208,13,created,Petropavl,,2024-07-31 00:47:00
+1043,209,38,created,Aktobe,Key issue statement prepare organization feel.,2023-07-23 10:10:00
+1044,209,40,picked_up,Petropavl,,2023-07-24 01:10:00
+1045,209,37,arrived_warehouse,Uralsk,,2023-07-25 03:10:00
+1046,209,32,departed_warehouse,Karaganda,,2023-07-26 06:10:00
+1047,209,22,out_for_delivery,Petropavl,,2023-07-27 08:10:00
+1048,209,45,delivered,Atyrau,,2023-07-27 21:10:00
+1049,210,48,created,Kostanay,,2026-08-19 01:30:00
+1050,210,11,picked_up,Aktau,,2026-08-19 08:30:00
+1051,210,1,arrived_warehouse,Pavlodar,,2026-08-20 02:30:00
+1052,210,31,departed_warehouse,Astana,,2026-08-20 09:30:00
+1053,210,20,out_for_delivery,Kostanay,,2026-08-20 12:30:00
+1054,210,7,delivered,Aktau,,2026-08-21 13:30:00
+1055,211,9,created,Uralsk,,2024-04-03 18:11:00
+1056,211,50,picked_up,Oskemen,,2024-04-04 17:11:00
+1057,211,38,arrived_warehouse,Atyrau,,2024-04-05 20:11:00
+1058,211,48,departed_warehouse,Petropavl,,2024-04-07 00:11:00
+1059,211,14,out_for_delivery,Shymkent,Water cut fire who why fact reason make.,2024-04-07 18:11:00
+1060,211,14,delivered,Astana,,2024-04-08 04:11:00
+1061,212,30,created,Uralsk,,2025-06-14 16:01:00
+1062,212,28,picked_up,Aktobe,,2025-06-15 18:01:00
+1063,212,25,arrived_warehouse,Pavlodar,,2025-06-16 03:01:00
+1064,212,1,departed_warehouse,Aktobe,,2025-06-17 05:01:00
+1065,212,13,out_for_delivery,Almaty,,2025-06-18 00:01:00
+1066,213,7,created,Petropavl,,2026-08-18 04:40:00
+1067,213,13,picked_up,Taraz,,2026-08-19 10:40:00
+1068,213,22,arrived_warehouse,Petropavl,,2026-08-19 13:40:00
+1069,213,46,departed_warehouse,Shymkent,,2026-08-20 02:40:00
+1070,213,47,out_for_delivery,Pavlodar,,2026-08-20 23:40:00
+1071,213,26,delivered,Oskemen,,2026-08-21 23:40:00
+1072,214,22,created,Semey,,2025-06-26 18:17:00
+1073,214,6,picked_up,Atyrau,,2025-06-27 19:17:00
+1074,214,8,arrived_warehouse,Kyzylorda,Site for exactly skill half usually customer.,2025-06-28 00:17:00
+1075,214,6,departed_warehouse,Shymkent,,2025-06-29 02:17:00
+1076,214,2,out_for_delivery,Uralsk,,2025-06-30 01:17:00
+1077,215,43,created,Taraz,,2026-10-19 07:02:00
+1078,215,30,picked_up,Atyrau,,2026-10-19 14:02:00
+1079,215,25,arrived_warehouse,Taraz,,2026-10-20 11:02:00
+1080,215,21,departed_warehouse,Kostanay,,2026-10-20 15:02:00
+1081,215,1,out_for_delivery,Shymkent,,2026-10-21 05:02:00
+1082,215,22,delivered,Taraz,,2026-10-21 18:02:00
+1083,216,6,created,Karaganda,,2025-07-20 14:42:00
+1084,216,23,picked_up,Semey,,2025-07-20 21:42:00
+1085,216,1,arrived_warehouse,Taraz,,2025-07-21 14:42:00
+1086,216,20,departed_warehouse,Karaganda,Conference should agree road wall decide something.,2025-07-21 22:42:00
+1087,216,14,out_for_delivery,Oskemen,Standard somebody important material.,2025-07-22 08:42:00
+1088,216,10,delivered,Taraz,,2025-07-22 18:42:00
+1089,217,14,created,Karaganda,,2024-03-09 15:08:00
+1090,217,25,picked_up,Taraz,,2024-03-10 04:08:00
+1091,217,19,arrived_warehouse,Karaganda,,2024-03-10 11:08:00
+1092,217,31,departed_warehouse,Almaty,,2024-03-11 16:08:00
+1093,217,12,out_for_delivery,Shymkent,,2024-03-12 08:08:00
+1094,217,7,delivered,Semey,,2024-03-13 03:08:00
+1095,218,47,created,Petropavl,,2025-10-26 10:12:00
+1096,218,30,picked_up,Karaganda,Drug probably resource smile available.,2025-10-26 14:12:00
+1097,218,32,arrived_warehouse,Semey,,2025-10-27 20:12:00
+1098,218,44,departed_warehouse,Pavlodar,,2025-10-28 18:12:00
+1099,218,44,out_for_delivery,Karaganda,,2025-10-29 07:12:00
+1100,219,30,created,Kostanay,,2024-08-30 05:27:00
+1101,219,47,picked_up,Petropavl,,2024-08-31 10:27:00
+1102,219,3,arrived_warehouse,Astana,,2024-09-01 03:27:00
+1103,219,10,departed_warehouse,Atyrau,,2024-09-01 07:27:00
+1104,219,7,out_for_delivery,Oskemen,,2024-09-02 06:27:00
+1105,219,6,delivered,Pavlodar,,2024-09-03 08:27:00
+1106,220,26,created,Kyzylorda,,2023-06-10 10:32:00
+1107,220,18,picked_up,Almaty,,2023-06-10 22:32:00
+1108,220,27,arrived_warehouse,Taraz,,2023-06-11 01:32:00
+1109,220,30,departed_warehouse,Atyrau,,2023-06-11 12:32:00
+1110,220,21,out_for_delivery,Astana,,2023-06-12 11:32:00
+1111,220,46,delivered,Pavlodar,,2023-06-12 14:32:00
+1112,221,25,created,Atyrau,,2026-01-05 18:24:00
+1113,221,7,picked_up,Oskemen,,2026-01-06 00:24:00
+1114,221,37,arrived_warehouse,Karaganda,,2026-01-06 06:24:00
+1115,221,50,departed_warehouse,Uralsk,,2026-01-06 14:24:00
+1116,221,36,out_for_delivery,Oskemen,,2026-01-07 05:24:00
+1117,221,27,delivered,Kyzylorda,,2026-01-07 14:24:00
+1118,222,2,created,Kostanay,,2024-03-28 05:43:00
+1119,222,42,picked_up,Oskemen,,2024-03-29 09:43:00
+1120,222,13,arrived_warehouse,Petropavl,,2024-03-30 15:43:00
+1121,222,24,departed_warehouse,Kostanay,,2024-03-31 08:43:00
+1122,222,31,out_for_delivery,Kyzylorda,,2024-03-31 16:43:00
+1123,222,21,delivered,Shymkent,,2024-04-01 01:43:00
+1124,223,49,created,Petropavl,,2025-07-26 20:06:00
+1125,223,8,picked_up,Kostanay,,2025-07-28 00:06:00
+1126,223,43,arrived_warehouse,Pavlodar,,2025-07-28 16:06:00
+1127,223,31,departed_warehouse,Aktobe,,2025-07-29 02:06:00
+1128,223,42,out_for_delivery,Kostanay,Worker quality hundred sell whole involve action.,2025-07-29 15:06:00
+1129,223,32,delivered,Uralsk,,2025-07-30 16:06:00
+1130,224,17,created,Taraz,,2026-04-30 01:38:00
+1131,224,14,picked_up,Atyrau,,2026-05-01 07:38:00
+1132,224,1,arrived_warehouse,Karaganda,,2026-05-02 04:38:00
+1133,224,48,departed_warehouse,Petropavl,,2026-05-02 23:38:00
+1134,224,31,out_for_delivery,Atyrau,,2026-05-03 14:38:00
+1135,224,42,delivered,Shymkent,,2026-05-04 04:38:00
+1136,225,41,created,Kyzylorda,Develop section newspaper reach determine.,2025-02-15 08:22:00
+1137,225,34,picked_up,Kyzylorda,,2025-02-16 10:22:00
+1138,225,24,arrived_warehouse,Taraz,Hospital sign open matter general agency.,2025-02-16 19:22:00
+1139,225,7,departed_warehouse,Pavlodar,,2025-02-17 18:22:00
+1140,225,36,out_for_delivery,Aktau,,2025-02-18 05:22:00
+1141,226,30,created,Almaty,,2024-06-05 20:51:00
+1142,226,39,picked_up,Karaganda,,2024-06-06 12:51:00
+1143,226,22,arrived_warehouse,Aktau,,2024-06-06 20:51:00
+1144,226,42,departed_warehouse,Karaganda,,2024-06-07 08:51:00
+1145,226,16,out_for_delivery,Pavlodar,,2024-06-08 04:51:00
+1146,227,31,created,Taraz,,2025-11-07 12:42:00
+1147,228,25,created,Almaty,,2024-09-12 08:17:00
+1148,228,22,picked_up,Karaganda,,2024-09-13 07:17:00
+1149,228,19,arrived_warehouse,Astana,,2024-09-14 00:17:00
+1150,228,5,departed_warehouse,Pavlodar,,2024-09-15 02:17:00
+1151,228,27,out_for_delivery,Petropavl,,2024-09-16 04:17:00
+1152,228,38,delivered,Karaganda,,2024-09-16 11:17:00
+1153,229,24,created,Pavlodar,,2024-08-16 03:20:00
+1154,229,17,picked_up,Karaganda,,2024-08-17 04:20:00
+1155,229,9,arrived_warehouse,Astana,,2024-08-17 07:20:00
+1156,229,26,departed_warehouse,Uralsk,,2024-08-17 23:20:00
+1157,229,34,out_for_delivery,Almaty,,2024-08-18 03:20:00
+1158,229,24,delivered,Almaty,,2024-08-18 22:20:00
+1159,230,5,created,Uralsk,,2023-05-11 20:41:00
+1160,230,18,picked_up,Semey,,2023-05-13 01:41:00
+1161,230,10,arrived_warehouse,Taraz,,2023-05-14 03:41:00
+1162,230,42,departed_warehouse,Atyrau,,2023-05-14 11:41:00
+1163,230,50,out_for_delivery,Kostanay,,2023-05-15 06:41:00
+1164,230,2,delivered,Oskemen,,2023-05-15 22:41:00
+1165,231,29,created,Petropavl,,2024-03-24 12:53:00
+1166,231,14,picked_up,Oskemen,Far turn beat story.,2024-03-25 14:53:00
+1167,231,26,arrived_warehouse,Aktobe,,2024-03-26 07:53:00
+1168,231,38,departed_warehouse,Petropavl,,2024-03-26 22:53:00
+1169,231,33,out_for_delivery,Kyzylorda,,2024-03-27 06:53:00
+1170,232,20,created,Petropavl,Live just recent five feel special.,2024-10-04 04:54:00
+1171,232,42,picked_up,Karaganda,,2024-10-05 10:54:00
+1172,232,6,arrived_warehouse,Taraz,,2024-10-06 11:54:00
+1173,232,31,departed_warehouse,Almaty,,2024-10-07 02:54:00
+1174,232,47,out_for_delivery,Taraz,,2024-10-07 13:54:00
+1175,232,10,delivered,Petropavl,,2024-10-07 17:54:00
+1176,233,48,created,Petropavl,,2024-03-04 17:01:00
+1177,233,3,picked_up,Aktau,,2024-03-05 09:01:00
+1178,233,47,arrived_warehouse,Aktau,,2024-03-06 07:01:00
+1179,233,1,departed_warehouse,Pavlodar,,2024-03-06 13:01:00
+1180,233,27,out_for_delivery,Astana,,2024-03-06 18:01:00
+1181,233,30,delivered,Oskemen,,2024-03-07 12:01:00
+1182,234,12,created,Almaty,,2024-06-09 23:40:00
+1183,234,16,picked_up,Shymkent,,2024-06-10 03:40:00
+1184,234,37,arrived_warehouse,Semey,,2024-06-10 06:40:00
+1185,234,13,departed_warehouse,Taraz,,2024-06-10 20:40:00
+1186,234,26,out_for_delivery,Semey,,2024-06-11 17:40:00
+1187,234,40,delivered,Karaganda,,2024-06-12 10:40:00
+1188,235,4,created,Uralsk,,2025-09-16 05:36:00
+1189,235,15,picked_up,Kostanay,,2025-09-17 01:36:00
+1190,235,11,arrived_warehouse,Pavlodar,,2025-09-17 20:36:00
+1191,235,11,departed_warehouse,Taraz,,2025-09-18 20:36:00
+1192,235,15,out_for_delivery,Petropavl,,2025-09-19 18:36:00
+1193,236,26,created,Atyrau,,2025-03-28 06:50:00
+1194,236,23,picked_up,Astana,,2025-03-29 11:50:00
+1195,236,9,out_for_delivery,Kyzylorda,,2025-03-29 22:50:00
+1196,236,48,failed_attempt,Atyrau,,2025-03-31 00:50:00
+1197,236,14,returned,Semey,,2025-03-31 07:50:00
+1198,237,23,created,Astana,Might necessary former interview left.,2026-07-03 00:26:00
+1199,237,32,picked_up,Aktobe,,2026-07-04 01:26:00
+1200,237,38,arrived_warehouse,Oskemen,,2026-07-04 11:26:00
+1201,237,50,departed_warehouse,Petropavl,,2026-07-04 17:26:00
+1202,237,39,out_for_delivery,Petropavl,,2026-07-05 13:26:00
+1203,237,34,delivered,Petropavl,,2026-07-06 11:26:00
+1204,238,2,created,Kostanay,,2024-04-28 13:18:00
+1205,238,23,picked_up,Petropavl,,2024-04-29 00:18:00
+1206,238,16,arrived_warehouse,Karaganda,,2024-04-29 14:18:00
+1207,238,21,departed_warehouse,Semey,,2024-04-29 18:18:00
+1208,238,17,out_for_delivery,Uralsk,,2024-04-30 17:18:00
+1209,239,12,created,Uralsk,,2023-12-18 13:20:00
+1210,239,46,picked_up,Semey,,2023-12-19 00:20:00
+1211,239,29,arrived_warehouse,Kyzylorda,,2023-12-20 04:20:00
+1212,239,11,departed_warehouse,Pavlodar,Picture control price how scene third.,2023-12-20 12:20:00
+1213,239,38,out_for_delivery,Karaganda,,2023-12-20 21:20:00
+1214,239,42,delivered,Aktau,,2023-12-21 22:20:00
+1215,240,17,created,Oskemen,,2026-09-14 02:45:00
+1216,240,21,picked_up,Aktau,,2026-09-14 12:45:00
+1217,240,9,arrived_warehouse,Pavlodar,,2026-09-15 13:45:00
+1218,240,16,departed_warehouse,Uralsk,,2026-09-16 14:45:00
+1219,240,7,out_for_delivery,Kyzylorda,,2026-09-16 21:45:00
+1220,240,46,delivered,Semey,,2026-09-17 16:45:00
+1221,241,27,created,Shymkent,,2023-04-15 08:14:00
+1222,241,38,picked_up,Pavlodar,,2023-04-16 08:14:00
+1223,241,4,arrived_warehouse,Kostanay,,2023-04-17 06:14:00
+1224,241,8,departed_warehouse,Uralsk,,2023-04-18 03:14:00
+1225,241,5,out_for_delivery,Aktau,,2023-04-19 01:14:00
+1226,241,47,delivered,Aktobe,,2023-04-19 09:14:00
+1227,242,13,created,Taraz,,2024-11-01 01:23:00
+1228,242,35,picked_up,Aktobe,,2024-11-01 09:23:00
+1229,242,44,arrived_warehouse,Kyzylorda,,2024-11-01 15:23:00
+1230,242,37,departed_warehouse,Shymkent,,2024-11-02 05:23:00
+1231,242,50,out_for_delivery,Shymkent,,2024-11-03 06:23:00
+1232,242,29,delivered,Almaty,,2024-11-04 11:23:00
+1233,243,43,created,Aktau,Or home relate day sell speak artist.,2026-04-14 20:50:00
+1234,243,24,picked_up,Shymkent,,2026-04-15 06:50:00
+1235,243,32,arrived_warehouse,Aktobe,,2026-04-16 11:50:00
+1236,243,23,departed_warehouse,Almaty,,2026-04-16 15:50:00
+1237,243,43,out_for_delivery,Kostanay,,2026-04-17 09:50:00
+1238,243,7,delivered,Petropavl,,2026-04-18 06:50:00
+1239,244,35,created,Shymkent,,2026-01-22 09:57:00
+1240,244,4,picked_up,Aktau,Son Mr hand culture.,2026-01-23 11:57:00
+1241,244,25,arrived_warehouse,Aktobe,,2026-01-23 23:57:00
+1242,244,4,departed_warehouse,Petropavl,,2026-01-24 19:57:00
+1243,244,28,out_for_delivery,Kostanay,,2026-01-26 01:57:00
+1244,244,12,delivered,Aktau,,2026-01-27 07:57:00
+1245,245,27,created,Kostanay,Energy television month police.,2024-02-16 22:56:00
+1246,246,31,created,Semey,,2026-11-11 15:08:00
+1247,247,13,created,Pavlodar,,2026-06-10 15:04:00
+1248,247,2,picked_up,Petropavl,,2026-06-11 08:04:00
+1249,247,16,arrived_warehouse,Atyrau,,2026-06-12 13:04:00
+1250,247,11,departed_warehouse,Shymkent,,2026-06-13 09:04:00
+1251,247,4,out_for_delivery,Astana,,2026-06-13 22:04:00
+1252,248,31,created,Kyzylorda,,2023-10-21 16:34:00
+1253,248,19,picked_up,Taraz,,2023-10-22 07:34:00
+1254,248,48,arrived_warehouse,Aktobe,,2023-10-23 00:34:00
+1255,248,17,departed_warehouse,Pavlodar,,2023-10-23 22:34:00
+1256,248,30,out_for_delivery,Semey,,2023-10-24 21:34:00
+1257,248,30,delivered,Aktau,,2023-10-25 04:34:00
+1258,249,26,created,Shymkent,,2023-02-06 15:23:00
+1259,249,16,picked_up,Aktobe,,2023-02-07 00:23:00
+1260,249,13,arrived_warehouse,Petropavl,,2023-02-07 21:23:00
+1261,249,40,departed_warehouse,Pavlodar,,2023-02-09 01:23:00
+1262,249,49,out_for_delivery,Uralsk,,2023-02-09 21:23:00
+1263,249,20,delivered,Aktobe,,2023-02-10 20:23:00
+1264,250,13,created,Kostanay,,2024-11-22 03:54:00
+1265,250,20,picked_up,Petropavl,Case himself control player really population yourself never.,2024-11-22 12:54:00
+1266,250,21,arrived_warehouse,Atyrau,,2024-11-23 10:54:00
+1267,250,31,departed_warehouse,Pavlodar,,2024-11-24 03:54:00
+1268,250,20,out_for_delivery,Astana,,2024-11-24 15:54:00
+1269,251,38,created,Kostanay,,2025-04-11 17:30:00
+1270,251,29,cancelled,Atyrau,,2025-04-12 07:30:00
+1271,252,6,created,Pavlodar,,2025-01-24 17:18:00
+1272,252,32,picked_up,Almaty,,2025-01-25 21:18:00
+1273,252,27,out_for_delivery,Shymkent,,2025-01-26 18:18:00
+1274,252,13,failed_attempt,Aktau,,2025-01-27 05:18:00
+1275,252,2,returned,Semey,,2025-01-28 00:18:00
+1276,253,33,created,Kyzylorda,,2024-07-04 22:51:00
+1277,253,9,picked_up,Uralsk,,2024-07-06 02:51:00
+1278,253,5,arrived_warehouse,Shymkent,,2024-07-06 12:51:00
+1279,253,37,departed_warehouse,Uralsk,,2024-07-06 19:51:00
+1280,253,5,out_for_delivery,Almaty,,2024-07-07 00:51:00
+1281,253,22,delivered,Petropavl,,2024-07-08 02:51:00
+1282,254,17,created,Petropavl,,2023-04-20 08:40:00
+1283,254,34,picked_up,Almaty,,2023-04-20 18:40:00
+1284,254,17,arrived_warehouse,Karaganda,,2023-04-21 18:40:00
+1285,254,4,departed_warehouse,Astana,,2023-04-21 23:40:00
+1286,254,4,out_for_delivery,Atyrau,,2023-04-23 01:40:00
+1287,254,6,delivered,Taraz,,2023-04-23 17:40:00
+1288,255,22,created,Aktobe,Eye cost success people tend weight machine.,2025-01-08 19:25:00
+1289,255,11,picked_up,Karaganda,,2025-01-09 10:25:00
+1290,255,36,arrived_warehouse,Karaganda,,2025-01-10 16:25:00
+1291,255,39,departed_warehouse,Kostanay,,2025-01-11 10:25:00
+1292,255,11,out_for_delivery,Semey,,2025-01-12 02:25:00
+1293,255,23,delivered,Astana,Spring white measure manager range.,2025-01-12 06:25:00
+1294,256,49,created,Shymkent,,2025-05-02 04:32:00
+1295,256,34,picked_up,Semey,,2025-05-02 09:32:00
+1296,256,18,arrived_warehouse,Astana,,2025-05-03 11:32:00
+1297,256,13,departed_warehouse,Uralsk,,2025-05-04 14:32:00
+1298,256,10,out_for_delivery,Pavlodar,,2025-05-05 15:32:00
+1299,256,31,delivered,Aktobe,,2025-05-05 19:32:00
+1300,257,6,created,Pavlodar,,2025-09-19 00:41:00
+1301,257,29,picked_up,Taraz,,2025-09-19 07:41:00
+1302,257,39,out_for_delivery,Semey,,2025-09-19 15:41:00
+1303,257,18,failed_attempt,Semey,,2025-09-19 21:41:00
+1304,257,39,returned,Semey,,2025-09-20 22:41:00
+1305,258,8,created,Uralsk,,2023-10-09 17:52:00
+1306,258,15,picked_up,Aktobe,Report kitchen cold not somebody determine.,2023-10-10 04:52:00
+1307,258,36,arrived_warehouse,Almaty,Ever Mrs collection.,2023-10-11 04:52:00
+1308,258,45,departed_warehouse,Aktobe,,2023-10-12 09:52:00
+1309,258,15,out_for_delivery,Uralsk,,2023-10-12 13:52:00
+1310,258,9,delivered,Aktau,,2023-10-12 20:52:00
+1311,259,42,created,Taraz,,2026-11-27 10:28:00
+1312,260,14,created,Taraz,,2026-03-07 07:10:00
+1313,260,48,picked_up,Kyzylorda,,2026-03-07 23:10:00
+1314,260,27,arrived_warehouse,Taraz,Fear yourself last give stage.,2026-03-08 10:10:00
+1315,260,3,departed_warehouse,Kyzylorda,,2026-03-09 13:10:00
+1316,260,17,out_for_delivery,Semey,,2026-03-09 20:10:00
+1317,261,24,created,Semey,,2023-06-23 06:18:00
+1318,262,33,created,Aktau,Tend bring speech decide scene ready.,2026-07-26 15:52:00
+1319,262,37,picked_up,Almaty,,2026-07-26 21:52:00
+1320,262,43,arrived_warehouse,Shymkent,,2026-07-27 17:52:00
+1321,262,46,departed_warehouse,Uralsk,,2026-07-28 17:52:00
+1322,262,21,out_for_delivery,Kostanay,,2026-07-28 23:52:00
+1323,262,36,delivered,Kyzylorda,,2026-07-29 13:52:00
+1324,263,39,created,Karaganda,,2026-08-05 14:42:00
+1325,263,14,picked_up,Karaganda,,2026-08-06 04:42:00
+1326,263,31,arrived_warehouse,Taraz,,2026-08-07 01:42:00
+1327,263,44,departed_warehouse,Semey,,2026-08-07 05:42:00
+1328,263,21,out_for_delivery,Pavlodar,Plan coach cause deal deal arrive go exactly.,2026-08-07 23:42:00
+1329,264,16,created,Atyrau,,2026-06-20 22:29:00
+1330,264,21,picked_up,Karaganda,,2026-06-21 02:29:00
+1331,264,29,arrived_warehouse,Aktobe,,2026-06-22 03:29:00
+1332,264,1,departed_warehouse,Taraz,,2026-06-22 09:29:00
+1333,264,44,out_for_delivery,Uralsk,Collection without fall of weight method too.,2026-06-23 15:29:00
+1334,264,29,delivered,Astana,,2026-06-24 10:29:00
+1335,265,39,created,Atyrau,Term camera tend economic represent.,2025-11-23 11:10:00
+1336,265,24,picked_up,Uralsk,,2025-11-24 05:10:00
+1337,265,46,arrived_warehouse,Aktau,,2025-11-24 08:10:00
+1338,265,41,departed_warehouse,Aktau,,2025-11-24 22:10:00
+1339,265,3,out_for_delivery,Karaganda,,2025-11-25 16:10:00
+1340,266,12,created,Atyrau,,2025-10-31 15:04:00
+1341,266,3,picked_up,Aktobe,,2025-11-01 11:04:00
+1342,266,9,arrived_warehouse,Kostanay,,2025-11-01 23:04:00
+1343,266,24,departed_warehouse,Almaty,,2025-11-02 02:04:00
+1344,266,8,out_for_delivery,Aktau,,2025-11-02 05:04:00
+1345,266,34,delivered,Almaty,,2025-11-03 02:04:00
+1346,267,48,created,Kyzylorda,,2025-09-01 01:38:00
+1347,267,33,picked_up,Kyzylorda,,2025-09-01 23:38:00
+1348,267,49,arrived_warehouse,Taraz,,2025-09-03 05:38:00
+1349,267,34,departed_warehouse,Karaganda,,2025-09-04 03:38:00
+1350,267,28,out_for_delivery,Atyrau,Seven put majority officer environmental.,2025-09-04 08:38:00
+1351,267,36,delivered,Astana,,2025-09-04 13:38:00
+1352,268,15,created,Pavlodar,,2024-11-26 07:55:00
+1353,268,16,picked_up,Atyrau,,2024-11-26 20:55:00
+1354,268,13,arrived_warehouse,Petropavl,,2024-11-27 08:55:00
+1355,268,27,departed_warehouse,Karaganda,,2024-11-28 08:55:00
+1356,268,43,out_for_delivery,Taraz,,2024-11-29 00:55:00
+1357,268,9,delivered,Uralsk,,2024-11-29 22:55:00
+1358,269,3,created,Petropavl,Heart away some shoulder idea seek.,2026-04-03 13:23:00
+1359,269,36,picked_up,Aktau,,2026-04-03 19:23:00
+1360,269,7,arrived_warehouse,Kyzylorda,,2026-04-04 23:23:00
+1361,269,14,departed_warehouse,Almaty,,2026-04-05 15:23:00
+1362,269,4,out_for_delivery,Almaty,,2026-04-06 12:23:00
+1363,269,47,delivered,Karaganda,,2026-04-07 10:23:00
+1364,270,18,created,Uralsk,,2023-11-07 08:05:00
+1365,270,16,cancelled,Petropavl,,2023-11-07 14:05:00
+1366,271,25,created,Petropavl,,2026-10-01 11:01:00
+1367,272,24,created,Kyzylorda,,2025-04-06 01:16:00
+1368,272,11,picked_up,Shymkent,,2025-04-06 19:16:00
+1369,272,42,arrived_warehouse,Aktau,,2025-04-07 16:16:00
+1370,272,13,departed_warehouse,Petropavl,Lawyer maintain old than suggest behavior.,2025-04-08 20:16:00
+1371,272,24,out_for_delivery,Almaty,,2025-04-09 11:16:00
+1372,272,46,delivered,Kyzylorda,,2025-04-09 16:16:00
+1373,273,12,created,Shymkent,,2023-10-17 17:35:00
+1374,273,16,picked_up,Uralsk,Play recently sure somebody huge why station.,2023-10-18 01:35:00
+1375,273,11,arrived_warehouse,Uralsk,,2023-10-19 07:35:00
+1376,273,2,departed_warehouse,Aktau,,2023-10-20 12:35:00
+1377,273,26,out_for_delivery,Shymkent,,2023-10-20 16:35:00
+1378,274,29,created,Petropavl,,2025-08-01 21:49:00
+1379,274,48,picked_up,Shymkent,,2025-08-03 00:49:00
+1380,274,26,arrived_warehouse,Aktobe,,2025-08-03 12:49:00
+1381,274,29,departed_warehouse,Karaganda,,2025-08-03 22:49:00
+1382,274,46,out_for_delivery,Semey,,2025-08-04 15:49:00
+1383,274,30,delivered,Shymkent,,2025-08-05 00:49:00
+1384,275,34,created,Atyrau,,2025-08-04 21:20:00
+1385,276,44,created,Semey,,2026-02-25 17:14:00
+1386,276,30,picked_up,Uralsk,,2026-02-26 17:14:00
+1387,276,47,arrived_warehouse,Pavlodar,,2026-02-27 15:14:00
+1388,276,37,departed_warehouse,Aktau,,2026-02-28 02:14:00
+1389,276,48,out_for_delivery,Pavlodar,,2026-03-01 07:14:00
+1390,276,34,delivered,Shymkent,,2026-03-01 20:14:00
+1391,277,27,created,Semey,,2024-07-10 21:25:00
+1392,277,24,picked_up,Astana,,2024-07-11 10:25:00
+1393,277,32,arrived_warehouse,Kyzylorda,,2024-07-12 04:25:00
+1394,277,14,departed_warehouse,Oskemen,,2024-07-13 01:25:00
+1395,277,19,out_for_delivery,Aktobe,,2024-07-13 11:25:00
+1396,277,22,delivered,Shymkent,,2024-07-13 19:25:00
+1397,278,40,created,Petropavl,,2025-05-21 03:06:00
+1398,278,40,picked_up,Karaganda,,2025-05-22 08:06:00
+1399,278,39,arrived_warehouse,Petropavl,,2025-05-23 01:06:00
+1400,278,50,departed_warehouse,Kostanay,,2025-05-24 00:06:00
+1401,278,39,out_for_delivery,Aktobe,,2025-05-24 18:06:00
+1402,279,26,created,Uralsk,,2024-12-29 10:52:00
+1403,279,29,picked_up,Shymkent,,2024-12-29 23:52:00
+1404,279,46,arrived_warehouse,Oskemen,,2024-12-31 01:52:00
+1405,279,37,departed_warehouse,Petropavl,,2025-01-01 04:52:00
+1406,279,11,out_for_delivery,Karaganda,,2025-01-01 07:52:00
+1407,279,22,delivered,Shymkent,Environmental stock front official not magazine gas.,2025-01-02 01:52:00
+1408,280,35,created,Uralsk,,2023-01-19 03:46:00
+1409,280,22,picked_up,Almaty,,2023-01-19 15:46:00
+1410,280,5,arrived_warehouse,Semey,,2023-01-20 14:46:00
+1411,280,30,departed_warehouse,Kyzylorda,,2023-01-21 06:46:00
+1412,280,15,out_for_delivery,Kyzylorda,,2023-01-22 03:46:00
+1413,280,15,delivered,Semey,,2023-01-23 00:46:00
+1414,281,22,created,Taraz,,2025-12-13 16:00:00
+1415,281,2,picked_up,Astana,,2025-12-14 10:00:00
+1416,281,47,arrived_warehouse,Karaganda,,2025-12-15 12:00:00
+1417,281,43,departed_warehouse,Karaganda,,2025-12-16 00:00:00
+1418,281,14,out_for_delivery,Kostanay,,2025-12-16 16:00:00
+1419,281,49,delivered,Kyzylorda,,2025-12-16 22:00:00
+1420,282,34,created,Petropavl,,2023-05-14 17:10:00
+1421,282,31,picked_up,Kyzylorda,,2023-05-15 02:10:00
+1422,282,2,out_for_delivery,Pavlodar,,2023-05-15 16:10:00
+1423,282,49,failed_attempt,Oskemen,,2023-05-16 20:10:00
+1424,282,50,returned,Uralsk,,2023-05-17 15:10:00
+1425,283,18,created,Pavlodar,,2024-04-06 19:52:00
+1426,283,34,picked_up,Pavlodar,Buy tax kid.,2024-04-07 00:52:00
+1427,283,48,out_for_delivery,Karaganda,,2024-04-07 12:52:00
+1428,283,19,failed_attempt,Pavlodar,,2024-04-07 15:52:00
+1429,283,9,returned,Kyzylorda,,2024-04-07 20:52:00
+1430,284,16,created,Astana,,2023-09-07 14:37:00
+1431,284,42,picked_up,Kyzylorda,,2023-09-07 22:37:00
+1432,284,7,arrived_warehouse,Taraz,,2023-09-09 04:37:00
+1433,284,14,departed_warehouse,Kostanay,,2023-09-09 22:37:00
+1434,284,48,out_for_delivery,Petropavl,,2023-09-10 06:37:00
+1435,284,16,delivered,Oskemen,Yeah into yet.,2023-09-11 01:37:00
+1436,285,46,created,Astana,,2024-03-03 18:36:00
+1437,286,49,created,Aktau,Pressure economy head tough.,2023-09-06 04:27:00
+1438,286,23,picked_up,Karaganda,,2023-09-06 21:27:00
+1439,286,13,arrived_warehouse,Kostanay,,2023-09-07 14:27:00
+1440,286,31,departed_warehouse,Oskemen,,2023-09-08 19:27:00
+1441,286,15,out_for_delivery,Semey,,2023-09-09 13:27:00
+1442,286,50,delivered,Aktobe,,2023-09-09 16:27:00
+1443,287,50,created,Aktau,,2025-12-05 11:01:00
+1444,287,1,picked_up,Semey,,2025-12-06 00:01:00
+1445,287,47,arrived_warehouse,Karaganda,,2025-12-06 06:01:00
+1446,287,17,departed_warehouse,Kostanay,,2025-12-06 22:01:00
+1447,287,13,out_for_delivery,Taraz,,2025-12-07 19:01:00
+1448,287,39,delivered,Atyrau,,2025-12-09 00:01:00
+1449,288,14,created,Aktobe,,2024-04-30 17:45:00
+1450,288,17,picked_up,Almaty,,2024-04-30 21:45:00
+1451,288,8,arrived_warehouse,Karaganda,,2024-05-01 13:45:00
+1452,288,14,departed_warehouse,Astana,,2024-05-02 06:45:00
+1453,288,40,out_for_delivery,Astana,Pretty region ability live car difficult.,2024-05-02 16:45:00
+1454,288,39,delivered,Aktau,,2024-05-03 03:45:00
+1455,289,12,created,Petropavl,,2025-09-28 02:01:00
+1456,289,3,cancelled,Kostanay,,2025-09-29 04:01:00
+1457,290,31,created,Oskemen,Director become south billion.,2023-09-26 18:44:00
+1458,290,3,picked_up,Aktau,,2023-09-27 08:44:00
+1459,290,27,arrived_warehouse,Astana,Thing case similar send card year.,2023-09-28 13:44:00
+1460,290,14,departed_warehouse,Astana,,2023-09-28 21:44:00
+1461,290,28,out_for_delivery,Aktobe,,2023-09-29 03:44:00
+1462,291,35,created,Semey,,2025-07-16 14:25:00
+1463,291,38,picked_up,Astana,,2025-07-17 20:25:00
+1464,291,4,out_for_delivery,Aktobe,,2025-07-18 03:25:00
+1465,291,8,failed_attempt,Aktau,,2025-07-18 23:25:00
+1466,291,38,returned,Kostanay,,2025-07-19 22:25:00
+1467,292,41,created,Atyrau,Attention none particular clearly.,2025-11-07 11:20:00
+1468,292,13,cancelled,Semey,,2025-11-08 12:20:00
+1469,293,28,created,Semey,Reveal physical character in rather team.,2026-05-23 08:24:00
+1470,293,4,picked_up,Almaty,,2026-05-24 06:24:00
+1471,293,25,arrived_warehouse,Pavlodar,,2026-05-24 16:24:00
+1472,293,24,departed_warehouse,Kostanay,,2026-05-24 21:24:00
+1473,293,10,out_for_delivery,Oskemen,,2026-05-25 16:24:00
+1474,293,16,delivered,Oskemen,,2026-05-25 22:24:00
+1475,294,13,created,Aktau,,2026-03-24 19:12:00
+1476,294,18,picked_up,Aktobe,,2026-03-25 10:12:00
+1477,294,10,arrived_warehouse,Kostanay,,2026-03-25 15:12:00
+1478,294,19,departed_warehouse,Kostanay,,2026-03-26 15:12:00
+1479,294,42,out_for_delivery,Taraz,,2026-03-27 12:12:00
+1480,294,27,delivered,Karaganda,,2026-03-28 00:12:00
+1481,295,26,created,Uralsk,,2024-05-24 20:55:00
+1482,295,24,picked_up,Pavlodar,,2024-05-25 20:55:00
+1483,295,19,arrived_warehouse,Aktobe,,2024-05-26 04:55:00
+1484,295,2,departed_warehouse,Taraz,To cause but role.,2024-05-27 06:55:00
+1485,295,20,out_for_delivery,Oskemen,,2024-05-27 21:55:00
+1486,296,38,created,Astana,,2025-01-15 18:38:00
+1487,296,32,picked_up,Aktobe,,2025-01-16 03:38:00
+1488,296,21,arrived_warehouse,Aktobe,White fire cause everybody base network.,2025-01-17 02:38:00
+1489,296,3,departed_warehouse,Kostanay,Return expect wait agree suggest then day parent.,2025-01-17 18:38:00
+1490,296,49,out_for_delivery,Atyrau,,2025-01-17 23:38:00
+1491,296,49,delivered,Pavlodar,,2025-01-18 17:38:00
+1492,297,8,created,Kostanay,,2023-01-15 10:46:00
+1493,297,40,cancelled,Taraz,,2023-01-15 13:46:00
+1494,298,48,created,Almaty,,2023-09-03 18:27:00
+1495,298,8,picked_up,Kostanay,,2023-09-04 00:27:00
+1496,298,2,arrived_warehouse,Almaty,,2023-09-05 03:27:00
+1497,298,4,departed_warehouse,Aktau,,2023-09-06 09:27:00
+1498,298,25,out_for_delivery,Oskemen,,2023-09-06 23:27:00
+1499,298,49,delivered,Almaty,,2023-09-07 04:27:00
+1500,299,16,created,Semey,,2024-11-20 03:49:00
+1501,299,48,picked_up,Kyzylorda,,2024-11-20 23:49:00
+1502,299,3,arrived_warehouse,Aktobe,,2024-11-21 15:49:00
+1503,299,40,departed_warehouse,Kostanay,,2024-11-22 05:49:00
+1504,299,43,out_for_delivery,Pavlodar,,2024-11-22 11:49:00
+1505,300,37,created,Atyrau,,2023-05-12 00:01:00
+1506,300,13,picked_up,Shymkent,,2023-05-13 06:01:00
+1507,300,12,arrived_warehouse,Petropavl,,2023-05-13 12:01:00
+1508,300,15,departed_warehouse,Karaganda,,2023-05-14 17:01:00
+1509,300,28,out_for_delivery,Oskemen,,2023-05-15 20:01:00
+1510,300,27,delivered,Atyrau,,2023-05-16 00:01:00
+1511,301,41,created,Astana,,2023-12-15 06:36:00
+1512,301,1,picked_up,Aktau,,2023-12-15 15:36:00
+1513,301,7,arrived_warehouse,Taraz,,2023-12-16 07:36:00
+1514,301,50,departed_warehouse,Aktobe,,2023-12-16 14:36:00
+1515,301,37,out_for_delivery,Pavlodar,,2023-12-17 03:36:00
+1516,301,8,delivered,Karaganda,,2023-12-18 06:36:00
+1517,302,2,created,Almaty,,2023-03-24 16:52:00
+1518,302,34,picked_up,Almaty,,2023-03-25 07:52:00
+1519,302,6,arrived_warehouse,Karaganda,,2023-03-25 18:52:00
+1520,302,48,departed_warehouse,Pavlodar,Security far approach today west.,2023-03-25 23:52:00
+1521,302,50,out_for_delivery,Shymkent,,2023-03-26 15:52:00
+1522,302,13,delivered,Petropavl,,2023-03-27 10:52:00
+1523,303,13,created,Pavlodar,,2023-02-01 21:22:00
+1524,303,7,picked_up,Semey,,2023-02-02 12:22:00
+1525,303,30,arrived_warehouse,Almaty,,2023-02-02 17:22:00
+1526,303,44,departed_warehouse,Astana,History drop point audience thousand activity guess.,2023-02-03 01:22:00
+1527,303,1,out_for_delivery,Oskemen,,2023-02-03 09:22:00
+1528,303,28,delivered,Aktobe,,2023-02-04 12:22:00
+1529,304,11,created,Taraz,Car team nothing half raise several.,2024-03-13 13:58:00
+1530,304,38,picked_up,Aktau,,2024-03-14 07:58:00
+1531,304,41,arrived_warehouse,Aktobe,,2024-03-14 13:58:00
+1532,304,11,departed_warehouse,Atyrau,,2024-03-15 05:58:00
+1533,304,32,out_for_delivery,Uralsk,,2024-03-16 07:58:00
+1534,305,32,created,Aktobe,,2025-11-20 06:30:00
+1535,305,50,cancelled,Uralsk,,2025-11-21 01:30:00
+1536,306,50,created,Taraz,,2023-12-10 13:02:00
+1537,306,40,picked_up,Atyrau,,2023-12-11 05:02:00
+1538,306,35,arrived_warehouse,Petropavl,Admit attack energy always.,2023-12-12 09:02:00
+1539,306,9,departed_warehouse,Kyzylorda,,2023-12-12 17:02:00
+1540,306,22,out_for_delivery,Uralsk,We huge expert Republican.,2023-12-13 23:02:00
+1541,306,45,delivered,Kostanay,,2023-12-14 21:02:00
+1542,307,18,created,Oskemen,,2026-05-17 03:01:00
+1543,307,5,picked_up,Kostanay,,2026-05-18 01:01:00
+1544,307,32,arrived_warehouse,Atyrau,,2026-05-18 18:01:00
+1545,307,35,departed_warehouse,Shymkent,,2026-05-19 09:01:00
+1546,307,28,out_for_delivery,Aktau,,2026-05-20 06:01:00
+1547,308,24,created,Karaganda,,2023-03-12 16:49:00
+1548,308,26,picked_up,Semey,,2023-03-13 11:49:00
+1549,308,9,arrived_warehouse,Pavlodar,,2023-03-13 20:49:00
+1550,308,19,departed_warehouse,Shymkent,,2023-03-14 18:49:00
+1551,308,9,out_for_delivery,Taraz,,2023-03-15 17:49:00
+1552,308,18,delivered,Uralsk,,2023-03-16 14:49:00
+1553,309,31,created,Atyrau,,2023-06-04 23:04:00
+1554,309,13,picked_up,Aktau,,2023-06-05 03:04:00
+1555,309,38,arrived_warehouse,Aktobe,,2023-06-05 16:04:00
+1556,309,6,departed_warehouse,Petropavl,,2023-06-05 20:04:00
+1557,309,20,out_for_delivery,Astana,,2023-06-06 11:04:00
+1558,310,16,created,Petropavl,,2025-01-16 22:00:00
+1559,310,50,picked_up,Pavlodar,,2025-01-17 18:00:00
+1560,310,22,arrived_warehouse,Aktau,,2025-01-18 01:00:00
+1561,310,50,departed_warehouse,Oskemen,,2025-01-19 05:00:00
+1562,310,50,out_for_delivery,Atyrau,,2025-01-19 18:00:00
+1563,310,49,delivered,Semey,,2025-01-20 22:00:00
+1564,311,41,created,Aktobe,,2026-10-01 22:09:00
+1565,311,5,picked_up,Aktobe,,2026-10-02 08:09:00
+1566,311,8,out_for_delivery,Uralsk,,2026-10-03 13:09:00
+1567,311,5,failed_attempt,Aktobe,Interest I policy Mrs check base.,2026-10-04 02:09:00
+1568,311,31,returned,Almaty,,2026-10-04 15:09:00
+1569,312,13,created,Atyrau,,2025-11-28 17:12:00
+1570,312,42,picked_up,Almaty,,2025-11-29 22:12:00
+1571,312,6,arrived_warehouse,Almaty,,2025-11-30 20:12:00
+1572,312,6,departed_warehouse,Aktau,,2025-11-30 23:12:00
+1573,312,32,out_for_delivery,Shymkent,,2025-12-01 10:12:00
+1574,312,30,delivered,Pavlodar,Memory data space movie.,2025-12-02 06:12:00
+1575,313,14,created,Kyzylorda,,2025-09-07 13:28:00
+1576,313,12,cancelled,Petropavl,,2025-09-08 10:28:00
+1577,314,16,created,Almaty,,2023-12-09 23:10:00
+1578,314,17,picked_up,Atyrau,,2023-12-10 10:10:00
+1579,314,32,arrived_warehouse,Atyrau,,2023-12-11 13:10:00
+1580,314,12,departed_warehouse,Kyzylorda,,2023-12-11 19:10:00
+1581,314,38,out_for_delivery,Semey,Only shake power poor financial join.,2023-12-13 00:10:00
+1582,314,12,delivered,Semey,Around beat its law participant.,2023-12-13 21:10:00
+1583,315,29,created,Pavlodar,,2024-03-07 13:32:00
+1584,315,48,picked_up,Kostanay,,2024-03-08 14:32:00
+1585,315,43,arrived_warehouse,Aktau,,2024-03-09 04:32:00
+1586,315,41,departed_warehouse,Aktau,,2024-03-09 14:32:00
+1587,315,49,out_for_delivery,Uralsk,,2024-03-09 18:32:00
+1588,315,3,delivered,Aktobe,Program price compare actually case.,2024-03-10 21:32:00
+1589,316,37,created,Oskemen,,2023-05-13 11:39:00
+1590,316,14,picked_up,Taraz,,2023-05-13 16:39:00
+1591,316,39,arrived_warehouse,Astana,,2023-05-13 21:39:00
+1592,316,41,departed_warehouse,Shymkent,,2023-05-14 01:39:00
+1593,316,14,out_for_delivery,Shymkent,,2023-05-14 07:39:00
+1594,317,10,created,Atyrau,,2026-05-25 00:42:00
+1595,318,47,created,Astana,,2024-12-15 19:39:00
+1596,318,38,picked_up,Almaty,,2024-12-17 01:39:00
+1597,318,9,out_for_delivery,Petropavl,,2024-12-17 08:39:00
+1598,318,7,failed_attempt,Pavlodar,,2024-12-18 07:39:00
+1599,318,11,returned,Petropavl,,2024-12-19 13:39:00
+1600,319,36,created,Almaty,,2026-06-10 19:27:00
+1601,319,33,picked_up,Astana,Friend investment model.,2026-06-11 23:27:00
+1602,319,48,arrived_warehouse,Uralsk,,2026-06-12 02:27:00
+1603,319,7,departed_warehouse,Semey,,2026-06-12 12:27:00
+1604,319,6,out_for_delivery,Semey,,2026-06-13 15:27:00
+1605,320,26,created,Oskemen,,2023-08-06 07:59:00
+1606,320,23,picked_up,Atyrau,Republican office baby lawyer growth.,2023-08-06 12:59:00
+1607,320,9,arrived_warehouse,Kostanay,,2023-08-06 22:59:00
+1608,320,3,departed_warehouse,Almaty,,2023-08-07 01:59:00
+1609,320,27,out_for_delivery,Oskemen,,2023-08-07 16:59:00
+1610,320,41,delivered,Atyrau,Teacher cold church significant thus purpose boy.,2023-08-08 05:59:00
+1611,321,43,created,Kostanay,Need trial scientist.,2024-05-21 22:36:00
+1612,321,12,picked_up,Almaty,,2024-05-23 02:36:00
+1613,321,33,arrived_warehouse,Almaty,,2024-05-24 00:36:00
+1614,321,42,departed_warehouse,Petropavl,,2024-05-24 12:36:00
+1615,321,26,out_for_delivery,Uralsk,,2024-05-25 06:36:00
+1616,322,11,created,Astana,Different eat trouble floor step number.,2023-08-27 21:52:00
+1617,322,11,picked_up,Taraz,,2023-08-28 01:52:00
+1618,322,41,arrived_warehouse,Uralsk,,2023-08-28 04:52:00
+1619,322,7,departed_warehouse,Petropavl,,2023-08-28 15:52:00
+1620,322,6,out_for_delivery,Aktobe,,2023-08-29 11:52:00
+1621,322,49,delivered,Atyrau,,2023-08-30 12:52:00
+1622,323,20,created,Aktau,,2025-06-28 03:59:00
+1623,323,8,picked_up,Semey,,2025-06-29 06:59:00
+1624,323,34,arrived_warehouse,Aktau,,2025-06-29 20:59:00
+1625,323,37,departed_warehouse,Semey,,2025-06-30 06:59:00
+1626,323,29,out_for_delivery,Kyzylorda,Maybe top conference source.,2025-06-30 20:59:00
+1627,324,30,created,Kostanay,,2025-08-17 21:35:00
+1628,324,43,picked_up,Kyzylorda,,2025-08-18 18:35:00
+1629,324,41,arrived_warehouse,Almaty,,2025-08-19 18:35:00
+1630,324,23,departed_warehouse,Aktobe,,2025-08-20 15:35:00
+1631,324,6,out_for_delivery,Uralsk,,2025-08-21 02:35:00
+1632,324,23,delivered,Oskemen,West attention let.,2025-08-21 08:35:00
+1633,325,27,created,Karaganda,,2025-02-06 16:48:00
+1634,325,1,picked_up,Aktau,,2025-02-06 23:48:00
+1635,325,50,arrived_warehouse,Aktobe,,2025-02-08 03:48:00
+1636,325,35,departed_warehouse,Kostanay,,2025-02-08 18:48:00
+1637,325,3,out_for_delivery,Kyzylorda,,2025-02-09 16:48:00
+1638,325,26,delivered,Semey,,2025-02-10 03:48:00
+1639,326,22,created,Shymkent,,2023-05-28 18:46:00
+1640,326,17,picked_up,Pavlodar,,2023-05-28 22:46:00
+1641,326,26,arrived_warehouse,Pavlodar,,2023-05-29 04:46:00
+1642,326,2,departed_warehouse,Kyzylorda,,2023-05-30 05:46:00
+1643,326,49,out_for_delivery,Karaganda,,2023-05-30 16:46:00
+1644,327,29,created,Karaganda,,2026-11-20 21:09:00
+1645,327,7,cancelled,Uralsk,,2026-11-22 03:09:00
+1646,328,39,created,Taraz,,2026-09-20 11:07:00
+1647,328,44,picked_up,Uralsk,,2026-09-21 17:07:00
+1648,328,16,arrived_warehouse,Kostanay,,2026-09-22 07:07:00
+1649,328,3,departed_warehouse,Pavlodar,,2026-09-23 08:07:00
+1650,328,6,out_for_delivery,Oskemen,,2026-09-24 02:07:00
+1651,328,15,delivered,Petropavl,,2026-09-24 06:07:00
+1652,329,50,created,Pavlodar,,2025-11-11 20:36:00
+1653,329,33,picked_up,Uralsk,,2025-11-12 05:36:00
+1654,329,9,arrived_warehouse,Aktobe,,2025-11-12 21:36:00
+1655,329,17,departed_warehouse,Uralsk,,2025-11-13 11:36:00
+1656,329,9,out_for_delivery,Petropavl,,2025-11-14 02:36:00
+1657,330,45,created,Taraz,,2026-05-28 09:27:00
+1658,330,9,picked_up,Uralsk,,2026-05-29 00:27:00
+1659,330,25,arrived_warehouse,Almaty,,2026-05-29 05:27:00
+1660,330,18,departed_warehouse,Kostanay,,2026-05-29 13:27:00
+1661,330,24,out_for_delivery,Kyzylorda,,2026-05-29 18:27:00
+1662,330,17,delivered,Aktau,,2026-05-30 13:27:00
+1663,331,20,created,Shymkent,,2025-03-19 21:16:00
+1664,331,45,picked_up,Uralsk,,2025-03-20 17:16:00
+1665,331,17,arrived_warehouse,Pavlodar,,2025-03-21 06:16:00
+1666,331,4,departed_warehouse,Almaty,,2025-03-21 17:16:00
+1667,331,17,out_for_delivery,Karaganda,,2025-03-22 09:16:00
+1668,331,42,delivered,Semey,,2025-03-22 21:16:00
+1669,332,25,created,Aktobe,,2026-12-23 06:51:00
+1670,332,22,picked_up,Kostanay,,2026-12-23 17:51:00
+1671,332,25,arrived_warehouse,Atyrau,,2026-12-23 21:51:00
+1672,332,21,departed_warehouse,Kostanay,,2026-12-24 07:51:00
+1673,332,10,out_for_delivery,Karaganda,,2026-12-25 12:51:00
+1674,333,35,created,Semey,,2025-11-14 18:41:00
+1675,333,43,picked_up,Karaganda,,2025-11-15 13:41:00
+1676,333,25,arrived_warehouse,Uralsk,,2025-11-16 15:41:00
+1677,333,28,departed_warehouse,Atyrau,,2025-11-17 12:41:00
+1678,333,10,out_for_delivery,Kyzylorda,,2025-11-18 15:41:00
+1679,333,39,delivered,Almaty,,2025-11-19 16:41:00
+1680,334,38,created,Semey,,2024-05-31 21:53:00
+1681,334,16,picked_up,Atyrau,,2024-06-01 07:53:00
+1682,334,8,arrived_warehouse,Taraz,,2024-06-01 14:53:00
+1683,334,2,departed_warehouse,Oskemen,,2024-06-02 08:53:00
+1684,334,37,out_for_delivery,Aktobe,,2024-06-02 16:53:00
+1685,334,33,delivered,Kyzylorda,Nor fight performance less option.,2024-06-03 11:53:00
+1686,335,19,created,Aktobe,,2024-04-08 19:07:00
+1687,336,21,created,Petropavl,,2026-08-01 09:26:00
+1688,336,3,picked_up,Almaty,,2026-08-01 15:26:00
+1689,336,2,arrived_warehouse,Semey,,2026-08-02 18:26:00
+1690,336,12,departed_warehouse,Almaty,,2026-08-03 09:26:00
+1691,336,18,out_for_delivery,Pavlodar,,2026-08-04 14:26:00
+1692,336,25,delivered,Semey,,2026-08-05 11:26:00
+1693,337,2,created,Pavlodar,,2023-06-30 05:50:00
+1694,337,12,picked_up,Pavlodar,,2023-06-30 21:50:00
+1695,337,37,arrived_warehouse,Semey,,2023-07-01 02:50:00
+1696,337,45,departed_warehouse,Atyrau,,2023-07-01 05:50:00
+1697,337,6,out_for_delivery,Shymkent,,2023-07-01 08:50:00
+1698,337,49,delivered,Pavlodar,,2023-07-02 09:50:00
+1699,338,30,created,Semey,,2026-02-01 19:32:00
+1700,338,6,picked_up,Taraz,,2026-02-02 20:32:00
+1701,338,19,out_for_delivery,Oskemen,,2026-02-03 14:32:00
+1702,338,5,failed_attempt,Astana,,2026-02-04 18:32:00
+1703,338,42,returned,Aktau,,2026-02-05 22:32:00
+1704,339,11,created,Aktobe,,2023-10-11 07:17:00
+1705,339,31,picked_up,Shymkent,,2023-10-11 18:17:00
+1706,339,40,arrived_warehouse,Pavlodar,,2023-10-12 14:17:00
+1707,339,18,departed_warehouse,Almaty,Do get style.,2023-10-13 18:17:00
+1708,339,34,out_for_delivery,Taraz,,2023-10-14 12:17:00
+1709,340,4,created,Astana,,2025-05-09 16:35:00
+1710,340,1,picked_up,Atyrau,,2025-05-10 06:35:00
+1711,340,7,arrived_warehouse,Petropavl,,2025-05-10 23:35:00
+1712,340,12,departed_warehouse,Oskemen,Week ability price.,2025-05-11 12:35:00
+1713,340,48,out_for_delivery,Pavlodar,,2025-05-11 16:35:00
+1714,341,15,created,Uralsk,,2025-05-27 04:45:00
+1715,341,37,picked_up,Aktau,,2025-05-28 08:45:00
+1716,341,36,arrived_warehouse,Atyrau,,2025-05-29 05:45:00
+1717,341,27,departed_warehouse,Pavlodar,,2025-05-30 11:45:00
+1718,341,18,out_for_delivery,Semey,,2025-05-30 22:45:00
+1719,341,47,delivered,Astana,,2025-05-31 14:45:00
+1720,342,47,created,Pavlodar,,2023-05-22 18:29:00
+1721,342,49,picked_up,Kyzylorda,,2023-05-23 13:29:00
+1722,342,10,arrived_warehouse,Oskemen,,2023-05-24 02:29:00
+1723,342,18,departed_warehouse,Aktau,,2023-05-24 17:29:00
+1724,342,28,out_for_delivery,Semey,,2023-05-25 19:29:00
+1725,343,22,created,Pavlodar,Billion morning draw man art.,2024-09-09 06:25:00
+1726,343,11,picked_up,Aktobe,,2024-09-09 21:25:00
+1727,343,1,arrived_warehouse,Atyrau,Republican behavior TV today.,2024-09-10 23:25:00
+1728,343,50,departed_warehouse,Pavlodar,,2024-09-11 12:25:00
+1729,343,41,out_for_delivery,Kostanay,,2024-09-12 06:25:00
+1730,344,47,created,Kyzylorda,,2025-08-04 18:20:00
+1731,344,42,picked_up,Taraz,,2025-08-05 08:20:00
+1732,344,29,out_for_delivery,Taraz,,2025-08-05 19:20:00
+1733,344,3,failed_attempt,Semey,,2025-08-06 08:20:00
+1734,344,32,returned,Astana,,2025-08-07 13:20:00
+1735,345,5,created,Almaty,Unit hotel story for laugh do.,2026-12-12 04:09:00
+1736,345,37,picked_up,Atyrau,Carry show board black last.,2026-12-12 22:09:00
+1737,345,26,out_for_delivery,Atyrau,,2026-12-13 01:09:00
+1738,345,36,failed_attempt,Almaty,Image movie who debate final enter.,2026-12-14 06:09:00
+1739,345,46,returned,Semey,,2026-12-14 21:09:00
+1740,346,14,created,Oskemen,,2023-09-12 07:53:00
+1741,346,26,picked_up,Shymkent,,2023-09-12 14:53:00
+1742,346,35,arrived_warehouse,Karaganda,,2023-09-13 07:53:00
+1743,346,41,departed_warehouse,Shymkent,,2023-09-13 11:53:00
+1744,346,45,out_for_delivery,Uralsk,,2023-09-14 08:53:00
+1745,346,15,delivered,Karaganda,,2023-09-15 12:53:00
+1746,347,24,created,Pavlodar,,2025-05-11 01:56:00
+1747,347,17,cancelled,Semey,,2025-05-11 06:56:00
+1748,348,22,created,Kyzylorda,,2023-11-20 11:45:00
+1749,348,49,picked_up,Uralsk,,2023-11-21 07:45:00
+1750,348,14,arrived_warehouse,Astana,,2023-11-22 13:45:00
+1751,348,39,departed_warehouse,Shymkent,,2023-11-23 04:45:00
+1752,348,31,out_for_delivery,Kyzylorda,,2023-11-24 01:45:00
+1753,348,18,delivered,Pavlodar,,2023-11-24 20:45:00
+1754,349,48,created,Astana,Star community weight take new.,2023-04-18 05:59:00
+1755,349,37,picked_up,Atyrau,,2023-04-18 19:59:00
+1756,349,1,arrived_warehouse,Taraz,,2023-04-19 20:59:00
+1757,349,48,departed_warehouse,Almaty,,2023-04-20 19:59:00
+1758,349,14,out_for_delivery,Almaty,,2023-04-21 18:59:00
+1759,350,44,created,Almaty,,2023-09-08 21:14:00
+1760,350,6,picked_up,Oskemen,,2023-09-09 19:14:00
+1761,350,44,arrived_warehouse,Kostanay,Cup hundred rather visit.,2023-09-11 00:14:00
+1762,350,25,departed_warehouse,Petropavl,,2023-09-11 12:14:00
+1763,350,11,out_for_delivery,Atyrau,,2023-09-12 18:14:00
+1764,350,14,delivered,Astana,,2023-09-13 13:14:00
+1765,351,33,created,Uralsk,,2023-11-26 11:59:00
+1766,351,4,picked_up,Karaganda,,2023-11-27 01:59:00
+1767,351,49,arrived_warehouse,Uralsk,,2023-11-28 04:59:00
+1768,351,3,departed_warehouse,Semey,,2023-11-29 03:59:00
+1769,351,13,out_for_delivery,Taraz,,2023-11-29 18:59:00
+1770,351,13,delivered,Kostanay,,2023-11-30 21:59:00
+1771,352,46,created,Astana,,2023-12-05 22:40:00
+1772,352,44,picked_up,Oskemen,,2023-12-06 19:40:00
+1773,352,36,arrived_warehouse,Pavlodar,,2023-12-07 04:40:00
+1774,352,47,departed_warehouse,Karaganda,,2023-12-07 11:40:00
+1775,352,24,out_for_delivery,Taraz,Old else spend against.,2023-12-07 19:40:00
+1776,353,24,created,Atyrau,,2026-12-12 03:23:00
+1777,354,9,created,Aktobe,,2024-07-26 22:00:00
+1778,354,38,picked_up,Astana,,2024-07-27 23:00:00
+1779,354,8,arrived_warehouse,Kyzylorda,,2024-07-28 14:00:00
+1780,354,43,departed_warehouse,Karaganda,,2024-07-28 18:00:00
+1781,354,13,out_for_delivery,Aktobe,,2024-07-29 15:00:00
+1782,354,27,delivered,Petropavl,,2024-07-29 23:00:00
+1783,355,18,created,Pavlodar,,2025-07-18 11:05:00
+1784,355,43,picked_up,Karaganda,,2025-07-19 01:05:00
+1785,355,28,arrived_warehouse,Kyzylorda,,2025-07-19 09:05:00
+1786,355,30,departed_warehouse,Karaganda,,2025-07-20 13:05:00
+1787,355,42,out_for_delivery,Kyzylorda,,2025-07-21 13:05:00
+1788,356,44,created,Shymkent,,2025-12-19 02:01:00
+1789,357,26,created,Shymkent,,2024-09-03 16:45:00
+1790,358,33,created,Uralsk,,2025-01-25 18:50:00
+1791,358,13,picked_up,Oskemen,Cup position speak begin.,2025-01-27 00:50:00
+1792,358,32,arrived_warehouse,Astana,,2025-01-27 03:50:00
+1793,358,23,departed_warehouse,Taraz,,2025-01-27 09:50:00
+1794,358,36,out_for_delivery,Aktobe,,2025-01-28 14:50:00
+1795,359,48,created,Atyrau,,2026-07-12 19:35:00
+1796,359,43,picked_up,Taraz,,2026-07-14 00:35:00
+1797,359,12,arrived_warehouse,Kostanay,,2026-07-14 08:35:00
+1798,359,4,departed_warehouse,Oskemen,,2026-07-14 23:35:00
+1799,359,22,out_for_delivery,Aktobe,,2026-07-15 21:35:00
+1800,359,25,delivered,Aktobe,,2026-07-16 01:35:00
+1801,360,5,created,Uralsk,,2024-07-03 05:23:00
+1802,360,43,picked_up,Astana,,2024-07-04 04:23:00
+1803,360,47,arrived_warehouse,Karaganda,Business walk anything under item right.,2024-07-04 20:23:00
+1804,360,50,departed_warehouse,Kyzylorda,,2024-07-05 17:23:00
+1805,360,28,out_for_delivery,Karaganda,Ahead raise common Democrat cost evidence third.,2024-07-06 06:23:00
+1806,360,6,delivered,Atyrau,,2024-07-07 06:23:00
+1807,361,30,created,Aktau,,2022-12-30 05:57:00
+1808,362,44,created,Kostanay,,2025-09-26 07:12:00
+1809,362,22,picked_up,Shymkent,,2025-09-27 06:12:00
+1810,362,3,arrived_warehouse,Shymkent,,2025-09-27 13:12:00
+1811,362,23,departed_warehouse,Petropavl,Include nearly article evidence case current this.,2025-09-27 18:12:00
+1812,362,32,out_for_delivery,Uralsk,,2025-09-28 08:12:00
+1813,363,15,created,Pavlodar,,2025-05-02 04:08:00
+1814,364,22,created,Uralsk,,2025-12-15 02:42:00
+1815,364,48,picked_up,Aktobe,,2025-12-15 14:42:00
+1816,364,5,arrived_warehouse,Uralsk,,2025-12-16 01:42:00
+1817,364,8,departed_warehouse,Oskemen,,2025-12-16 23:42:00
+1818,364,38,out_for_delivery,Aktobe,,2025-12-17 21:42:00
+1819,365,31,created,Kostanay,,2026-03-18 18:26:00
+1820,365,43,picked_up,Petropavl,,2026-03-19 15:26:00
+1821,365,34,arrived_warehouse,Atyrau,,2026-03-20 18:26:00
+1822,365,7,departed_warehouse,Aktobe,,2026-03-21 05:26:00
+1823,365,49,out_for_delivery,Atyrau,,2026-03-21 08:26:00
+1824,365,45,delivered,Shymkent,,2026-03-21 12:26:00
+1825,366,26,created,Petropavl,,2026-12-23 00:46:00
+1826,366,39,picked_up,Oskemen,,2026-12-24 01:46:00
+1827,366,22,arrived_warehouse,Taraz,,2026-12-24 22:46:00
+1828,366,1,departed_warehouse,Aktau,,2026-12-25 16:46:00
+1829,366,6,out_for_delivery,Kyzylorda,,2026-12-26 20:46:00
+1830,366,5,delivered,Karaganda,,2026-12-27 05:46:00
+1831,367,38,created,Almaty,,2024-03-30 20:55:00
+1832,367,42,picked_up,Astana,,2024-04-01 00:55:00
+1833,367,29,arrived_warehouse,Kyzylorda,,2024-04-01 18:55:00
+1834,367,17,departed_warehouse,Aktobe,,2024-04-02 11:55:00
+1835,367,14,out_for_delivery,Petropavl,,2024-04-02 23:55:00
+1836,368,45,created,Astana,,2026-05-29 16:29:00
+1837,368,30,picked_up,Pavlodar,,2026-05-30 08:29:00
+1838,368,29,arrived_warehouse,Petropavl,,2026-05-30 11:29:00
+1839,368,31,departed_warehouse,Atyrau,,2026-05-31 14:29:00
+1840,368,21,out_for_delivery,Aktobe,,2026-06-01 17:29:00
+1841,368,12,delivered,Karaganda,,2026-06-01 21:29:00
+1842,369,43,created,Uralsk,,2024-06-12 17:29:00
+1843,369,24,picked_up,Almaty,,2024-06-12 21:29:00
+1844,369,27,arrived_warehouse,Kyzylorda,,2024-06-13 23:29:00
+1845,369,35,departed_warehouse,Semey,,2024-06-14 23:29:00
+1846,369,31,out_for_delivery,Taraz,,2024-06-15 05:29:00
+1847,369,21,delivered,Petropavl,,2024-06-15 23:29:00
+1848,370,33,created,Almaty,,2026-01-13 02:03:00
+1849,370,45,picked_up,Aktau,,2026-01-13 16:03:00
+1850,370,40,arrived_warehouse,Almaty,,2026-01-14 18:03:00
+1851,370,30,departed_warehouse,Petropavl,Around yard morning short yourself.,2026-01-14 23:03:00
+1852,370,32,out_for_delivery,Karaganda,,2026-01-16 04:03:00
+1853,370,41,delivered,Kyzylorda,,2026-01-17 08:03:00
+1854,371,1,created,Petropavl,,2024-10-12 20:29:00
+1855,371,25,picked_up,Uralsk,,2024-10-13 20:29:00
+1856,371,5,arrived_warehouse,Atyrau,,2024-10-14 10:29:00
+1857,371,13,departed_warehouse,Uralsk,,2024-10-14 23:29:00
+1858,371,17,out_for_delivery,Atyrau,,2024-10-15 17:29:00
+1859,372,43,created,Kostanay,,2025-04-19 07:14:00
+1860,372,27,picked_up,Shymkent,,2025-04-20 06:14:00
+1861,372,19,arrived_warehouse,Taraz,,2025-04-21 08:14:00
+1862,372,3,departed_warehouse,Oskemen,,2025-04-21 16:14:00
+1863,372,43,out_for_delivery,Karaganda,,2025-04-22 05:14:00
+1864,372,42,delivered,Taraz,,2025-04-22 08:14:00
+1865,373,26,created,Karaganda,,2025-12-28 08:34:00
+1866,373,49,picked_up,Atyrau,,2025-12-28 14:34:00
+1867,373,17,arrived_warehouse,Aktau,,2025-12-29 03:34:00
+1868,373,20,departed_warehouse,Karaganda,,2025-12-29 18:34:00
+1869,373,44,out_for_delivery,Almaty,Shake way offer work.,2025-12-30 23:34:00
+1870,373,12,delivered,Atyrau,,2025-12-31 14:34:00
+1871,374,10,created,Petropavl,,2025-03-04 02:30:00
+1872,374,40,picked_up,Atyrau,,2025-03-04 23:30:00
+1873,374,37,arrived_warehouse,Kostanay,,2025-03-05 10:30:00
+1874,374,11,departed_warehouse,Aktau,,2025-03-06 09:30:00
+1875,374,48,out_for_delivery,Aktau,Great stuff suddenly compare or south.,2025-03-06 15:30:00
+1876,374,28,delivered,Oskemen,,2025-03-07 01:30:00
+1877,375,14,created,Aktobe,,2023-11-24 16:39:00
+1878,375,48,picked_up,Astana,,2023-11-25 08:39:00
+1879,375,8,out_for_delivery,Kyzylorda,,2023-11-26 07:39:00
+1880,375,49,failed_attempt,Petropavl,,2023-11-27 03:39:00
+1881,375,26,returned,Semey,,2023-11-27 11:39:00
+1882,376,32,created,Oskemen,Trial agreement red way nor none.,2025-10-27 02:25:00
+1883,376,28,picked_up,Uralsk,,2025-10-27 06:25:00
+1884,376,38,arrived_warehouse,Shymkent,Student special wife my compare.,2025-10-27 20:25:00
+1885,376,34,departed_warehouse,Astana,,2025-10-28 16:25:00
+1886,376,18,out_for_delivery,Aktobe,,2025-10-29 21:25:00
+1887,377,46,created,Petropavl,,2026-11-17 18:11:00
+1888,377,26,cancelled,Oskemen,,2026-11-18 19:11:00
+1889,378,40,created,Oskemen,,2023-10-02 09:04:00
+1890,378,1,picked_up,Aktau,,2023-10-03 05:04:00
+1891,378,20,arrived_warehouse,Taraz,,2023-10-03 22:04:00
+1892,378,36,departed_warehouse,Pavlodar,,2023-10-04 09:04:00
+1893,378,37,out_for_delivery,Karaganda,,2023-10-05 15:04:00
+1894,378,33,delivered,Aktobe,,2023-10-05 20:04:00
+1895,379,16,created,Atyrau,,2026-07-07 08:42:00
+1896,379,17,picked_up,Petropavl,,2026-07-08 02:42:00
+1897,379,36,arrived_warehouse,Pavlodar,,2026-07-08 08:42:00
+1898,379,16,departed_warehouse,Almaty,,2026-07-09 14:42:00
+1899,379,24,out_for_delivery,Kyzylorda,Bed discussion despite.,2026-07-10 07:42:00
+1900,379,14,delivered,Almaty,,2026-07-10 10:42:00
+1901,380,49,created,Semey,,2023-02-01 09:28:00
+1902,380,42,picked_up,Astana,,2023-02-01 12:28:00
+1903,380,27,arrived_warehouse,Kyzylorda,,2023-02-01 20:28:00
+1904,380,2,departed_warehouse,Astana,,2023-02-02 00:28:00
+1905,380,28,out_for_delivery,Pavlodar,,2023-02-02 09:28:00
+1906,380,4,delivered,Aktobe,,2023-02-02 15:28:00
+1907,381,7,created,Petropavl,,2024-07-05 19:38:00
+1908,381,35,picked_up,Aktobe,,2024-07-06 05:38:00
+1909,381,6,arrived_warehouse,Shymkent,,2024-07-06 23:38:00
+1910,381,23,departed_warehouse,Aktobe,,2024-07-08 01:38:00
+1911,381,39,out_for_delivery,Almaty,Long forward pass southern future concern sort.,2024-07-09 02:38:00
+1912,381,26,delivered,Shymkent,,2024-07-09 12:38:00
+1913,382,34,created,Petropavl,,2025-08-04 19:04:00
+1914,382,20,picked_up,Atyrau,Whether health walk how big few.,2025-08-05 09:04:00
+1915,382,30,arrived_warehouse,Karaganda,,2025-08-06 02:04:00
+1916,382,49,departed_warehouse,Pavlodar,,2025-08-06 12:04:00
+1917,382,50,out_for_delivery,Shymkent,,2025-08-07 02:04:00
+1918,382,34,delivered,Kostanay,,2025-08-08 08:04:00
+1919,383,5,created,Pavlodar,,2026-03-07 12:56:00
+1920,383,35,picked_up,Semey,,2026-03-08 06:56:00
+1921,383,36,arrived_warehouse,Oskemen,,2026-03-08 18:56:00
+1922,383,5,departed_warehouse,Pavlodar,,2026-03-09 18:56:00
+1923,383,45,out_for_delivery,Karaganda,,2026-03-10 11:56:00
+1924,383,43,delivered,Aktobe,,2026-03-11 16:56:00
+1925,384,22,created,Semey,,2023-08-08 05:03:00
+1926,384,35,picked_up,Kyzylorda,,2023-08-08 08:03:00
+1927,384,46,arrived_warehouse,Pavlodar,,2023-08-09 08:03:00
+1928,384,6,departed_warehouse,Aktau,,2023-08-10 09:03:00
+1929,384,34,out_for_delivery,Karaganda,,2023-08-11 09:03:00
+1930,384,42,delivered,Karaganda,,2023-08-11 17:03:00
+1931,385,39,created,Kyzylorda,,2025-06-14 11:33:00
+1932,385,30,picked_up,Almaty,,2025-06-14 16:33:00
+1933,385,38,arrived_warehouse,Aktau,,2025-06-15 19:33:00
+1934,385,22,departed_warehouse,Uralsk,Wish run join police.,2025-06-16 06:33:00
+1935,385,14,out_for_delivery,Oskemen,,2025-06-16 17:33:00
+1936,385,11,delivered,Aktau,,2025-06-17 23:33:00
+1937,386,48,created,Uralsk,,2025-06-02 20:00:00
+1938,386,47,picked_up,Atyrau,,2025-06-04 02:00:00
+1939,386,7,arrived_warehouse,Semey,,2025-06-04 10:00:00
+1940,386,24,departed_warehouse,Pavlodar,,2025-06-04 14:00:00
+1941,386,28,out_for_delivery,Kyzylorda,,2025-06-05 20:00:00
+1942,386,15,delivered,Petropavl,,2025-06-06 05:00:00
+1943,387,45,created,Pavlodar,,2023-01-18 19:58:00
+1944,387,26,picked_up,Atyrau,,2023-01-19 17:58:00
+1945,387,16,out_for_delivery,Uralsk,,2023-01-20 07:58:00
+1946,387,1,failed_attempt,Taraz,,2023-01-21 08:58:00
+1947,387,49,returned,Petropavl,,2023-01-21 21:58:00
+1948,388,35,created,Petropavl,,2025-02-22 02:40:00
+1949,388,27,picked_up,Petropavl,,2025-02-22 14:40:00
+1950,388,8,arrived_warehouse,Almaty,,2025-02-23 04:40:00
+1951,388,35,departed_warehouse,Almaty,,2025-02-24 00:40:00
+1952,388,1,out_for_delivery,Karaganda,,2025-02-24 09:40:00
+1953,388,14,delivered,Oskemen,,2025-02-25 01:40:00
+1954,389,40,created,Aktau,,2026-03-29 03:34:00
+1955,389,21,picked_up,Uralsk,,2026-03-29 14:34:00
+1956,389,46,arrived_warehouse,Aktobe,,2026-03-29 20:34:00
+1957,389,22,departed_warehouse,Aktau,,2026-03-30 23:34:00
+1958,389,9,out_for_delivery,Petropavl,,2026-03-31 16:34:00
+1959,389,18,delivered,Kyzylorda,,2026-04-01 09:34:00
+1960,390,15,created,Kyzylorda,Power company why really up skin development.,2023-03-09 15:41:00
+1961,390,47,picked_up,Taraz,,2023-03-09 19:41:00
+1962,390,9,arrived_warehouse,Almaty,,2023-03-10 12:41:00
+1963,390,5,departed_warehouse,Almaty,Sport her safe family concern ability reduce of.,2023-03-10 23:41:00
+1964,390,32,out_for_delivery,Kostanay,,2023-03-12 00:41:00
+1965,390,18,delivered,Astana,,2023-03-13 01:41:00
+1966,391,10,created,Uralsk,Allow own TV whose determine not view.,2025-09-08 19:44:00
+1967,392,49,created,Uralsk,Former back get floor.,2024-12-31 20:39:00
+1968,393,26,created,Almaty,,2025-11-07 09:23:00
+1969,393,14,picked_up,Kyzylorda,,2025-11-07 17:23:00
+1970,393,6,arrived_warehouse,Shymkent,,2025-11-08 20:23:00
+1971,393,47,departed_warehouse,Almaty,,2025-11-09 20:23:00
+1972,393,48,out_for_delivery,Petropavl,,2025-11-10 08:23:00
+1973,393,31,delivered,Kyzylorda,,2025-11-11 13:23:00
+1974,394,17,created,Semey,,2023-09-21 09:51:00
+1975,394,33,picked_up,Taraz,,2023-09-22 13:51:00
+1976,394,30,arrived_warehouse,Oskemen,,2023-09-22 22:51:00
+1977,394,33,departed_warehouse,Aktau,,2023-09-23 01:51:00
+1978,394,17,out_for_delivery,Almaty,,2023-09-23 18:51:00
+1979,395,48,created,Shymkent,,2025-09-29 11:47:00
+1980,395,22,picked_up,Almaty,,2025-09-30 01:47:00
+1981,395,14,arrived_warehouse,Almaty,Enter economic attack.,2025-10-01 04:47:00
+1982,395,36,departed_warehouse,Aktau,,2025-10-01 07:47:00
+1983,395,19,out_for_delivery,Kostanay,,2025-10-02 11:47:00
+1984,395,30,delivered,Aktobe,,2025-10-03 02:47:00
+1985,396,48,created,Petropavl,,2025-04-08 03:43:00
+1986,396,50,picked_up,Atyrau,,2025-04-08 23:43:00
+1987,396,46,arrived_warehouse,Atyrau,Skin result answer just information.,2025-04-10 01:43:00
+1988,396,35,departed_warehouse,Uralsk,,2025-04-10 04:43:00
+1989,396,35,out_for_delivery,Petropavl,,2025-04-10 16:43:00
+1990,397,46,created,Karaganda,,2026-04-28 14:38:00
+1991,398,41,created,Shymkent,,2026-08-02 14:43:00
+1992,398,23,picked_up,Atyrau,This manage her national.,2026-08-03 03:43:00
+1993,398,26,arrived_warehouse,Astana,,2026-08-04 03:43:00
+1994,398,30,departed_warehouse,Atyrau,,2026-08-04 07:43:00
+1995,398,17,out_for_delivery,Oskemen,,2026-08-04 11:43:00
+1996,399,14,created,Kostanay,,2023-06-28 14:46:00
+1997,399,10,picked_up,Karaganda,,2023-06-29 20:46:00
+1998,399,27,arrived_warehouse,Astana,,2023-06-30 16:46:00
+1999,399,35,departed_warehouse,Shymkent,,2023-07-01 08:46:00
+2000,399,49,out_for_delivery,Astana,,2023-07-01 21:46:00
+2001,400,7,created,Uralsk,,2025-05-06 03:23:00
+2002,400,37,picked_up,Semey,,2025-05-06 22:23:00
+2003,400,9,arrived_warehouse,Aktobe,,2025-05-07 05:23:00
+2004,400,14,departed_warehouse,Karaganda,Class available suffer far five.,2025-05-07 16:23:00
+2005,400,27,out_for_delivery,Kyzylorda,,2025-05-08 18:23:00
+2006,400,36,delivered,Shymkent,,2025-05-09 09:23:00

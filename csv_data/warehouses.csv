@@ -1,0 +1,13 @@
+warehouse_id,name,address,city,country,capacity_m3,is_active,updated_at,version
+1,Taraz Terminal 1,54599 Nicole Drives Apt. 901,Taraz,Kazakhstan,7488.17,True,,1
+2,Kyzylorda Depot 2,6797 Nelson Throughway Apt. 561,Kyzylorda,Kazakhstan,2483.49,True,,1
+3,Kostanay Depot 3,978 Williams Locks Apt. 034,Kostanay,Kazakhstan,2542.61,True,,1
+4,Kostanay Terminal 4,44510 Burgess Extensions,Kostanay,Kazakhstan,2026.98,True,,1
+5,Karaganda Logistics Center 5,8388 Jones Wall,Karaganda,Kazakhstan,2383.41,True,,1
+6,Almaty Hub 6,0715 Berry Station,Almaty,Kazakhstan,5257.13,True,,1
+7,Almaty Hub 7,1605 Laurie River Suite 516,Almaty,Kazakhstan,3001.67,True,,1
+8,Karaganda Depot 8,69681 Harrell Summit,Karaganda,Kazakhstan,6059.23,True,,1
+9,Oskemen Hub 9,52181 Rebecca Keys Suite 231,Oskemen,Kazakhstan,1339.05,False,,1
+10,Kostanay Depot 10,3292 Gregory Trail,Kostanay,Kazakhstan,4591.93,True,,1
+11,Atyrau Depot 11,9979 Lin Road Suite 271,Atyrau,Kazakhstan,3723.4,True,,1
+12,Pavlodar Hub 12,4490 Romero Inlet Suite 700,Pavlodar,Kazakhstan,7241.93,True,,1

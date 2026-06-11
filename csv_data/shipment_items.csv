@@ -1,0 +1,1390 @@
+item_id,shipment_id,description,quantity,weight_kg,volume_m3,is_fragile,is_hazardous,declared_value
+1,1,Plastic containers,57,582.951,3.19,False,False,730832.84
+2,1,Agricultural produce,31,580.496,1.778,True,False,696382.37
+3,1,Machinery components,10,452.983,1.361,False,False,541220.82
+4,1,Frozen produce,52,335.273,0.551,False,False,315962.36
+5,1,Machinery components,44,449.909,1.58,False,False,305129.89
+6,2,Industrial chemicals,40,246.053,5.71,False,False,26656.67
+7,2,Construction materials,16,513.559,0.605,False,False,548701.37
+8,2,Plastic containers,4,240.088,1.147,False,False,98166.7
+9,2,Agricultural produce,14,385.739,3.587,False,False,17575.29
+10,3,Consumer electronics,33,357.012,2.718,True,False,177629.03
+11,3,Server rack units,56,396.024,1.817,True,False,514850.88
+12,3,Medical equipment,26,256.912,0.657,True,False,570064.85
+13,4,Paper products,5,56.552,0.521,False,False,345785.28
+14,4,Machinery components,36,37.869,5.74,True,False,449565.86
+15,4,Server rack units,43,564.796,2.543,False,False,732717.01
+16,4,Medical equipment,23,63.953,3.049,False,False,124206.78
+17,5,Consumer electronics,22,96.131,1.877,False,False,259844.12
+18,5,Frozen produce,10,96.131,3.711,False,False,539337.98
+19,5,Auto spare parts,39,266.342,1.646,False,False,604077.04
+20,5,Server rack units,44,407.735,2.925,False,False,533872.48
+21,6,Office furniture,37,243.845,3.844,True,False,231967.41
+22,6,Industrial chemicals,52,568.673,2.766,True,False,551843.23
+23,6,Plastic containers,16,262.535,2.409,False,False,63378.35
+24,6,Construction materials,22,467.912,0.468,False,False,506763.12
+25,7,Medical equipment,40,195.279,5.826,True,False,253253.05
+26,7,Auto spare parts,20,478.205,3.553,False,False,281877.81
+27,7,Plastic containers,4,222.505,1.73,True,False,515910.84
+28,7,Cable reels,25,278.702,3.33,True,False,633558.33
+29,7,Steel pipes,37,391.799,1.936,False,False,380765.41
+30,7,Construction materials,52,539.678,2.067,False,True,571595.28
+31,8,Steel pipes,20,336.235,3.865,False,False,263117.01
+32,9,Frozen produce,24,406.465,1.433,False,False,355636.87
+33,9,Medical equipment,15,321.339,1.864,False,False,646994.78
+34,9,Frozen produce,44,568.384,5.907,False,False,369613.14
+35,9,Steel pipes,27,579.828,4.903,False,True,641106.75
+36,10,Server rack units,54,84.998,4.236,False,True,359156.88
+37,10,Construction materials,14,501.308,3.297,False,False,581924.21
+38,10,Agricultural produce,16,182.088,0.296,False,True,336150.52
+39,10,Construction materials,54,543.278,3.584,False,False,13640.06
+40,10,Office furniture,19,258.685,3.693,False,False,192831.11
+41,10,Construction materials,34,584.843,0.415,False,False,421084.53
+42,11,Plastic containers,3,212.675,2.038,False,False,514415.1
+43,11,Paper products,45,288.162,1.102,False,False,108314.64
+44,12,Frozen produce,35,177.672,0.625,False,False,262671.96
+45,12,Paper products,28,101.654,2.669,False,False,357980.16
+46,13,Cable reels,8,17.496,1.124,False,False,414437.35
+47,13,Paper products,17,423.015,1.295,False,False,489695.81
+48,14,Paper products,9,367.945,0.526,False,False,247777.93
+49,14,Industrial chemicals,50,246.841,3.454,False,False,100698.76
+50,14,Construction materials,44,311.381,0.779,False,False,663328.46
+51,14,Auto spare parts,9,260.706,5.465,False,False,44802.57
+52,14,Construction materials,11,194.951,4.259,False,False,277145.45
+53,15,Agricultural produce,19,385.861,1.82,False,False,196279.89
+54,15,Medical equipment,5,413.791,0.957,False,False,332789.59
+55,15,Industrial chemicals,21,517.168,1.923,False,False,790424.68
+56,15,Auto spare parts,24,309.958,0.646,False,False,193769.42
+57,15,Office furniture,7,32.262,5.673,False,False,691399.0
+58,16,Medical equipment,16,130.656,2.124,False,False,40907.05
+59,16,Office furniture,44,283.411,3.225,True,False,677814.31
+60,16,Consumer electronics,24,458.786,2.202,False,False,320765.01
+61,16,Frozen produce,19,45.972,3.03,False,False,611641.09
+62,17,Frozen produce,33,497.317,3.199,False,True,567137.48
+63,17,Agricultural produce,22,404.936,5.88,False,False,467169.86
+64,17,Agricultural produce,41,17.935,2.853,False,False,773673.02
+65,18,Machinery components,12,276.879,3.203,False,False,437245.44
+66,18,Textile rolls,42,482.584,1.594,False,False,387601.99
+67,18,Medical equipment,20,463.162,4.232,False,False,552346.81
+68,19,Agricultural produce,7,249.154,4.307,True,False,80885.65
+69,20,Construction materials,35,315.542,5.337,False,False,107792.86
+70,20,Paper products,8,199.749,4.389,False,False,518804.13
+71,20,Consumer electronics,51,178.425,4.05,False,False,154932.45
+72,20,Auto spare parts,53,257.767,1.974,False,False,320966.18
+73,20,Medical equipment,21,561.624,0.051,False,False,307167.73
+74,20,Industrial chemicals,20,350.312,3.442,False,True,209611.74
+75,21,Consumer electronics,8,38.931,3.29,False,False,404636.9
+76,21,Consumer electronics,55,313.164,0.706,False,False,164718.49
+77,21,Medical equipment,29,485.598,2.726,False,False,410841.65
+78,21,Plastic containers,44,484.535,4.342,True,False,317060.99
+79,21,Server rack units,5,29.083,2.074,False,True,51476.05
+80,22,Cable reels,16,277.454,0.939,False,False,151190.12
+81,22,Cable reels,52,396.798,3.693,True,False,749022.23
+82,23,Industrial chemicals,41,407.893,3.34,False,False,37983.84
+83,23,Frozen produce,51,315.629,4.181,False,False,326903.21
+84,24,Agricultural produce,14,562.422,5.773,False,False,94294.3
+85,25,Machinery components,15,229.144,5.002,False,False,399691.54
+86,25,Medical equipment,49,493.312,5.799,False,False,513534.72
+87,25,Cable reels,23,103.221,4.325,False,False,390908.9
+88,26,Auto spare parts,28,484.088,5.46,False,False,86059.63
+89,26,Office furniture,40,316.821,4.893,True,False,214226.13
+90,26,Machinery components,30,339.871,5.941,False,False,181072.87
+91,26,Office furniture,55,390.637,0.2,False,True,324520.0
+92,26,Machinery components,1,422.301,0.505,False,False,676341.17
+93,26,Textile rolls,55,584.356,5.37,False,False,735362.2
+94,27,Office furniture,20,99.145,1.45,False,False,667803.12
+95,28,Office furniture,10,229.24,4.706,False,False,123844.37
+96,28,Auto spare parts,1,565.89,2.674,True,False,609196.52
+97,28,Auto spare parts,29,335.077,3.08,False,False,83082.7
+98,29,Office furniture,20,6.047,2.38,False,False,673369.9
+99,29,Consumer electronics,22,259.509,4.943,True,False,521003.97
+100,30,Machinery components,44,300.583,3.804,False,False,193995.92
+101,30,Office furniture,25,46.231,5.944,False,False,383648.14
+102,30,Industrial chemicals,56,415.642,3.266,False,False,632681.37
+103,30,Machinery components,39,383.632,0.519,False,False,615278.76
+104,31,Medical equipment,31,210.284,0.595,False,False,577734.16
+105,31,Auto spare parts,52,427.046,0.145,False,False,274790.82
+106,31,Construction materials,48,147.86,1.055,False,False,128528.5
+107,31,Office furniture,52,244.218,1.115,False,False,512562.86
+108,31,Paper products,57,120.0,3.557,False,False,311374.21
+109,32,Office furniture,10,307.473,2.515,False,False,110724.91
+110,32,Construction materials,35,416.673,3.875,False,False,799919.69
+111,32,Industrial chemicals,12,190.119,2.711,False,False,43362.2
+112,32,Medical equipment,13,489.499,5.783,False,False,404597.7
+113,32,Server rack units,46,504.255,2.937,False,False,66595.17
+114,32,Medical equipment,3,166.362,3.23,False,False,134983.08
+115,33,Consumer electronics,23,516.907,3.665,True,False,342819.57
+116,33,Consumer electronics,14,483.653,3.425,False,False,426058.5
+117,33,Construction materials,46,176.996,3.441,False,False,761941.68
+118,33,Server rack units,7,83.082,4.503,False,False,329571.18
+119,33,Industrial chemicals,9,421.453,0.805,False,False,117421.63
+120,33,Machinery components,44,236.835,0.862,False,False,506105.38
+121,34,Server rack units,55,292.232,2.069,True,False,546200.26
+122,34,Medical equipment,54,276.83,0.754,False,False,686192.45
+123,34,Machinery components,28,122.986,4.135,False,False,105964.51
+124,34,Industrial chemicals,57,165.864,3.931,False,False,200686.23
+125,34,Textile rolls,4,239.012,1.84,False,False,559703.38
+126,35,Consumer electronics,47,129.407,4.492,False,False,735955.35
+127,35,Paper products,6,538.163,0.849,False,False,98964.2
+128,35,Textile rolls,21,475.064,1.494,False,False,515874.14
+129,36,Cable reels,2,353.243,0.093,True,False,172986.48
+130,37,Paper products,8,273.116,3.657,False,False,247777.41
+131,37,Industrial chemicals,1,425.325,4.212,False,False,131484.19
+132,37,Plastic containers,47,157.03,2.237,False,False,599946.22
+133,37,Construction materials,50,540.139,2.017,True,False,343744.99
+134,38,Industrial chemicals,3,515.496,0.084,False,False,37262.23
+135,39,Consumer electronics,51,183.738,3.74,False,False,371409.39
+136,39,Textile rolls,50,118.863,5.404,False,False,608505.54
+137,39,Cable reels,2,141.333,2.085,True,False,671739.42
+138,39,Auto spare parts,49,395.068,5.096,False,False,581908.42
+139,39,Paper products,27,296.233,0.369,False,True,797568.94
+140,40,Textile rolls,21,245.095,3.22,False,False,771725.46
+141,40,Plastic containers,55,73.708,0.954,False,False,549000.85
+142,40,Textile rolls,14,501.883,1.973,False,False,73424.72
+143,40,Server rack units,4,406.956,1.568,False,False,792545.96
+144,41,Medical equipment,11,554.631,2.605,True,False,579682.46
+145,42,Cable reels,6,169.306,0.832,False,False,159966.52
+146,43,Auto spare parts,23,460.572,5.998,False,False,779196.9
+147,43,Textile rolls,35,490.139,5.504,False,False,45198.97
+148,43,Steel pipes,25,214.173,5.037,False,False,676254.11
+149,43,Paper products,48,419.181,5.485,False,False,23051.15
+150,43,Cable reels,10,338.739,1.138,False,False,790410.97
+151,44,Plastic containers,46,550.5,4.648,False,True,677261.47
+152,44,Frozen produce,46,565.27,2.38,False,False,81275.22
+153,44,Machinery components,47,569.319,4.753,False,False,768549.35
+154,44,Textile rolls,36,416.749,5.574,False,False,629699.94
+155,44,Paper products,25,185.48,4.134,True,False,102315.02
+156,45,Office furniture,27,581.523,5.308,False,False,394719.05
+157,45,Machinery components,54,288.735,5.186,False,False,520950.17
+158,45,Auto spare parts,52,507.766,1.777,True,False,255314.17
+159,45,Auto spare parts,25,98.221,0.459,False,False,753496.4
+160,45,Steel pipes,58,290.677,0.196,False,False,753982.59
+161,45,Paper products,4,62.552,1.241,False,False,152392.41
+162,46,Plastic containers,29,28.681,2.644,False,True,211088.95
+163,46,Agricultural produce,49,418.49,0.589,False,False,534678.87
+164,47,Construction materials,59,436.808,4.846,False,False,70078.44
+165,47,Paper products,18,312.774,5.504,False,False,10384.86
+166,47,Consumer electronics,27,69.286,0.906,False,False,453491.84
+167,48,Paper products,7,583.553,1.375,False,False,240734.12
+168,48,Medical equipment,18,437.822,3.634,False,False,71884.84
+169,48,Server rack units,48,291.707,3.104,False,False,299441.21
+170,48,Construction materials,20,426.323,2.426,False,True,624522.89
+171,48,Server rack units,13,525.358,1.212,False,False,46573.2
+172,48,Office furniture,46,121.068,2.216,False,False,371642.66
+173,49,Machinery components,55,134.368,1.358,False,True,165781.42
+174,49,Steel pipes,50,580.349,4.096,False,False,379540.72
+175,50,Plastic containers,7,6.394,5.997,False,False,773205.12
+176,50,Industrial chemicals,39,171.041,4.11,False,False,385649.87
+177,50,Machinery components,56,167.577,3.94,False,False,761774.14
+178,50,Agricultural produce,49,145.701,0.35,False,False,685923.63
+179,50,Frozen produce,44,85.678,0.162,False,False,398149.58
+180,51,Medical equipment,51,532.332,2.236,False,False,468663.77
+181,51,Medical equipment,56,381.369,3.486,False,False,496713.43
+182,51,Plastic containers,56,409.057,3.184,False,False,330779.25
+183,51,Medical equipment,13,206.917,5.923,True,False,714329.68
+184,52,Textile rolls,13,12.714,0.035,False,False,587015.79
+185,52,Auto spare parts,9,63.42,3.025,False,False,245239.02
+186,52,Office furniture,19,274.644,3.127,False,False,419532.06
+187,52,Steel pipes,22,597.691,2.946,False,False,600217.41
+188,52,Textile rolls,26,13.437,1.354,False,False,787911.18
+189,53,Auto spare parts,33,431.822,0.715,False,False,91653.04
+190,54,Cable reels,21,256.745,0.704,True,False,681071.1
+191,54,Consumer electronics,43,389.025,1.979,False,False,715674.83
+192,54,Medical equipment,24,489.349,1.105,False,False,320921.62
+193,54,Steel pipes,55,287.991,2.536,True,False,708956.05
+194,54,Cable reels,4,588.978,5.068,False,False,83418.63
+195,54,Consumer electronics,44,264.021,3.672,True,False,623441.85
+196,55,Plastic containers,1,386.752,0.95,False,False,679152.04
+197,56,Plastic containers,7,243.257,0.225,True,False,439504.48
+198,57,Textile rolls,48,433.492,0.651,True,False,488875.99
+199,57,Auto spare parts,14,275.314,4.691,False,True,573571.94
+200,57,Medical equipment,41,502.805,3.537,False,False,617830.07
+201,57,Server rack units,33,82.512,2.998,False,False,424526.3
+202,57,Steel pipes,38,290.793,3.055,False,False,736969.27
+203,57,Cable reels,53,78.772,2.331,False,False,480636.54
+204,58,Industrial chemicals,35,417.199,1.941,False,False,92766.5
+205,58,Construction materials,43,426.654,4.049,False,False,715145.87
+206,58,Server rack units,52,9.637,0.648,False,False,305005.82
+207,58,Steel pipes,49,471.748,5.901,False,False,546870.57
+208,58,Medical equipment,19,123.993,3.252,True,False,287266.61
+209,59,Machinery components,50,435.499,1.169,True,False,359327.53
+210,59,Construction materials,48,309.28,2.269,False,False,343092.0
+211,60,Machinery components,34,285.965,3.372,True,False,601830.94
+212,60,Textile rolls,29,145.728,3.857,False,False,734926.54
+213,60,Frozen produce,21,230.061,4.779,False,False,91142.53
+214,60,Construction materials,59,311.087,4.625,False,True,411690.1
+215,60,Auto spare parts,58,391.614,1.929,False,False,66335.19
+216,61,Machinery components,29,378.87,2.604,True,True,14004.33
+217,61,Paper products,47,371.773,4.538,False,False,468693.61
+218,61,Auto spare parts,33,65.469,4.723,False,False,241429.89
+219,61,Construction materials,25,238.278,3.968,False,False,379453.15
+220,62,Cable reels,48,445.375,4.358,False,False,169783.69
+221,62,Auto spare parts,11,112.028,3.705,False,False,202567.05
+222,63,Frozen produce,16,471.825,4.276,False,False,512850.42
+223,63,Agricultural produce,47,200.275,2.885,False,False,356563.7
+224,63,Plastic containers,12,388.04,0.501,True,False,224852.44
+225,64,Consumer electronics,11,454.809,0.851,False,False,127798.32
+226,64,Textile rolls,10,442.08,2.906,False,False,287357.03
+227,64,Cable reels,17,222.922,0.266,False,False,165815.87
+228,64,Industrial chemicals,59,273.877,0.288,True,False,784481.53
+229,64,Construction materials,41,498.129,5.011,False,False,211021.2
+230,64,Construction materials,25,220.447,3.923,False,False,668457.52
+231,65,Steel pipes,2,147.715,0.776,False,True,474081.95
+232,65,Construction materials,37,89.825,1.006,False,False,737996.27
+233,65,Plastic containers,37,383.298,5.272,False,False,582515.47
+234,65,Textile rolls,29,364.702,2.834,False,False,385593.89
+235,66,Paper products,42,260.035,2.53,False,False,699922.03
+236,66,Agricultural produce,52,290.31,4.614,False,False,280738.99
+237,66,Agricultural produce,45,346.52,2.559,False,False,203987.16
+238,66,Server rack units,19,359.779,3.267,False,False,206615.08
+239,66,Textile rolls,37,314.479,3.123,False,False,300336.39
+240,66,Frozen produce,24,65.737,2.562,False,False,468503.46
+241,67,Consumer electronics,1,483.013,4.941,False,True,377599.09
+242,67,Cable reels,15,223.759,3.658,False,False,579733.52
+243,67,Agricultural produce,34,173.309,5.782,False,False,46441.7
+244,67,Construction materials,29,8.405,5.105,False,True,744641.39
+245,67,Machinery components,39,307.308,4.194,True,False,492344.39
+246,67,Office furniture,1,585.436,0.53,False,False,221111.53
+247,68,Agricultural produce,37,291.211,1.467,False,False,272058.78
+248,68,Office furniture,38,517.49,2.897,False,False,206626.9
+249,68,Industrial chemicals,44,421.303,4.803,False,True,330234.56
+250,68,Paper products,54,159.483,1.731,False,True,319445.04
+251,69,Plastic containers,21,296.42,5.912,False,False,717651.32
+252,69,Consumer electronics,49,549.772,1.689,True,False,178063.18
+253,69,Office furniture,28,288.035,3.249,False,False,402228.93
+254,69,Paper products,30,585.951,4.192,True,False,368326.44
+255,69,Frozen produce,25,349.443,1.959,False,False,490416.09
+256,70,Server rack units,51,292.999,1.513,False,False,686872.33
+257,70,Auto spare parts,4,130.849,1.533,False,False,671257.88
+258,70,Industrial chemicals,24,217.463,3.349,True,False,648107.7
+259,71,Industrial chemicals,42,238.482,5.327,False,False,624888.74
+260,71,Paper products,29,249.565,1.111,False,False,18969.32
+261,71,Auto spare parts,48,421.017,0.49,True,False,133944.92
+262,71,Agricultural produce,31,329.963,0.168,False,False,317911.51
+263,71,Frozen produce,40,94.854,3.932,False,False,708434.32
+264,72,Industrial chemicals,1,2.055,4.894,False,False,678433.22
+265,72,Server rack units,45,553.409,5.682,False,False,381915.12
+266,72,Office furniture,39,140.267,0.053,False,False,299228.28
+267,73,Paper products,2,113.191,0.623,False,True,215721.51
+268,73,Frozen produce,6,92.109,2.967,False,False,273859.33
+269,73,Plastic containers,24,279.283,4.751,False,False,264533.79
+270,73,Textile rolls,18,465.84,0.438,False,False,376382.35
+271,73,Textile rolls,25,497.295,0.741,False,False,614632.46
+272,74,Machinery components,41,180.69,2.169,False,False,42143.97
+273,74,Consumer electronics,41,261.629,0.1,True,False,635615.12
+274,74,Paper products,1,581.363,3.491,False,False,552755.76
+275,74,Industrial chemicals,6,150.736,3.005,False,False,548912.74
+276,75,Frozen produce,11,43.188,0.939,False,False,236890.29
+277,75,Server rack units,50,383.54,2.28,False,False,148834.66
+278,75,Construction materials,40,144.794,4.329,False,False,526802.39
+279,75,Industrial chemicals,44,299.534,3.313,False,False,490624.87
+280,75,Steel pipes,7,314.874,0.409,False,True,668237.09
+281,76,Auto spare parts,54,183.735,5.668,True,False,768489.1
+282,77,Cable reels,16,338.761,1.291,False,False,612683.72
+283,77,Frozen produce,29,269.605,2.389,False,False,581187.47
+284,77,Plastic containers,57,182.501,1.809,False,False,177898.42
+285,77,Consumer electronics,45,493.758,5.515,False,False,409261.55
+286,77,Cable reels,3,277.301,0.945,False,False,212358.05
+287,78,Textile rolls,21,324.878,0.906,False,False,402170.09
+288,79,Auto spare parts,50,259.179,4.112,False,False,461026.58
+289,79,Agricultural produce,23,115.913,2.074,False,False,524500.18
+290,79,Medical equipment,40,493.307,4.819,True,False,498734.13
+291,80,Steel pipes,25,350.637,3.985,True,False,35263.86
+292,81,Construction materials,23,411.218,2.139,False,True,242209.81
+293,82,Construction materials,42,559.952,5.504,False,False,254338.22
+294,82,Agricultural produce,12,191.923,5.279,False,False,581800.09
+295,83,Office furniture,27,459.194,0.1,False,False,216252.03
+296,84,Agricultural produce,4,115.531,2.643,False,False,707575.86
+297,84,Cable reels,28,178.063,5.515,True,False,552117.39
+298,84,Consumer electronics,29,56.084,3.009,False,False,144227.23
+299,84,Medical equipment,9,237.054,1.948,False,False,20417.23
+300,84,Machinery components,13,529.764,0.55,False,False,259597.79
+301,84,Machinery components,46,440.491,0.556,False,False,565128.25
+302,85,Medical equipment,39,529.856,1.435,False,False,471295.43
+303,86,Machinery components,27,596.254,0.976,False,False,227862.25
+304,87,Consumer electronics,28,366.089,1.906,False,False,420550.28
+305,87,Agricultural produce,37,298.845,4.378,False,False,398444.02
+306,87,Medical equipment,46,175.712,1.169,False,False,95006.6
+307,88,Plastic containers,42,83.181,0.941,False,False,368764.04
+308,89,Server rack units,14,316.01,1.058,False,False,299685.44
+309,89,Steel pipes,29,304.585,4.796,False,False,724012.16
+310,89,Agricultural produce,47,524.58,1.869,False,False,262206.69
+311,90,Auto spare parts,18,70.447,5.75,False,False,447920.8
+312,90,Consumer electronics,21,164.089,5.66,False,True,643300.27
+313,91,Medical equipment,7,274.439,4.11,False,False,568317.61
+314,91,Office furniture,10,516.936,3.705,False,False,730332.86
+315,91,Server rack units,22,473.69,5.296,True,False,362899.81
+316,91,Consumer electronics,31,277.823,1.033,False,False,614469.24
+317,92,Office furniture,36,60.397,2.677,True,False,246774.56
+318,92,Machinery components,53,358.65,4.921,False,False,262262.89
+319,92,Agricultural produce,53,85.072,3.489,True,False,604113.31
+320,93,Paper products,16,260.166,3.545,False,False,500358.84
+321,94,Plastic containers,15,113.103,3.631,False,False,462561.83
+322,94,Server rack units,18,247.681,3.282,False,False,293892.54
+323,94,Paper products,8,349.001,5.771,False,False,64510.45
+324,95,Agricultural produce,38,103.109,0.319,False,True,792296.68
+325,95,Frozen produce,32,51.341,3.039,False,False,681230.48
+326,95,Steel pipes,18,514.999,0.095,False,False,89683.75
+327,95,Paper products,43,269.099,4.849,False,False,209371.44
+328,96,Industrial chemicals,1,174.698,4.786,False,False,305912.27
+329,96,Plastic containers,3,60.224,3.192,False,False,283385.56
+330,96,Frozen produce,55,165.009,1.629,False,False,641951.93
+331,96,Agricultural produce,50,405.824,1.458,False,False,537675.94
+332,97,Paper products,41,273.159,5.972,False,False,615602.62
+333,98,Paper products,1,559.87,3.991,False,False,213515.97
+334,98,Office furniture,1,310.199,5.64,False,False,392798.22
+335,98,Paper products,52,471.658,3.245,False,False,3144.23
+336,98,Frozen produce,37,322.112,5.95,False,False,267085.05
+337,98,Auto spare parts,42,56.219,3.212,False,False,768759.95
+338,98,Office furniture,19,389.38,1.068,False,False,31945.28
+339,99,Medical equipment,38,141.325,0.441,False,False,588500.05
+340,99,Server rack units,59,371.787,1.464,False,True,519204.74
+341,99,Plastic containers,20,492.802,0.593,False,False,489175.1
+342,99,Auto spare parts,7,70.279,3.574,False,False,492695.01
+343,99,Auto spare parts,52,501.866,4.43,False,False,321905.88
+344,99,Server rack units,9,194.311,5.789,False,False,170978.85
+345,100,Consumer electronics,40,415.621,3.582,False,False,573900.41
+346,100,Textile rolls,51,182.117,2.519,True,False,446389.47
+347,101,Textile rolls,51,19.381,3.094,False,False,57152.17
+348,101,Textile rolls,21,252.602,4.485,False,False,718749.02
+349,102,Server rack units,18,122.922,0.772,False,False,553922.32
+350,102,Cable reels,30,276.23,1.035,False,False,275189.02
+351,102,Construction materials,51,383.524,3.673,False,False,136363.42
+352,103,Textile rolls,47,245.158,1.316,False,False,287045.34
+353,103,Consumer electronics,31,402.083,0.979,False,True,367696.63
+354,103,Steel pipes,30,279.329,0.84,False,False,562656.34
+355,103,Office furniture,30,422.933,0.018,False,False,502030.37
+356,103,Consumer electronics,3,179.361,4.52,False,False,558594.96
+357,103,Cable reels,51,411.43,3.727,True,False,268887.89
+358,104,Medical equipment,23,272.542,3.014,False,False,663733.08
+359,104,Machinery components,35,539.872,2.717,False,False,294832.61
+360,104,Auto spare parts,57,41.245,5.353,False,False,366570.36
+361,105,Agricultural produce,20,341.216,5.391,False,False,245542.76
+362,105,Medical equipment,19,462.31,0.293,False,False,282820.16
+363,105,Plastic containers,11,427.664,1.719,False,False,778578.27
+364,105,Industrial chemicals,51,93.784,1.435,False,False,33400.59
+365,106,Frozen produce,31,540.304,0.845,True,False,440992.51
+366,106,Machinery components,15,268.692,0.564,False,False,44499.39
+367,106,Construction materials,51,561.528,1.675,False,False,18527.64
+368,106,Consumer electronics,6,585.552,2.373,False,False,392627.06
+369,106,Office furniture,59,400.726,2.391,False,False,572913.04
+370,106,Construction materials,19,208.262,1.855,True,False,356738.04
+371,107,Agricultural produce,20,297.472,4.442,True,False,180003.92
+372,107,Cable reels,41,500.877,2.841,False,False,523223.47
+373,107,Frozen produce,59,413.33,1.476,False,False,95924.05
+374,107,Plastic containers,39,447.848,3.491,False,False,452676.88
+375,107,Server rack units,45,491.332,2.245,False,False,586499.34
+376,108,Agricultural produce,53,87.943,0.83,False,False,225493.5
+377,108,Plastic containers,59,99.491,1.315,False,False,402954.62
+378,108,Paper products,40,414.412,5.715,False,False,676932.76
+379,109,Medical equipment,45,458.288,0.679,False,True,15535.73
+380,109,Medical equipment,7,21.61,3.962,True,False,474744.35
+381,109,Auto spare parts,5,182.384,0.072,False,False,77654.63
+382,109,Steel pipes,58,121.615,4.027,False,False,23892.66
+383,110,Construction materials,12,501.176,5.888,False,False,339561.43
+384,111,Steel pipes,26,263.959,3.955,False,False,68462.23
+385,112,Steel pipes,4,498.527,2.994,False,False,21885.74
+386,112,Machinery components,10,183.046,3.743,False,False,608257.07
+387,112,Construction materials,51,280.681,1.768,False,False,398570.29
+388,112,Office furniture,56,325.236,0.116,False,False,611289.94
+389,112,Server rack units,29,190.106,2.264,False,False,367995.16
+390,112,Steel pipes,50,183.221,4.239,False,False,393437.95
+391,113,Cable reels,16,150.073,3.892,False,False,474229.07
+392,113,Medical equipment,8,203.881,0.128,False,False,261230.41
+393,113,Consumer electronics,33,541.043,1.607,True,False,556918.8
+394,113,Auto spare parts,37,235.4,3.44,False,False,646757.09
+395,113,Consumer electronics,32,302.656,4.592,False,False,271961.77
+396,113,Plastic containers,13,299.177,5.086,False,False,629826.11
+397,114,Plastic containers,56,113.55,3.0,False,False,528814.57
+398,114,Cable reels,60,383.48,4.856,False,False,682293.33
+399,114,Textile rolls,41,37.809,1.212,False,False,370258.1
+400,114,Cable reels,20,506.785,2.467,True,False,688218.67
+401,114,Machinery components,27,161.627,1.729,False,False,128887.16
+402,115,Cable reels,54,86.055,0.68,True,False,587717.09
+403,115,Cable reels,38,569.905,5.59,True,False,201820.54
+404,115,Office furniture,50,484.399,1.982,False,False,467668.81
+405,115,Frozen produce,60,254.876,0.874,False,False,140535.83
+406,115,Auto spare parts,38,35.443,3.205,False,False,559844.37
+407,115,Steel pipes,44,149.315,1.674,False,False,627526.46
+408,116,Cable reels,35,520.438,5.147,False,False,311082.58
+409,117,Office furniture,53,97.885,1.573,False,False,53560.6
+410,118,Plastic containers,27,221.825,2.367,False,False,302167.36
+411,119,Office furniture,53,171.214,4.066,False,True,334955.63
+412,119,Consumer electronics,17,142.82,2.711,False,False,199030.21
+413,120,Industrial chemicals,38,109.265,1.028,False,False,394525.44
+414,121,Office furniture,12,23.446,1.569,True,False,564917.31
+415,121,Medical equipment,32,26.393,2.146,False,False,567368.8
+416,122,Machinery components,43,288.953,3.774,True,False,215820.09
+417,122,Paper products,42,374.174,2.724,False,False,757961.01
+418,122,Industrial chemicals,9,128.397,0.302,False,False,515093.4
+419,122,Steel pipes,36,571.236,2.295,False,False,319387.37
+420,122,Agricultural produce,26,55.335,5.116,False,False,130771.08
+421,122,Paper products,42,94.173,1.798,False,False,640979.79
+422,123,Office furniture,9,411.22,1.809,False,True,199298.48
+423,123,Office furniture,5,550.547,3.085,True,False,408765.94
+424,124,Machinery components,11,394.169,2.766,False,False,324370.73
+425,125,Plastic containers,48,422.154,5.784,False,False,377455.61
+426,125,Server rack units,19,342.519,5.005,True,False,41212.28
+427,126,Consumer electronics,13,282.606,2.634,False,False,406354.94
+428,126,Cable reels,39,512.365,4.294,False,False,375039.59
+429,126,Agricultural produce,27,500.182,4.042,False,False,587800.41
+430,126,Machinery components,11,373.862,1.702,False,False,599528.81
+431,126,Medical equipment,11,364.238,0.614,False,False,333079.5
+432,126,Machinery components,4,599.558,2.159,False,False,209016.0
+433,127,Medical equipment,39,402.353,4.241,False,False,741342.36
+434,127,Agricultural produce,49,68.337,0.644,False,False,488652.75
+435,127,Plastic containers,36,27.098,0.641,False,False,504125.93
+436,127,Paper products,47,176.69,2.655,False,False,404964.35
+437,127,Medical equipment,24,202.095,0.835,False,False,678951.78
+438,128,Office furniture,21,242.187,4.637,False,False,347540.79
+439,128,Paper products,42,92.269,3.452,False,False,782197.51
+440,128,Plastic containers,19,252.745,5.316,False,False,560781.92
+441,129,Server rack units,36,188.727,2.051,True,False,508730.56
+442,129,Office furniture,38,156.697,4.995,False,False,243501.7
+443,129,Auto spare parts,4,505.267,1.566,True,False,406245.75
+444,129,Industrial chemicals,8,270.345,3.439,False,False,4668.11
+445,129,Construction materials,38,340.227,5.367,False,False,502381.61
+446,130,Medical equipment,41,255.206,2.646,False,False,744862.97
+447,130,Steel pipes,11,88.319,0.771,False,False,569064.88
+448,130,Paper products,34,72.599,1.284,False,False,378947.77
+449,130,Auto spare parts,59,571.189,3.614,False,False,327191.58
+450,131,Plastic containers,41,277.64,2.705,False,False,359535.25
+451,131,Office furniture,40,399.372,2.464,False,True,186641.42
+452,131,Plastic containers,43,534.246,4.418,False,True,516910.27
+453,131,Auto spare parts,41,478.103,4.247,False,False,449054.96
+454,131,Construction materials,40,326.017,4.548,False,False,765855.6
+455,132,Steel pipes,11,172.64,1.104,False,False,614759.6
+456,132,Paper products,11,37.23,5.767,True,False,145575.54
+457,132,Plastic containers,21,87.191,5.359,False,True,206718.46
+458,132,Agricultural produce,16,451.776,3.52,False,False,394637.06
+459,132,Medical equipment,18,38.258,2.794,True,False,325957.63
+460,133,Machinery components,60,553.243,1.647,False,False,201085.72
+461,134,Steel pipes,30,575.478,1.977,False,True,731257.58
+462,134,Construction materials,31,4.559,0.067,False,False,139242.05
+463,135,Industrial chemicals,20,485.432,1.335,True,False,784105.24
+464,135,Plastic containers,46,424.767,1.262,False,False,157271.39
+465,135,Machinery components,18,342.323,2.969,False,False,441652.26
+466,135,Auto spare parts,39,339.954,0.402,True,False,103032.99
+467,135,Textile rolls,55,138.323,3.143,False,True,625911.04
+468,135,Cable reels,45,407.285,3.691,False,False,544703.94
+469,136,Agricultural produce,5,376.345,0.589,True,False,384233.15
+470,136,Textile rolls,60,201.913,1.51,False,False,86718.6
+471,136,Agricultural produce,53,201.486,4.767,False,False,754866.29
+472,137,Machinery components,57,372.886,0.617,False,False,520911.68
+473,137,Paper products,22,353.512,0.657,True,False,10324.72
+474,137,Industrial chemicals,13,542.813,0.765,False,False,407363.96
+475,137,Steel pipes,29,113.182,0.835,False,False,35734.6
+476,138,Cable reels,40,181.18,1.978,False,True,84325.89
+477,138,Medical equipment,15,552.132,3.836,False,False,554729.84
+478,138,Office furniture,48,461.472,4.89,False,False,645913.41
+479,139,Construction materials,16,223.045,2.24,False,False,137502.17
+480,139,Cable reels,57,261.363,4.269,False,False,95235.41
+481,139,Office furniture,13,320.468,4.169,False,False,254702.31
+482,139,Frozen produce,3,458.323,3.528,False,False,683621.13
+483,140,Frozen produce,58,123.394,5.18,False,False,317022.03
+484,140,Steel pipes,11,561.428,2.251,False,False,440666.3
+485,141,Agricultural produce,13,405.714,1.508,False,False,596296.47
+486,141,Paper products,46,363.212,0.836,False,False,684071.87
+487,141,Office furniture,1,462.506,1.698,False,False,277632.57
+488,142,Office furniture,21,507.789,2.578,False,False,753572.86
+489,143,Industrial chemicals,26,40.098,2.325,False,False,380084.73
+490,143,Steel pipes,58,184.178,1.037,True,False,540070.99
+491,144,Plastic containers,27,287.994,0.422,False,False,764099.86
+492,144,Consumer electronics,20,260.456,4.261,False,False,380086.63
+493,144,Server rack units,13,302.48,4.112,False,False,220715.06
+494,144,Cable reels,53,240.744,4.847,False,False,420922.28
+495,144,Cable reels,30,346.527,4.426,False,False,230685.47
+496,145,Industrial chemicals,24,47.767,0.64,False,False,613347.99
+497,146,Auto spare parts,11,503.421,3.646,False,False,142200.66
+498,146,Medical equipment,5,403.493,0.077,False,False,218965.19
+499,147,Server rack units,52,501.56,3.988,False,False,579347.19
+500,148,Agricultural produce,21,588.887,4.181,False,False,542481.47
+501,148,Machinery components,41,457.506,4.129,False,False,782428.21
+502,148,Paper products,39,547.438,2.699,False,False,409065.4
+503,148,Frozen produce,1,141.098,3.702,False,False,717475.15
+504,148,Frozen produce,16,372.62,0.369,False,False,299931.64
+505,149,Textile rolls,5,572.289,0.322,True,False,793614.05
+506,149,Auto spare parts,36,499.07,5.592,False,False,189429.95
+507,149,Textile rolls,11,433.561,1.477,False,False,141560.19
+508,149,Industrial chemicals,41,122.438,5.176,False,False,385195.98
+509,150,Office furniture,47,225.806,2.433,False,False,332948.22
+510,150,Cable reels,32,186.071,5.925,True,False,57451.87
+511,150,Frozen produce,25,559.413,0.983,False,False,610479.21
+512,150,Paper products,23,306.746,2.937,True,False,550947.27
+513,150,Plastic containers,28,441.927,1.462,False,False,28088.8
+514,150,Medical equipment,2,419.088,3.876,False,False,209433.89
+515,151,Frozen produce,59,114.916,2.543,False,False,663884.78
+516,151,Office furniture,35,395.775,2.303,False,False,246729.1
+517,151,Industrial chemicals,56,55.146,3.821,False,False,621464.55
+518,151,Steel pipes,14,558.15,2.394,False,True,246826.22
+519,151,Frozen produce,5,464.699,2.513,False,False,333765.44
+520,152,Server rack units,16,287.782,4.04,False,False,81096.91
+521,152,Construction materials,43,350.302,5.926,False,False,77925.06
+522,152,Medical equipment,34,592.164,4.571,False,False,745736.64
+523,152,Plastic containers,22,223.73,5.342,False,False,799556.39
+524,152,Industrial chemicals,26,228.305,0.353,False,True,285145.37
+525,153,Plastic containers,47,232.145,3.647,False,False,569697.61
+526,154,Agricultural produce,51,415.687,5.233,False,True,745458.07
+527,155,Construction materials,50,220.284,4.079,False,False,637353.96
+528,155,Steel pipes,7,238.397,3.234,False,False,368751.91
+529,155,Steel pipes,15,300.9,2.74,False,False,481371.6
+530,156,Plastic containers,45,441.964,5.54,False,False,620942.97
+531,156,Construction materials,53,396.232,5.093,False,False,792855.04
+532,157,Office furniture,44,471.729,5.152,False,False,301556.36
+533,158,Office furniture,20,413.414,5.728,False,False,522411.18
+534,158,Machinery components,43,395.794,4.669,False,False,691984.18
+535,158,Medical equipment,29,221.659,0.729,False,False,66568.27
+536,158,Frozen produce,15,15.77,3.442,False,False,458318.14
+537,159,Auto spare parts,45,109.603,3.333,True,False,640510.12
+538,159,Server rack units,42,98.404,3.379,True,False,681234.36
+539,159,Machinery components,20,219.409,3.271,True,False,338729.54
+540,159,Steel pipes,34,542.962,1.767,False,False,427514.87
+541,159,Construction materials,34,546.648,5.981,False,False,485134.62
+542,160,Auto spare parts,44,256.355,4.17,False,False,428955.5
+543,160,Machinery components,41,418.688,1.164,False,False,298027.74
+544,160,Office furniture,11,252.973,0.929,False,False,793962.97
+545,161,Agricultural produce,39,61.242,0.297,False,False,254738.11
+546,161,Cable reels,48,407.332,4.735,False,False,441561.52
+547,161,Machinery components,9,156.918,4.123,True,False,570721.52
+548,162,Auto spare parts,57,554.44,1.38,False,False,508690.38
+549,162,Textile rolls,21,507.457,3.812,False,False,61816.22
+550,162,Agricultural produce,4,52.582,1.722,False,False,743706.41
+551,162,Medical equipment,28,406.866,5.595,False,False,109574.49
+552,162,Textile rolls,57,320.381,0.757,False,False,11613.26
+553,162,Paper products,46,256.137,3.211,False,False,276375.97
+554,163,Machinery components,26,132.043,1.836,False,False,746522.6
+555,163,Industrial chemicals,60,278.908,3.71,True,False,390869.04
+556,163,Steel pipes,20,213.628,0.041,False,True,712211.92
+557,163,Steel pipes,28,296.244,0.518,False,False,411697.72
+558,163,Office furniture,1,95.067,3.943,False,False,181263.14
+559,164,Textile rolls,9,95.014,3.005,True,False,614024.27
+560,165,Consumer electronics,18,594.258,5.575,False,False,341329.23
+561,166,Agricultural produce,20,68.694,4.017,False,False,546527.73
+562,166,Consumer electronics,48,486.401,4.46,False,False,471334.4
+563,166,Machinery components,14,351.428,0.533,False,False,85539.23
+564,167,Steel pipes,27,315.21,5.715,False,False,632812.7
+565,167,Paper products,9,175.215,5.735,False,False,49104.32
+566,167,Steel pipes,32,411.447,5.223,False,False,777244.96
+567,167,Steel pipes,36,468.065,2.411,True,False,217559.6
+568,168,Textile rolls,60,81.517,5.242,False,False,41690.22
+569,168,Industrial chemicals,8,2.837,2.091,False,False,484325.05
+570,168,Consumer electronics,57,330.466,4.335,False,False,326970.13
+571,169,Steel pipes,6,298.585,2.762,False,False,652570.59
+572,169,Cable reels,47,109.883,1.699,False,False,248473.1
+573,169,Medical equipment,39,114.333,0.87,False,False,341402.83
+574,169,Server rack units,7,435.136,0.832,False,False,600480.14
+575,170,Server rack units,19,63.335,5.32,False,True,332520.1
+576,170,Cable reels,28,232.459,2.126,False,False,229833.54
+577,170,Auto spare parts,57,429.481,5.411,False,False,393710.55
+578,170,Cable reels,19,215.67,3.698,False,False,95121.6
+579,170,Consumer electronics,3,363.495,1.077,False,False,424619.27
+580,171,Consumer electronics,21,297.535,2.893,False,False,778292.67
+581,171,Construction materials,52,566.53,5.53,False,False,306856.58
+582,171,Paper products,35,322.655,1.388,False,False,67352.37
+583,172,Steel pipes,43,349.801,2.866,True,False,475343.55
+584,173,Auto spare parts,46,137.934,5.589,False,False,217826.17
+585,173,Office furniture,9,446.395,2.408,False,False,45269.46
+586,173,Medical equipment,36,363.84,0.472,False,False,554095.06
+587,174,Frozen produce,13,331.911,3.834,True,False,26377.25
+588,174,Industrial chemicals,3,339.116,4.743,True,False,37021.65
+589,174,Industrial chemicals,23,451.504,5.753,False,False,400422.76
+590,175,Medical equipment,47,366.026,3.144,False,False,615024.65
+591,175,Paper products,24,374.836,5.641,False,False,32490.32
+592,175,Consumer electronics,14,598.212,3.645,False,False,766433.51
+593,175,Plastic containers,52,10.935,4.6,False,False,247979.08
+594,175,Frozen produce,6,300.35,2.734,False,False,136189.25
+595,176,Consumer electronics,29,159.171,5.254,False,True,546203.19
+596,176,Plastic containers,51,148.4,4.929,True,False,6850.39
+597,176,Medical equipment,37,240.77,0.447,False,False,310884.29
+598,176,Auto spare parts,30,386.206,5.402,False,False,372149.97
+599,176,Auto spare parts,60,239.373,2.604,False,False,321515.62
+600,177,Construction materials,6,180.405,4.276,False,False,697095.66
+601,177,Industrial chemicals,12,498.668,0.564,False,False,721362.57
+602,177,Paper products,13,210.867,2.52,False,False,380661.78
+603,177,Server rack units,28,214.106,4.16,False,False,311615.8
+604,178,Consumer electronics,14,210.155,5.715,False,False,777409.73
+605,178,Plastic containers,24,11.682,5.381,True,False,401917.12
+606,178,Office furniture,30,249.604,2.117,False,False,662634.6
+607,178,Construction materials,8,555.957,2.758,False,False,298810.63
+608,179,Plastic containers,23,580.634,5.485,False,False,330641.33
+609,180,Machinery components,54,32.845,5.592,False,False,343567.4
+610,180,Auto spare parts,26,542.694,3.108,False,False,350202.57
+611,180,Machinery components,8,379.602,4.708,False,False,674503.07
+612,180,Office furniture,11,569.323,1.231,True,False,75065.69
+613,181,Industrial chemicals,17,536.974,0.566,False,False,395648.92
+614,181,Machinery components,7,295.64,0.142,True,False,59323.99
+615,181,Steel pipes,25,534.049,3.805,False,True,360977.38
+616,182,Medical equipment,46,331.795,1.773,False,False,596282.97
+617,182,Cable reels,60,117.446,1.046,False,False,549802.44
+618,182,Agricultural produce,7,351.022,4.601,False,False,249612.31
+619,183,Industrial chemicals,51,113.177,1.479,False,False,172539.74
+620,183,Textile rolls,8,7.761,4.133,False,False,573583.7
+621,183,Textile rolls,58,141.124,0.407,False,False,227249.59
+622,183,Machinery components,18,430.327,5.678,True,False,646037.48
+623,184,Plastic containers,3,203.759,0.107,False,False,376179.73
+624,184,Agricultural produce,18,191.679,2.081,False,False,64273.88
+625,184,Machinery components,26,180.469,5.904,False,False,394922.63
+626,184,Plastic containers,24,562.747,0.625,True,False,179599.48
+627,184,Auto spare parts,21,517.11,4.348,False,False,181459.83
+628,185,Agricultural produce,38,277.495,0.766,False,False,689584.97
+629,185,Construction materials,58,249.15,2.686,False,False,98337.46
+630,186,Industrial chemicals,55,303.698,5.486,False,False,175418.47
+631,186,Frozen produce,40,309.051,4.682,False,False,150768.8
+632,187,Auto spare parts,34,261.272,4.09,False,True,517252.71
+633,187,Frozen produce,3,345.988,1.44,False,False,425939.31
+634,187,Plastic containers,46,243.927,2.363,False,False,176300.69
+635,187,Paper products,14,104.275,1.229,False,False,509700.92
+636,188,Steel pipes,19,501.545,3.156,False,False,134260.14
+637,188,Construction materials,52,442.24,2.721,False,False,587984.6
+638,188,Industrial chemicals,24,276.333,4.968,False,False,241256.66
+639,188,Frozen produce,55,519.346,5.064,False,False,387741.69
+640,188,Steel pipes,2,90.444,2.468,False,True,176594.35
+641,188,Paper products,37,445.125,5.84,True,False,287856.23
+642,189,Agricultural produce,36,399.264,1.829,False,False,230963.83
+643,189,Frozen produce,14,171.244,3.562,True,False,43028.03
+644,189,Frozen produce,54,2.384,1.516,False,False,280499.48
+645,189,Steel pipes,50,337.328,5.723,False,False,570701.08
+646,189,Cable reels,38,551.119,1.752,False,False,26193.28
+647,190,Medical equipment,45,189.33,5.61,False,False,570222.5
+648,190,Agricultural produce,27,277.848,5.476,False,False,21624.49
+649,190,Industrial chemicals,40,544.296,4.722,True,False,464467.77
+650,190,Steel pipes,37,526.928,0.331,False,True,676163.32
+651,191,Agricultural produce,20,377.687,4.318,False,False,749256.7
+652,191,Construction materials,8,42.151,0.927,True,False,703979.3
+653,192,Steel pipes,2,112.515,4.913,False,False,526143.56
+654,192,Consumer electronics,13,286.743,1.747,False,False,534194.66
+655,192,Plastic containers,26,232.721,4.801,False,True,371438.98
+656,192,Server rack units,30,73.836,2.343,False,False,464640.19
+657,192,Steel pipes,40,267.799,5.45,False,False,284104.14
+658,192,Plastic containers,18,7.454,0.958,False,False,400760.38
+659,193,Office furniture,38,573.206,2.095,True,True,494171.28
+660,193,Cable reels,47,97.189,0.588,False,False,85423.24
+661,193,Textile rolls,15,588.834,4.853,True,False,586251.32
+662,194,Textile rolls,6,350.101,3.778,True,False,535092.27
+663,194,Auto spare parts,1,217.017,2.454,False,False,437491.38
+664,195,Consumer electronics,5,321.585,1.456,False,False,414448.92
+665,195,Cable reels,4,328.473,5.352,False,False,466426.62
+666,195,Cable reels,2,21.3,2.534,False,False,160808.75
+667,196,Textile rolls,18,434.551,0.633,False,False,397529.08
+668,196,Cable reels,20,469.362,5.26,True,False,182590.23
+669,197,Industrial chemicals,5,35.879,2.637,False,False,226435.48
+670,198,Paper products,56,392.879,3.166,False,False,214394.43
+671,198,Frozen produce,23,540.454,4.236,True,False,497686.49
+672,198,Textile rolls,54,585.611,1.391,True,False,593655.97
+673,199,Cable reels,49,209.987,0.166,False,False,487187.06
+674,199,Industrial chemicals,17,486.526,3.55,False,False,605923.15
+675,199,Server rack units,56,257.674,4.378,False,False,588463.88
+676,199,Construction materials,47,559.619,1.732,False,False,792717.48
+677,199,Medical equipment,37,461.869,1.568,False,False,768263.85
+678,200,Construction materials,4,348.583,0.486,False,True,717686.9
+679,200,Medical equipment,12,156.288,4.723,True,False,208002.87
+680,200,Machinery components,10,523.001,3.939,True,False,186521.63
+681,200,Textile rolls,56,265.305,1.911,True,False,442949.48
+682,201,Industrial chemicals,57,171.284,0.158,False,False,485769.91
+683,201,Server rack units,42,226.08,5.655,False,True,235603.4
+684,201,Textile rolls,60,91.738,3.551,False,False,85432.57
+685,201,Textile rolls,50,445.742,4.703,False,False,570415.77
+686,202,Auto spare parts,57,247.136,0.487,False,False,448585.47
+687,202,Plastic containers,39,139.749,4.72,False,False,184195.76
+688,202,Machinery components,35,148.476,5.457,True,False,539447.05
+689,202,Construction materials,19,206.26,0.717,False,False,327097.98
+690,202,Medical equipment,41,529.102,1.197,True,False,144342.61
+691,202,Auto spare parts,17,459.775,4.271,True,True,376153.28
+692,203,Machinery components,6,93.049,0.057,False,False,474642.1
+693,203,Agricultural produce,29,107.68,4.338,True,False,223800.02
+694,203,Construction materials,22,30.876,3.111,False,False,420392.32
+695,203,Server rack units,21,231.673,4.546,False,False,762834.18
+696,203,Consumer electronics,47,127.987,3.12,False,False,460322.69
+697,204,Office furniture,46,424.381,5.07,False,False,355801.85
+698,205,Medical equipment,25,523.525,1.329,False,False,156944.8
+699,205,Auto spare parts,47,299.042,0.799,False,False,508000.79
+700,205,Consumer electronics,48,130.085,2.612,False,False,392807.58
+701,205,Textile rolls,27,413.413,3.684,False,False,505005.59
+702,205,Cable reels,43,572.692,5.269,False,False,672633.14
+703,206,Agricultural produce,43,69.895,4.185,False,False,564002.63
+704,206,Frozen produce,56,294.526,2.478,False,False,188270.6
+705,206,Frozen produce,55,470.131,0.374,False,False,617553.03
+706,207,Steel pipes,42,31.431,1.271,False,False,428610.39
+707,208,Frozen produce,2,139.543,4.637,False,False,198223.34
+708,208,Frozen produce,25,393.855,0.796,False,True,592550.33
+709,208,Server rack units,33,433.823,4.577,False,False,332596.33
+710,209,Construction materials,25,176.161,0.567,False,False,773525.62
+711,209,Medical equipment,45,320.856,1.475,False,False,14261.42
+712,209,Server rack units,49,328.856,0.659,False,False,179636.66
+713,209,Steel pipes,24,287.13,0.663,False,False,248832.55
+714,210,Auto spare parts,31,309.63,5.153,False,False,794207.91
+715,210,Paper products,5,226.66,4.544,True,False,130093.44
+716,210,Steel pipes,56,583.206,0.244,False,False,339633.69
+717,210,Frozen produce,9,449.898,3.287,True,False,319824.82
+718,210,Consumer electronics,47,553.338,4.063,False,False,418222.84
+719,210,Consumer electronics,11,86.628,3.144,False,False,163967.24
+720,211,Paper products,18,171.944,5.47,False,False,341219.44
+721,211,Textile rolls,26,560.716,3.371,True,False,513458.68
+722,212,Textile rolls,43,284.07,1.822,False,False,608125.94
+723,212,Industrial chemicals,25,424.334,2.136,False,False,671000.22
+724,212,Frozen produce,54,129.912,1.005,False,False,507199.02
+725,212,Auto spare parts,36,266.105,4.174,False,False,200805.96
+726,213,Server rack units,3,597.451,4.229,False,False,219701.98
+727,213,Medical equipment,56,431.382,2.83,False,False,486233.24
+728,213,Industrial chemicals,56,389.234,3.278,True,False,83557.88
+729,213,Auto spare parts,10,423.972,1.07,False,False,680829.02
+730,214,Machinery components,18,365.9,4.135,False,False,327696.58
+731,215,Frozen produce,9,187.671,2.282,True,False,230017.71
+732,215,Frozen produce,15,501.495,1.644,False,False,159780.1
+733,215,Machinery components,6,294.952,3.476,False,False,279412.93
+734,215,Office furniture,44,499.375,0.23,False,False,667861.99
+735,215,Frozen produce,45,261.444,3.88,False,False,545773.2
+736,215,Construction materials,33,331.864,4.461,False,False,215525.62
+737,216,Industrial chemicals,47,240.801,5.006,False,False,202433.53
+738,216,Agricultural produce,26,181.504,5.825,False,False,702007.45
+739,216,Office furniture,7,253.75,4.647,False,False,763208.56
+740,216,Construction materials,11,553.567,5.321,False,False,772205.87
+741,217,Industrial chemicals,46,147.16,5.503,False,False,310365.34
+742,217,Plastic containers,50,197.613,1.706,False,False,539962.31
+743,217,Server rack units,5,209.427,4.023,False,False,776195.42
+744,217,Server rack units,50,142.624,2.18,False,False,401414.02
+745,218,Office furniture,44,273.906,2.922,False,True,767956.88
+746,218,Agricultural produce,28,156.672,3.808,False,False,483107.02
+747,218,Industrial chemicals,50,285.181,2.017,True,False,428251.82
+748,218,Steel pipes,28,319.964,2.307,True,False,539937.77
+749,219,Steel pipes,23,439.679,3.192,True,False,317273.55
+750,220,Plastic containers,37,158.063,1.826,False,False,411474.64
+751,220,Office furniture,4,225.793,2.843,False,False,608694.88
+752,221,Steel pipes,1,207.085,1.925,False,False,658191.65
+753,221,Office furniture,14,320.28,1.028,True,False,312353.97
+754,221,Textile rolls,6,379.568,3.372,False,False,276566.7
+755,221,Server rack units,20,176.51,1.899,False,False,539763.85
+756,221,Server rack units,40,212.273,2.595,False,False,796662.76
+757,222,Steel pipes,19,496.031,2.702,False,True,739166.49
+758,222,Cable reels,54,201.765,2.789,True,False,138230.4
+759,222,Consumer electronics,27,584.6,2.468,False,False,509315.29
+760,222,Server rack units,33,599.348,3.601,False,False,585852.32
+761,223,Medical equipment,54,200.093,5.522,False,True,127833.64
+762,223,Medical equipment,48,21.329,4.064,False,True,693716.64
+763,223,Paper products,27,574.63,5.301,False,False,430104.49
+764,223,Server rack units,35,429.429,2.637,False,False,662289.19
+765,223,Cable reels,53,435.64,0.249,False,False,319843.84
+766,224,Industrial chemicals,34,174.481,1.334,False,False,296995.47
+767,224,Medical equipment,46,96.665,3.807,False,False,380490.23
+768,225,Textile rolls,43,568.275,2.061,False,False,247791.97
+769,226,Paper products,12,414.44,3.908,False,False,196447.1
+770,226,Paper products,39,160.926,1.672,False,True,594616.8
+771,226,Textile rolls,58,81.264,1.824,False,False,166581.77
+772,226,Agricultural produce,30,60.766,5.291,False,False,41340.7
+773,226,Consumer electronics,8,266.255,2.861,False,False,80350.79
+774,226,Paper products,37,7.742,2.584,False,False,724038.58
+775,227,Frozen produce,32,99.552,0.403,True,False,345895.93
+776,227,Agricultural produce,22,383.454,3.236,True,False,146533.21
+777,227,Auto spare parts,20,302.064,1.927,False,False,424554.42
+778,227,Agricultural produce,14,343.463,0.936,False,False,125531.99
+779,228,Office furniture,21,270.925,2.558,True,False,315136.99
+780,228,Medical equipment,4,581.271,2.128,False,True,644393.92
+781,228,Plastic containers,46,122.923,3.976,False,False,205115.5
+782,228,Agricultural produce,51,230.679,3.353,False,False,591344.06
+783,228,Paper products,55,165.83,0.456,False,False,128754.15
+784,228,Office furniture,31,571.323,5.681,False,False,625091.74
+785,229,Plastic containers,56,471.969,4.271,False,False,251512.01
+786,230,Plastic containers,36,468.792,3.195,False,False,638973.49
+787,231,Textile rolls,44,461.132,3.199,False,False,523063.35
+788,231,Textile rolls,23,536.16,4.292,False,False,461696.43
+789,231,Server rack units,12,62.336,3.205,False,False,755623.54
+790,231,Textile rolls,5,197.822,1.899,False,False,184468.03
+791,231,Server rack units,18,141.321,5.52,True,False,617990.1
+792,232,Medical equipment,52,305.132,2.873,True,False,407233.84
+793,233,Steel pipes,24,371.298,4.941,False,False,335681.7
+794,233,Cable reels,48,486.032,4.015,True,False,292371.87
+795,233,Plastic containers,32,124.038,2.428,False,False,298860.71
+796,234,Medical equipment,24,574.229,4.014,False,False,77570.43
+797,234,Steel pipes,13,77.248,3.093,False,False,644455.26
+798,234,Textile rolls,7,430.926,1.701,False,False,492204.14
+799,234,Consumer electronics,43,182.063,4.266,False,False,369988.26
+800,234,Industrial chemicals,57,161.502,5.398,False,False,262691.24
+801,235,Construction materials,30,398.622,4.011,False,False,274228.83
+802,235,Textile rolls,28,386.091,5.789,False,False,101419.42
+803,235,Frozen produce,8,331.178,1.781,False,False,698708.74
+804,235,Plastic containers,6,579.843,5.83,False,False,146498.6
+805,235,Textile rolls,13,86.742,4.087,False,False,620841.13
+806,236,Medical equipment,25,540.772,5.832,False,False,715048.72
+807,236,Frozen produce,20,2.211,1.515,False,False,444828.02
+808,236,Steel pipes,39,575.647,0.365,False,False,328595.24
+809,237,Medical equipment,29,180.696,0.758,False,False,594457.93
+810,237,Server rack units,49,546.483,2.055,False,False,218046.18
+811,237,Paper products,8,376.885,2.561,False,False,135180.58
+812,237,Paper products,49,176.082,3.142,False,False,71314.08
+813,237,Paper products,24,146.293,5.101,False,False,395878.18
+814,237,Paper products,41,64.904,4.622,False,False,673938.84
+815,238,Office furniture,38,404.22,5.424,False,True,337752.55
+816,238,Construction materials,42,473.306,5.115,True,False,458889.27
+817,238,Server rack units,52,377.615,4.668,False,False,535420.16
+818,239,Textile rolls,22,212.379,3.234,False,False,644221.96
+819,240,Auto spare parts,22,320.631,2.387,False,False,737046.03
+820,240,Auto spare parts,57,532.696,1.771,False,False,456300.37
+821,240,Frozen produce,53,26.382,3.292,True,False,534183.3
+822,240,Machinery components,45,589.991,1.48,False,False,181053.21
+823,240,Plastic containers,19,147.721,0.134,False,False,489970.3
+824,240,Office furniture,37,116.959,1.124,False,False,415097.83
+825,241,Construction materials,38,262.838,5.719,False,False,137487.27
+826,241,Machinery components,58,209.867,5.207,False,False,118730.16
+827,241,Paper products,18,342.713,5.685,False,False,582344.52
+828,241,Medical equipment,49,565.763,5.917,False,False,172555.71
+829,242,Paper products,45,569.52,2.331,False,False,326355.56
+830,242,Cable reels,12,59.326,2.137,False,False,565956.73
+831,242,Machinery components,17,242.054,1.368,True,False,788516.0
+832,242,Construction materials,7,315.273,0.132,True,False,485124.46
+833,242,Industrial chemicals,11,3.034,5.911,False,True,10556.49
+834,243,Industrial chemicals,32,117.509,0.94,False,False,490746.69
+835,244,Office furniture,9,269.847,1.196,False,False,755425.7
+836,244,Consumer electronics,32,16.253,0.635,False,False,449221.77
+837,244,Construction materials,51,462.903,4.627,False,False,559271.87
+838,245,Office furniture,14,343.545,3.682,False,False,36664.49
+839,245,Cable reels,60,175.684,5.427,False,False,527845.56
+840,245,Server rack units,25,496.29,2.237,False,False,670310.95
+841,245,Consumer electronics,40,401.783,5.293,False,False,338561.06
+842,246,Textile rolls,3,418.209,2.7,True,False,530538.94
+843,246,Industrial chemicals,11,541.526,2.936,False,False,147095.17
+844,246,Frozen produce,44,429.584,4.173,False,False,228203.02
+845,246,Textile rolls,7,457.072,2.375,False,False,708536.91
+846,247,Machinery components,29,443.531,2.658,False,False,615416.69
+847,247,Server rack units,13,461.592,4.352,False,False,35484.44
+848,247,Machinery components,17,553.26,2.107,True,False,160919.11
+849,248,Consumer electronics,25,4.046,0.36,True,False,310328.05
+850,249,Textile rolls,3,277.039,4.267,False,False,433428.07
+851,249,Office furniture,41,213.059,5.652,False,False,337201.95
+852,250,Steel pipes,57,95.718,2.312,False,True,414241.94
+853,250,Paper products,14,232.81,4.005,False,False,219019.33
+854,250,Office furniture,42,242.322,4.693,False,False,158648.89
+855,250,Cable reels,48,80.072,5.588,False,False,253313.58
+856,250,Auto spare parts,41,525.798,4.06,True,False,629676.32
+857,251,Paper products,36,332.288,2.823,False,False,786650.76
+858,251,Agricultural produce,8,398.994,0.888,True,False,356200.66
+859,252,Steel pipes,12,82.696,1.808,True,False,315195.79
+860,253,Cable reels,43,49.986,3.312,False,False,104954.56
+861,253,Office furniture,2,183.021,1.206,True,False,376361.71
+862,253,Agricultural produce,45,226.335,2.207,False,False,410311.08
+863,253,Medical equipment,9,565.858,4.318,False,False,442129.93
+864,254,Server rack units,60,50.531,0.559,False,False,761137.84
+865,254,Construction materials,14,31.899,0.486,False,False,256663.76
+866,254,Frozen produce,46,592.782,3.637,False,False,149258.87
+867,254,Steel pipes,56,38.637,1.118,False,False,5547.56
+868,254,Paper products,57,326.115,5.837,False,False,560123.63
+869,254,Machinery components,55,194.2,5.952,False,False,130357.65
+870,255,Industrial chemicals,5,342.382,4.366,False,False,255591.65
+871,255,Paper products,32,181.548,2.94,False,False,436960.56
+872,255,Industrial chemicals,3,415.137,2.464,False,False,704039.73
+873,255,Steel pipes,26,279.247,5.396,False,False,362015.04
+874,255,Plastic containers,2,524.27,4.732,False,False,305475.15
+875,255,Steel pipes,1,261.76,4.906,False,False,724337.17
+876,256,Consumer electronics,11,204.471,1.871,True,False,494974.91
+877,256,Steel pipes,19,205.976,2.246,False,False,550967.34
+878,256,Industrial chemicals,5,12.59,2.226,False,False,197264.83
+879,256,Agricultural produce,58,188.897,5.495,False,False,778036.03
+880,256,Industrial chemicals,51,199.974,1.174,False,False,102142.71
+881,256,Plastic containers,59,138.898,3.561,False,False,189995.79
+882,257,Textile rolls,39,530.162,1.208,False,False,648677.51
+883,257,Construction materials,8,178.781,0.373,False,False,707874.97
+884,257,Frozen produce,51,226.853,4.207,False,False,682234.46
+885,258,Industrial chemicals,2,378.076,3.882,False,False,316732.39
+886,258,Cable reels,42,171.18,3.398,False,False,455039.44
+887,258,Steel pipes,46,80.856,0.393,True,False,54781.78
+888,258,Industrial chemicals,46,142.538,4.53,True,False,777869.39
+889,258,Machinery components,5,296.489,3.275,False,False,419981.14
+890,259,Textile rolls,36,42.641,1.209,False,True,29286.47
+891,259,Plastic containers,45,50.215,5.291,False,False,407564.33
+892,259,Frozen produce,35,6.395,3.77,False,False,498422.09
+893,259,Textile rolls,11,501.224,4.527,False,False,205394.44
+894,260,Consumer electronics,48,180.569,4.142,False,False,171866.77
+895,260,Plastic containers,4,389.402,1.387,False,False,712220.11
+896,260,Textile rolls,20,9.391,4.979,False,False,688356.23
+897,260,Steel pipes,47,197.761,5.906,False,False,481649.48
+898,260,Textile rolls,39,172.635,5.921,True,False,685958.54
+899,260,Frozen produce,1,511.903,3.719,False,False,685804.2
+900,261,Frozen produce,16,274.236,5.32,False,False,556087.4
+901,261,Office furniture,31,39.844,4.154,False,True,172772.72
+902,261,Server rack units,32,260.628,2.8,False,True,140430.8
+903,261,Paper products,5,575.738,5.259,False,False,568066.44
+904,261,Paper products,2,403.403,5.78,False,True,150861.82
+905,261,Construction materials,42,28.386,3.384,False,False,685670.07
+906,262,Steel pipes,26,224.522,5.901,False,False,613966.97
+907,262,Auto spare parts,32,406.075,2.453,False,False,769128.44
+908,262,Construction materials,22,554.982,3.876,False,False,360889.61
+909,262,Steel pipes,3,207.385,5.511,False,False,786179.92
+910,262,Plastic containers,54,447.387,5.108,False,False,459167.23
+911,263,Server rack units,10,500.941,5.372,False,False,151070.74
+912,263,Frozen produce,52,66.465,0.875,False,False,58229.24
+913,263,Textile rolls,53,127.128,3.833,True,True,761264.68
+914,263,Auto spare parts,8,125.838,4.968,False,False,544544.97
+915,264,Medical equipment,25,25.126,2.93,False,False,724747.39
+916,265,Frozen produce,12,541.553,1.767,False,False,130615.57
+917,265,Medical equipment,44,94.568,5.026,False,False,159698.9
+918,265,Server rack units,48,484.468,5.433,False,False,618083.9
+919,265,Medical equipment,56,410.454,5.075,False,False,183371.65
+920,266,Machinery components,11,53.654,1.129,False,False,157615.38
+921,267,Steel pipes,36,380.771,3.253,False,False,643194.03
+922,267,Auto spare parts,10,516.989,0.417,False,False,410950.98
+923,267,Plastic containers,49,249.278,3.757,False,True,750118.04
+924,267,Textile rolls,28,27.66,1.93,False,False,316005.76
+925,268,Office furniture,59,186.269,5.691,False,False,409396.25
+926,268,Machinery components,38,417.759,5.541,False,False,484361.25
+927,268,Construction materials,22,56.411,2.943,False,True,274256.81
+928,269,Agricultural produce,47,525.935,3.835,False,False,164984.19
+929,269,Medical equipment,57,389.191,2.987,False,False,196884.23
+930,269,Frozen produce,30,323.37,0.887,True,False,484984.01
+931,269,Cable reels,36,590.353,0.03,False,False,151548.01
+932,269,Consumer electronics,60,594.531,3.506,False,False,222034.78
+933,269,Office furniture,28,377.611,2.942,False,False,86909.3
+934,270,Plastic containers,36,351.304,4.576,False,False,137887.95
+935,271,Textile rolls,28,348.623,3.602,False,False,309669.28
+936,271,Office furniture,27,428.03,2.661,False,False,591461.93
+937,271,Medical equipment,2,325.676,1.638,False,False,705504.14
+938,272,Office furniture,26,165.937,4.292,False,False,718812.86
+939,272,Auto spare parts,2,412.522,3.384,False,False,516559.07
+940,272,Office furniture,25,343.851,2.164,False,False,16885.05
+941,273,Steel pipes,18,522.863,1.124,False,False,327866.77
+942,273,Plastic containers,6,373.325,3.44,False,False,626589.05
+943,273,Steel pipes,12,174.369,2.827,False,False,338899.58
+944,273,Frozen produce,13,362.375,0.472,False,False,618382.63
+945,274,Server rack units,8,428.631,0.981,True,False,485005.6
+946,274,Agricultural produce,1,173.747,3.178,False,False,392220.24
+947,274,Construction materials,26,533.498,2.805,False,False,518058.93
+948,274,Cable reels,46,502.901,2.437,False,False,201518.14
+949,274,Industrial chemicals,32,77.491,0.228,False,False,59196.95
+950,274,Industrial chemicals,58,248.623,2.262,False,False,299211.92
+951,275,Industrial chemicals,57,392.752,2.606,False,False,478790.05
+952,275,Industrial chemicals,3,560.518,5.213,False,False,383827.08
+953,275,Paper products,33,101.235,5.953,False,True,117178.25
+954,275,Office furniture,33,132.779,3.131,False,False,19799.81
+955,276,Frozen produce,22,397.049,2.645,True,False,578173.54
+956,276,Server rack units,13,57.727,2.309,True,True,315822.33
+957,276,Plastic containers,9,118.307,3.42,False,False,334362.45
+958,276,Auto spare parts,37,154.578,5.497,False,True,953.3
+959,277,Agricultural produce,47,594.805,0.317,False,False,473558.43
+960,277,Textile rolls,10,333.898,5.068,False,False,175552.57
+961,277,Office furniture,7,419.034,3.04,False,False,330409.7
+962,277,Machinery components,6,147.012,3.742,True,False,758819.05
+963,278,Machinery components,58,57.204,5.821,False,True,646574.74
+964,278,Industrial chemicals,31,108.189,0.81,False,False,786969.0
+965,278,Cable reels,45,215.636,3.436,False,False,32823.65
+966,278,Cable reels,38,51.243,0.247,False,False,670.39
+967,279,Agricultural produce,46,489.154,2.514,False,False,744432.43
+968,279,Server rack units,21,127.907,2.773,True,False,562736.07
+969,279,Paper products,8,90.313,5.989,True,False,101324.74
+970,279,Office furniture,45,193.33,1.443,True,False,385536.61
+971,279,Textile rolls,43,332.168,3.53,False,False,749980.24
+972,279,Server rack units,24,95.606,1.157,False,False,53311.25
+973,280,Agricultural produce,52,369.696,2.03,False,False,84125.5
+974,280,Paper products,14,90.388,4.085,False,False,686290.38
+975,280,Textile rolls,57,318.184,3.547,False,False,741299.29
+976,281,Agricultural produce,16,239.394,2.586,False,False,766930.64
+977,281,Paper products,58,328.834,2.506,False,False,401650.6
+978,281,Consumer electronics,20,461.803,3.983,False,False,397560.16
+979,281,Office furniture,19,468.246,5.133,False,False,740540.51
+980,282,Agricultural produce,12,69.796,2.713,False,False,97590.52
+981,282,Auto spare parts,33,75.014,4.011,False,False,223001.3
+982,282,Paper products,12,233.953,1.144,True,False,755980.1
+983,283,Office furniture,60,547.904,2.971,False,False,616785.79
+984,283,Industrial chemicals,58,27.095,2.723,True,False,3475.53
+985,283,Industrial chemicals,24,389.933,2.499,False,False,670096.53
+986,283,Consumer electronics,54,59.394,3.128,True,False,613017.06
+987,283,Server rack units,36,436.09,2.051,False,False,500144.77
+988,283,Plastic containers,16,188.611,4.935,True,False,235114.33
+989,284,Agricultural produce,52,49.146,0.304,False,False,249535.07
+990,284,Plastic containers,55,49.639,4.28,False,False,748199.84
+991,284,Cable reels,36,395.424,0.612,True,False,323218.0
+992,284,Steel pipes,27,57.595,2.006,True,False,593004.91
+993,284,Agricultural produce,38,4.398,5.35,False,False,34498.62
+994,285,Steel pipes,43,234.288,4.952,False,False,234518.69
+995,285,Cable reels,59,347.842,1.623,True,False,493299.69
+996,285,Consumer electronics,42,363.943,0.019,False,False,92131.27
+997,285,Machinery components,9,346.816,4.889,False,False,464373.19
+998,285,Machinery components,15,598.891,4.472,False,False,585136.36
+999,286,Textile rolls,25,396.393,4.085,False,False,355007.71
+1000,286,Machinery components,25,213.201,5.221,False,False,686561.81
+1001,286,Steel pipes,18,263.596,1.52,True,False,346918.07
+1002,286,Auto spare parts,4,449.498,3.15,False,False,163469.98
+1003,287,Server rack units,56,395.66,4.799,True,False,597249.14
+1004,287,Agricultural produce,7,146.253,1.704,False,False,647863.27
+1005,287,Steel pipes,55,368.929,4.796,False,False,424170.49
+1006,288,Consumer electronics,28,574.586,0.108,False,False,61476.48
+1007,288,Paper products,56,28.238,2.808,True,False,428217.08
+1008,289,Consumer electronics,51,248.262,1.991,False,False,71423.79
+1009,289,Medical equipment,1,257.409,2.1,False,False,285841.29
+1010,290,Agricultural produce,8,435.995,4.347,False,False,293630.61
+1011,291,Medical equipment,54,598.336,3.202,False,False,454051.25
+1012,291,Cable reels,51,268.155,1.901,False,False,485221.91
+1013,292,Industrial chemicals,35,530.884,1.457,False,False,442045.71
+1014,292,Office furniture,17,200.581,0.826,False,False,143058.89
+1015,292,Construction materials,9,482.116,1.331,True,False,509181.38
+1016,292,Industrial chemicals,28,433.11,3.285,False,False,590324.02
+1017,292,Server rack units,55,203.934,0.208,False,False,9717.93
+1018,293,Machinery components,21,228.669,0.7,False,False,731450.08
+1019,293,Consumer electronics,11,52.854,4.878,False,False,480478.46
+1020,293,Agricultural produce,34,546.332,0.469,False,False,140992.11
+1021,294,Textile rolls,46,25.547,2.824,False,False,325682.16
+1022,294,Agricultural produce,36,277.094,2.137,False,False,798993.45
+1023,294,Frozen produce,55,554.936,1.117,False,False,52079.36
+1024,294,Construction materials,56,236.223,5.011,False,False,99849.43
+1025,294,Steel pipes,17,376.096,1.559,False,False,685628.13
+1026,295,Machinery components,30,524.32,4.934,False,False,233654.44
+1027,296,Steel pipes,34,108.716,5.894,False,False,265575.21
+1028,296,Machinery components,4,404.859,2.046,True,False,232112.11
+1029,296,Plastic containers,16,124.375,1.305,False,False,775800.65
+1030,296,Paper products,17,353.099,5.302,False,False,98183.25
+1031,296,Medical equipment,7,55.854,4.271,False,False,364067.76
+1032,297,Auto spare parts,14,492.569,5.984,False,False,24003.88
+1033,297,Textile rolls,36,78.488,3.587,False,False,739499.02
+1034,298,Construction materials,19,67.096,1.761,False,False,185463.93
+1035,298,Plastic containers,38,85.298,5.982,False,False,156167.39
+1036,298,Frozen produce,39,361.975,0.896,False,False,192493.84
+1037,298,Paper products,6,154.578,0.229,False,False,596939.53
+1038,298,Server rack units,27,564.519,0.267,False,False,293785.35
+1039,299,Consumer electronics,4,490.804,3.059,True,False,147131.42
+1040,299,Consumer electronics,32,255.835,3.373,False,False,721983.08
+1041,299,Frozen produce,17,175.66,5.779,False,True,93104.94
+1042,300,Frozen produce,12,561.107,4.291,False,False,362759.8
+1043,300,Office furniture,49,359.515,3.441,False,False,754101.46
+1044,300,Machinery components,25,522.009,3.944,False,False,664310.61
+1045,300,Auto spare parts,47,406.193,4.569,False,False,683434.63
+1046,300,Consumer electronics,35,470.551,3.48,False,False,509603.22
+1047,301,Machinery components,47,138.41,3.644,False,False,260959.58
+1048,301,Construction materials,16,539.316,3.126,False,False,525978.71
+1049,301,Cable reels,19,497.152,5.385,False,False,768036.42
+1050,301,Construction materials,58,417.696,3.664,False,False,273401.11
+1051,301,Office furniture,26,355.126,2.159,False,False,541405.07
+1052,302,Construction materials,31,451.895,0.016,False,False,534339.21
+1053,302,Agricultural produce,57,234.793,5.991,False,False,93868.76
+1054,303,Cable reels,19,235.661,0.359,True,False,754373.28
+1055,303,Server rack units,56,248.164,0.789,False,False,110185.89
+1056,303,Office furniture,56,296.272,3.756,False,False,379574.41
+1057,303,Frozen produce,37,420.17,3.615,True,False,615405.95
+1058,303,Textile rolls,44,321.055,0.412,False,False,156617.19
+1059,304,Consumer electronics,5,535.058,3.276,True,False,246025.05
+1060,304,Frozen produce,56,348.126,0.296,False,False,691366.2
+1061,304,Medical equipment,7,259.834,1.716,False,False,42793.65
+1062,304,Cable reels,7,240.219,3.21,False,False,742183.32
+1063,305,Textile rolls,35,409.556,1.917,False,False,23810.99
+1064,305,Paper products,48,15.705,4.716,False,False,471094.97
+1065,306,Plastic containers,21,404.982,0.526,False,True,314988.74
+1066,306,Frozen produce,22,324.367,2.689,False,False,84368.28
+1067,306,Consumer electronics,5,314.657,4.623,True,False,139784.68
+1068,307,Machinery components,55,441.784,3.078,True,False,503798.06
+1069,307,Cable reels,41,328.324,2.753,True,False,648302.38
+1070,307,Office furniture,6,215.449,1.082,False,False,716209.25
+1071,308,Machinery components,44,315.583,2.398,False,False,149396.63
+1072,308,Industrial chemicals,45,163.058,0.189,False,False,715826.03
+1073,308,Server rack units,47,372.484,4.117,False,False,455570.19
+1074,309,Paper products,44,549.766,1.128,False,False,609317.82
+1075,309,Steel pipes,59,567.125,2.341,False,False,774918.08
+1076,309,Machinery components,56,417.369,2.067,False,False,486546.09
+1077,309,Server rack units,33,65.514,4.267,False,False,295700.53
+1078,309,Server rack units,17,573.843,5.698,False,False,447168.58
+1079,309,Textile rolls,50,408.702,4.951,False,False,179753.26
+1080,310,Agricultural produce,31,437.249,5.704,False,False,78353.62
+1081,310,Steel pipes,3,11.602,3.728,False,False,762208.12
+1082,310,Agricultural produce,7,171.52,4.621,False,False,70166.05
+1083,310,Construction materials,40,318.469,5.986,False,True,557015.06
+1084,311,Industrial chemicals,35,380.039,4.4,False,False,337860.72
+1085,311,Frozen produce,46,505.263,1.735,False,False,401873.92
+1086,311,Steel pipes,6,487.826,2.574,False,True,266169.67
+1087,312,Plastic containers,38,372.737,4.303,False,False,115685.87
+1088,312,Frozen produce,28,270.505,3.828,False,False,353130.53
+1089,312,Paper products,1,79.582,5.077,False,False,787839.58
+1090,312,Plastic containers,14,569.922,0.427,False,False,175141.69
+1091,313,Frozen produce,21,157.684,5.84,False,False,449852.02
+1092,313,Auto spare parts,56,343.589,0.206,False,False,114385.39
+1093,313,Textile rolls,43,445.657,2.301,False,False,526313.45
+1094,313,Machinery components,36,521.68,4.313,False,True,768300.29
+1095,314,Construction materials,43,512.613,0.461,False,False,242907.24
+1096,314,Agricultural produce,11,196.411,2.189,False,False,771339.13
+1097,314,Auto spare parts,14,193.482,5.639,False,False,213789.22
+1098,315,Textile rolls,9,348.588,3.354,True,True,732027.12
+1099,315,Office furniture,44,452.144,0.6,False,False,634690.29
+1100,315,Frozen produce,4,329.692,1.048,False,False,706755.5
+1101,316,Consumer electronics,54,523.351,5.725,False,False,697669.29
+1102,316,Cable reels,2,467.809,3.861,False,False,134400.32
+1103,316,Frozen produce,23,399.077,0.564,False,False,159472.18
+1104,317,Steel pipes,44,55.363,0.685,False,True,322455.68
+1105,317,Machinery components,40,433.559,2.684,False,False,578537.99
+1106,317,Paper products,29,559.577,1.196,False,False,498567.72
+1107,317,Machinery components,13,260.006,2.031,False,False,429150.69
+1108,317,Agricultural produce,43,487.133,4.662,False,False,83351.84
+1109,317,Machinery components,6,172.101,4.741,False,False,546591.85
+1110,318,Machinery components,25,504.108,0.405,True,False,593818.59
+1111,318,Paper products,46,400.836,3.581,False,False,102998.56
+1112,318,Frozen produce,50,60.106,5.814,False,False,95360.94
+1113,318,Cable reels,36,197.33,2.206,True,False,245902.65
+1114,318,Server rack units,17,565.025,5.33,True,False,622927.59
+1115,318,Textile rolls,4,254.631,2.177,False,False,129982.11
+1116,319,Agricultural produce,59,543.248,5.74,False,False,451760.41
+1117,319,Consumer electronics,58,472.53,3.741,False,False,297024.96
+1118,319,Frozen produce,24,172.456,5.063,False,False,756643.24
+1119,320,Textile rolls,7,584.572,4.229,False,False,371032.54
+1120,320,Auto spare parts,7,149.409,2.777,False,False,183736.61
+1121,320,Frozen produce,19,217.95,3.189,False,False,220800.46
+1122,320,Steel pipes,8,423.031,0.158,False,False,452322.4
+1123,320,Frozen produce,44,214.489,2.561,False,False,343873.19
+1124,320,Plastic containers,36,5.269,1.202,False,False,537005.09
+1125,321,Agricultural produce,2,449.916,1.584,False,True,189143.6
+1126,322,Auto spare parts,36,450.444,0.621,True,False,726506.56
+1127,322,Plastic containers,4,292.043,3.43,False,False,198969.32
+1128,322,Consumer electronics,12,128.139,4.136,False,False,412552.8
+1129,322,Auto spare parts,59,70.135,3.667,False,False,645707.22
+1130,322,Steel pipes,11,530.288,5.09,True,False,764625.64
+1131,323,Frozen produce,47,502.096,3.027,False,False,470324.1
+1132,324,Office furniture,54,114.971,3.385,True,False,239994.76
+1133,324,Plastic containers,6,560.621,3.07,False,False,399997.63
+1134,325,Office furniture,38,479.123,4.831,False,False,536187.77
+1135,325,Plastic containers,57,363.639,2.536,False,False,511903.38
+1136,325,Frozen produce,16,432.772,5.614,False,False,343731.94
+1137,325,Office furniture,5,267.48,0.926,True,False,270745.32
+1138,326,Textile rolls,54,69.542,5.377,False,False,795379.71
+1139,326,Textile rolls,39,384.778,0.988,False,False,656688.4
+1140,327,Auto spare parts,18,18.896,3.408,False,False,321950.77
+1141,327,Steel pipes,58,547.109,4.488,False,False,618033.7
+1142,327,Cable reels,37,452.299,3.787,False,False,437590.15
+1143,328,Medical equipment,45,585.203,2.381,False,False,495026.8
+1144,328,Industrial chemicals,37,188.785,5.356,False,False,72691.55
+1145,329,Server rack units,17,197.937,3.601,True,False,303496.85
+1146,329,Consumer electronics,42,344.295,4.844,False,True,239321.34
+1147,329,Agricultural produce,59,227.049,2.257,False,False,692214.53
+1148,329,Agricultural produce,40,262.075,2.99,False,False,40476.88
+1149,329,Industrial chemicals,53,474.721,1.871,False,False,339160.75
+1150,330,Steel pipes,1,417.486,4.055,True,False,128631.18
+1151,331,Cable reels,9,119.139,0.484,False,False,462482.74
+1152,331,Steel pipes,51,538.565,5.587,False,False,218921.1
+1153,331,Steel pipes,17,511.94,3.835,False,False,340278.04
+1154,331,Cable reels,4,123.927,1.515,False,False,588464.9
+1155,331,Construction materials,23,418.468,4.38,True,False,693185.5
+1156,332,Medical equipment,19,462.311,3.693,False,False,589314.95
+1157,332,Office furniture,53,590.007,2.71,False,False,720985.72
+1158,332,Steel pipes,19,387.749,4.074,True,False,133502.93
+1159,332,Cable reels,36,324.26,4.114,False,False,655808.37
+1160,333,Plastic containers,29,285.554,1.727,False,False,724049.88
+1161,333,Frozen produce,18,153.953,5.502,False,True,764431.45
+1162,333,Auto spare parts,35,127.739,3.215,False,False,289624.6
+1163,333,Machinery components,29,423.337,3.319,False,False,12947.89
+1164,334,Office furniture,56,437.882,3.593,False,False,598285.34
+1165,335,Medical equipment,57,3.263,0.388,False,False,417856.24
+1166,335,Plastic containers,59,19.821,5.049,False,False,477694.77
+1167,336,Plastic containers,51,290.588,2.533,False,False,600984.57
+1168,337,Auto spare parts,26,549.852,1.802,False,False,69690.13
+1169,337,Industrial chemicals,15,592.095,0.019,True,False,357893.25
+1170,337,Server rack units,60,549.952,1.62,False,True,495081.7
+1171,337,Textile rolls,50,337.895,1.176,False,False,336042.49
+1172,337,Office furniture,35,435.918,3.392,False,False,324502.5
+1173,337,Cable reels,34,141.98,2.606,False,False,444558.92
+1174,338,Steel pipes,49,566.278,5.385,False,False,295150.75
+1175,339,Agricultural produce,31,201.892,3.53,False,False,359698.64
+1176,339,Steel pipes,57,160.072,4.391,True,False,213487.63
+1177,339,Industrial chemicals,44,177.602,2.922,False,False,668089.15
+1178,339,Industrial chemicals,1,507.263,0.858,False,True,675728.99
+1179,339,Office furniture,37,12.801,4.409,False,False,51163.78
+1180,340,Agricultural produce,25,565.075,3.258,False,False,745020.14
+1181,341,Machinery components,1,574.275,1.546,True,False,560678.52
+1182,342,Machinery components,17,200.71,0.931,False,False,619859.22
+1183,343,Cable reels,21,480.521,2.302,False,False,785127.11
+1184,343,Server rack units,26,549.173,3.246,False,False,265013.23
+1185,344,Industrial chemicals,25,58.663,5.918,False,False,15767.74
+1186,344,Steel pipes,29,409.822,0.333,False,False,562306.4
+1187,344,Cable reels,40,223.828,1.411,False,False,654149.32
+1188,344,Steel pipes,44,107.922,0.014,False,False,66613.05
+1189,344,Server rack units,51,476.744,3.4,True,False,697602.39
+1190,345,Machinery components,38,405.095,3.867,False,True,730807.5
+1191,345,Textile rolls,1,589.575,1.734,False,False,542191.97
+1192,345,Frozen produce,1,123.552,5.385,False,False,95254.73
+1193,345,Agricultural produce,57,130.279,0.283,False,True,489453.94
+1194,345,Machinery components,20,376.863,5.46,False,False,764351.7
+1195,345,Agricultural produce,58,106.209,3.277,False,False,277213.49
+1196,346,Industrial chemicals,37,509.27,1.847,False,True,559261.98
+1197,346,Steel pipes,26,295.484,2.268,False,True,678528.96
+1198,347,Construction materials,3,214.989,0.044,False,False,611562.19
+1199,347,Auto spare parts,17,147.299,0.917,False,False,722330.91
+1200,347,Machinery components,51,83.376,5.566,False,False,225631.11
+1201,347,Construction materials,59,275.01,4.528,False,False,796819.99
+1202,347,Consumer electronics,21,514.611,5.166,False,False,70637.61
+1203,347,Textile rolls,20,102.157,0.288,False,False,762624.38
+1204,348,Auto spare parts,1,110.198,2.594,False,False,765969.45
+1205,348,Agricultural produce,43,104.208,2.122,True,False,728353.42
+1206,348,Office furniture,32,434.228,4.122,True,False,452651.94
+1207,348,Auto spare parts,28,128.439,2.235,False,False,440415.34
+1208,348,Paper products,37,450.276,4.145,False,False,376620.92
+1209,349,Cable reels,36,129.823,1.774,False,False,102404.93
+1210,349,Frozen produce,43,567.418,0.364,False,False,71400.08
+1211,350,Construction materials,46,117.99,5.392,True,False,607563.59
+1212,350,Plastic containers,4,245.48,2.381,True,False,2807.23
+1213,350,Industrial chemicals,39,140.024,4.971,False,False,365805.99
+1214,351,Office furniture,8,253.04,0.094,False,False,45173.73
+1215,351,Agricultural produce,54,251.775,5.819,False,True,314908.35
+1216,352,Steel pipes,9,261.436,5.006,False,False,71223.49
+1217,352,Machinery components,43,84.192,4.974,False,False,275146.37
+1218,352,Machinery components,44,92.481,4.078,False,True,680195.21
+1219,352,Consumer electronics,48,296.809,5.918,True,False,760321.62
+1220,353,Paper products,55,401.74,3.002,False,False,22877.54
+1221,353,Frozen produce,50,437.203,5.498,False,False,451190.53
+1222,353,Frozen produce,26,352.922,5.371,False,False,638091.36
+1223,354,Consumer electronics,19,223.224,3.218,False,False,726652.85
+1224,354,Industrial chemicals,40,550.405,1.845,False,False,70486.92
+1225,354,Office furniture,10,195.212,5.64,False,False,460785.41
+1226,355,Construction materials,7,576.708,4.087,False,False,14948.54
+1227,355,Steel pipes,32,564.208,4.933,False,True,735842.16
+1228,356,Cable reels,51,206.179,4.454,False,False,118496.53
+1229,356,Textile rolls,37,259.125,4.095,False,False,325686.74
+1230,356,Machinery components,59,39.043,4.966,False,False,740037.8
+1231,356,Cable reels,53,264.718,3.227,False,False,20156.99
+1232,357,Agricultural produce,37,415.995,0.749,False,False,734819.19
+1233,357,Textile rolls,45,53.933,5.961,True,False,726792.28
+1234,358,Cable reels,23,496.694,5.16,False,False,546466.97
+1235,358,Consumer electronics,41,416.549,4.89,False,False,181858.13
+1236,358,Paper products,39,106.235,1.731,False,False,682364.85
+1237,358,Office furniture,54,134.792,2.131,False,False,103797.53
+1238,358,Medical equipment,3,282.786,0.559,True,False,39639.47
+1239,359,Industrial chemicals,35,515.999,4.678,False,False,383041.86
+1240,359,Paper products,10,127.472,5.819,False,False,173744.41
+1241,359,Agricultural produce,11,551.946,3.055,False,False,507974.98
+1242,360,Industrial chemicals,18,64.516,1.426,False,False,388710.68
+1243,360,Server rack units,20,463.758,3.923,False,True,259505.11
+1244,360,Agricultural produce,50,232.449,2.414,False,False,46336.87
+1245,360,Auto spare parts,37,497.247,2.846,False,False,292617.32
+1246,361,Server rack units,2,153.665,2.613,True,False,127057.42
+1247,361,Frozen produce,32,59.464,4.376,True,False,72299.41
+1248,362,Steel pipes,15,49.782,3.616,False,False,616507.74
+1249,362,Construction materials,49,18.934,5.755,False,False,556514.57
+1250,362,Textile rolls,35,253.373,1.431,False,False,510103.27
+1251,362,Consumer electronics,58,549.674,4.161,True,False,162810.73
+1252,363,Office furniture,30,238.595,1.862,False,False,532472.33
+1253,363,Auto spare parts,29,356.665,5.541,False,False,707908.41
+1254,363,Plastic containers,57,209.84,4.147,False,True,27502.89
+1255,363,Server rack units,16,213.096,4.197,False,False,376472.69
+1256,363,Medical equipment,18,339.898,3.703,True,False,770327.4
+1257,364,Auto spare parts,30,249.288,1.246,False,False,240117.88
+1258,364,Agricultural produce,59,315.663,5.101,False,False,672476.56
+1259,365,Steel pipes,34,455.924,5.022,True,True,559836.75
+1260,366,Server rack units,31,480.611,0.8,False,True,622307.94
+1261,366,Auto spare parts,18,340.878,5.091,True,False,305510.41
+1262,366,Plastic containers,37,34.655,0.174,False,False,717842.47
+1263,367,Steel pipes,36,223.85,5.311,False,False,237650.41
+1264,367,Textile rolls,60,403.108,0.823,False,False,686451.22
+1265,367,Textile rolls,17,245.133,3.94,False,False,15463.9
+1266,367,Office furniture,27,303.652,4.162,False,False,640896.5
+1267,367,Machinery components,2,21.536,4.751,False,False,790866.98
+1268,368,Cable reels,12,270.176,2.027,False,False,697776.44
+1269,368,Server rack units,9,313.148,0.928,True,False,634669.68
+1270,368,Server rack units,26,345.023,0.656,False,False,163926.74
+1271,369,Steel pipes,2,131.637,4.303,True,False,760633.69
+1272,369,Paper products,30,42.725,5.834,False,False,465431.38
+1273,370,Construction materials,10,473.595,2.82,False,True,119096.19
+1274,370,Agricultural produce,10,191.361,0.25,False,False,764650.44
+1275,370,Paper products,49,321.198,4.279,False,False,731929.05
+1276,370,Auto spare parts,32,150.964,1.134,False,False,458936.04
+1277,371,Steel pipes,57,538.645,0.665,True,False,82067.92
+1278,371,Steel pipes,25,449.566,1.506,False,False,446266.27
+1279,371,Machinery components,19,91.493,0.687,False,False,141329.98
+1280,371,Cable reels,38,527.684,2.301,False,False,766512.16
+1281,371,Frozen produce,45,324.668,1.181,False,False,780941.5
+1282,371,Construction materials,54,13.076,3.018,False,False,415092.67
+1283,372,Cable reels,59,299.809,1.92,False,False,136811.83
+1284,372,Steel pipes,27,50.171,2.402,False,False,434418.19
+1285,372,Consumer electronics,42,222.593,4.354,False,True,126555.5
+1286,372,Server rack units,60,519.082,5.574,False,False,328704.92
+1287,373,Auto spare parts,5,491.715,0.511,False,False,680477.73
+1288,373,Cable reels,5,224.524,1.783,True,False,530365.65
+1289,374,Paper products,48,187.854,4.475,True,False,476836.78
+1290,374,Agricultural produce,12,68.852,0.854,True,True,744164.51
+1291,374,Steel pipes,12,12.23,4.144,False,False,36854.97
+1292,374,Construction materials,51,583.603,1.696,False,False,388735.24
+1293,375,Server rack units,22,117.648,2.382,False,True,698438.06
+1294,375,Textile rolls,52,109.317,1.473,False,True,423803.4
+1295,375,Agricultural produce,23,332.784,0.979,False,False,334634.91
+1296,375,Construction materials,37,460.849,0.384,False,False,361155.94
+1297,375,Steel pipes,30,454.259,5.602,False,False,686306.76
+1298,376,Machinery components,13,540.241,4.304,False,False,122307.47
+1299,376,Paper products,15,210.898,1.129,False,False,589869.91
+1300,377,Machinery components,23,582.022,2.52,False,False,682656.42
+1301,378,Industrial chemicals,40,305.323,3.397,False,False,761963.06
+1302,378,Paper products,43,262.223,3.822,False,False,611315.02
+1303,378,Steel pipes,56,365.482,2.676,False,False,502107.56
+1304,379,Frozen produce,38,322.788,3.204,False,False,797794.58
+1305,379,Machinery components,17,175.429,0.069,False,False,484139.94
+1306,379,Cable reels,57,7.928,5.789,False,False,95054.92
+1307,379,Construction materials,9,576.785,0.244,False,True,320471.7
+1308,379,Industrial chemicals,54,327.53,1.631,False,False,666934.28
+1309,379,Plastic containers,1,334.657,3.242,False,True,444657.83
+1310,380,Construction materials,36,158.113,3.396,False,False,660461.68
+1311,381,Frozen produce,58,557.617,4.913,False,False,299693.08
+1312,381,Consumer electronics,51,467.315,0.71,False,False,728173.87
+1313,381,Plastic containers,9,190.625,2.559,False,False,143019.22
+1314,381,Frozen produce,22,143.075,5.592,False,True,518189.28
+1315,381,Frozen produce,32,185.767,5.406,False,False,243207.41
+1316,382,Construction materials,35,386.238,4.392,False,False,494179.66
+1317,382,Steel pipes,36,196.185,1.094,False,False,535040.41
+1318,382,Construction materials,46,515.812,0.617,False,False,92967.1
+1319,383,Medical equipment,55,540.979,1.227,False,True,267029.35
+1320,383,Agricultural produce,13,76.637,1.314,True,False,66975.14
+1321,383,Office furniture,53,387.297,5.511,False,False,784332.23
+1322,384,Paper products,13,176.937,5.217,False,False,397502.94
+1323,384,Auto spare parts,60,99.226,4.856,False,False,471285.84
+1324,384,Cable reels,53,238.84,3.53,False,False,460685.61
+1325,384,Consumer electronics,17,583.058,2.055,False,True,487868.31
+1326,385,Consumer electronics,53,465.528,2.947,False,False,508270.0
+1327,385,Steel pipes,34,445.655,5.057,True,False,41548.03
+1328,385,Plastic containers,30,439.215,3.659,False,True,717806.62
+1329,386,Construction materials,37,148.965,5.917,True,False,393601.44
+1330,387,Paper products,21,118.705,4.043,True,False,16470.17
+1331,387,Construction materials,51,351.527,0.073,True,False,766841.49
+1332,387,Auto spare parts,31,185.81,3.881,False,False,252461.72
+1333,387,Agricultural produce,37,37.324,3.191,True,False,661168.25
+1334,387,Frozen produce,8,27.544,1.973,False,False,703516.03
+1335,387,Agricultural produce,26,43.668,2.066,False,False,557879.42
+1336,388,Auto spare parts,32,341.724,2.149,True,False,631988.2
+1337,388,Plastic containers,26,573.998,3.685,False,False,528189.7
+1338,388,Consumer electronics,32,110.663,0.179,False,False,127147.16
+1339,388,Steel pipes,25,247.096,2.065,False,False,199874.52
+1340,388,Auto spare parts,17,155.342,4.904,True,False,546524.64
+1341,389,Office furniture,60,14.921,2.476,False,False,637931.58
+1342,389,Paper products,49,516.617,3.959,False,False,485646.33
+1343,390,Textile rolls,33,456.484,5.408,False,False,406052.08
+1344,390,Textile rolls,48,216.768,3.077,False,False,585972.33
+1345,390,Server rack units,29,10.327,1.514,False,False,186422.27
+1346,390,Machinery components,8,565.364,2.101,False,False,410364.54
+1347,390,Agricultural produce,12,327.881,2.381,False,True,279270.31
+1348,391,Steel pipes,40,187.121,5.729,False,False,738915.74
+1349,391,Steel pipes,30,18.84,4.384,False,False,446637.74
+1350,391,Industrial chemicals,56,560.114,2.447,True,False,147074.13
+1351,391,Plastic containers,20,476.484,1.121,False,False,11684.03
+1352,391,Consumer electronics,14,105.09,0.607,True,False,427088.74
+1353,391,Server rack units,25,316.453,0.604,False,False,305495.26
+1354,392,Medical equipment,27,575.145,3.505,False,False,8476.13
+1355,392,Agricultural produce,4,59.276,1.468,False,True,267163.91
+1356,393,Frozen produce,32,87.236,0.729,False,False,643509.85
+1357,393,Medical equipment,50,169.038,2.451,True,False,89943.79
+1358,393,Medical equipment,52,595.7,0.42,False,False,667470.55
+1359,393,Frozen produce,4,589.984,0.877,False,False,180853.52
+1360,394,Paper products,27,49.184,2.799,False,False,654763.78
+1361,394,Industrial chemicals,44,82.094,5.689,False,False,661815.41
+1362,394,Auto spare parts,25,24.159,0.644,False,False,460190.48
+1363,394,Construction materials,38,553.468,0.555,False,False,644435.85
+1364,395,Consumer electronics,9,53.281,1.812,False,False,40756.35
+1365,395,Office furniture,60,494.68,5.363,False,False,779601.0
+1366,395,Frozen produce,9,500.496,4.715,False,False,783728.11
+1367,395,Auto spare parts,18,270.53,5.704,False,False,403583.66
+1368,395,Plastic containers,27,192.5,2.596,True,True,118853.35
+1369,396,Consumer electronics,2,348.628,5.137,False,False,74330.05
+1370,397,Cable reels,33,167.843,1.323,True,False,347932.35
+1371,397,Industrial chemicals,29,51.324,0.586,True,False,705963.19
+1372,397,Agricultural produce,42,222.889,1.562,False,False,401248.18
+1373,397,Plastic containers,10,583.721,1.143,False,True,208189.5
+1374,397,Server rack units,14,195.717,1.443,False,False,330591.92
+1375,398,Auto spare parts,2,486.448,4.241,False,False,431490.36
+1376,398,Agricultural produce,9,392.266,3.085,False,True,477372.57
+1377,398,Cable reels,58,235.867,0.212,True,False,277647.17
+1378,398,Industrial chemicals,21,543.091,2.811,False,False,631840.07
+1379,398,Medical equipment,20,97.542,5.584,True,False,275880.43
+1380,398,Steel pipes,11,372.613,5.955,False,False,448230.94
+1381,399,Steel pipes,57,447.891,1.063,False,False,786895.55
+1382,399,Machinery components,41,257.475,2.112,False,False,100512.21
+1383,399,Agricultural produce,46,225.808,2.992,False,False,343791.89
+1384,399,Frozen produce,50,534.941,5.482,False,True,603258.56
+1385,399,Medical equipment,57,184.666,1.074,False,False,115889.09
+1386,399,Consumer electronics,41,181.308,4.953,True,False,20609.99
+1387,400,Steel pipes,60,419.876,2.407,False,True,122537.88
+1388,400,Plastic containers,60,373.598,2.657,False,False,798232.94
+1389,400,Plastic containers,55,163.198,3.745,True,False,378907.33
