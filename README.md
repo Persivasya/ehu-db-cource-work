@@ -126,3 +126,10 @@ This will regenerate all files in the csv_data folder.
 
 ### Entity-relation summary
 ![no image lol](photo_2026-06-11_21-09-24.jpg)
+
+### Data transformation im Power BI
+
+- All cities in dim_geography transformed to uppercase.
+- Added calculatable column overdue_category.
+- Added hierarchies for geography and calendsr.
+- 
